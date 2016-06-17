@@ -1,0 +1,3608 @@
+非洲	アフリカ
+日本	日本
+南美洲	南アメリカ
+Nò-vî	ノルウェー
+Sû-kak-làn	スコットランド
+Vî-ngì-sṳ̂	ウェールズ
+Pet Oi-ngì-làn	北アイルランド
+Hiûng-ngà-li	ハンガリー
+Sî-pân-ngà	スペイン
+Mî-koet	アメリカ合衆国
+Pí-li-sṳ̀	ベルギー
+Lù-sêm-pó	ルクセンブルク
+Yî-chhiu	宇宙
+Thi-khiù	地球
+Sâng-miang	生命
+Ngìn-lui	ヒト
+George Washington	ジョージ・ワシントン
+Fûn-làn	フィンランド
+Shuì-tién	スウェーデン
+Tan-ma̍k	デンマーク
+Pô-làn	ポーランド
+Li̍p-thâu-vón	リトアニア
+Yi-thai-li	イタリア
+Shuì-sṳ	スイス
+O-thi-li	オーストリア
+Hî-lia̍p	ギリシャ
+Thú-ngí-khì	トルコ
+Phù-thò-ngà	ポルトガル
+歐洲	ヨーロッパ
+亞洲	アジア
+北美洲	北アメリカ
+南極洲	南極大陸
+Vì-kî Pak-khô	ウィキペディア
+Hò-làn	オランダ
+Néu-yok-sṳ	ニューヨーク
+Fà-sṳ̀n-tun Kô-lùn-pí-â Thi̍t-khî	ワシントンD.C.
+Khiu-kîm-sân	サンフランシスコ
+Pak-lìm	ベルリン
+Lo̍k-chhám-kî	ロサンゼルス
+Thien-nó	コンピュータ
+Mióng-chi-mióng-lu	インターネット
+Barack Obama	バラク・オバマ
+Vû-lâ-kûi	ウルグアイ
+Lùn-tûn	ロンドン
+Phìn-kó	リンゴ
+Pâ-lì-sṳ	パリ
+Â-pak-lâ-hón Lìm-khén	エイブラハム・リンカーン
+Google	Google
+Me̍t-sî-kô	メキシコ
+Thai-sî-yòng	大西洋
+Thai-phìn-yòng	太平洋
+Kâ-li-fuk-nì-â	カリフォルニア州
+Pô-sṳ-tun	ボストン
+Fó-sên	火星
+Âi-set-ngò-pí-â	エチオピア
+Sṳ̂-é	ライオン
+Fap-koet	フランス
+Sṳ-kie-ngî	エスペラント
+Kiéu-è	イヌ
+Yîn-koet	イギリス
+Meu-é	ネコ
+中華人民共和國	中華人民共和国
+Fap-ngî	フランス語
+Ǹg-è	魚類
+Pâ-sî	ブラジル
+François Hollande	フランソワ・オランド
+Ngò-lò-sṳ̂	ロシア
+Kîn-ǹg	クジラ目
+Chang-fông-hìn	正方形
+Tô-lùn-tô	トロント
+Â-lâ-pâ-mâ	アラバマ州
+Québec-sén	ケベック州
+Boeing 747	ボーイング747
+Jimmy Wales	ジミー・ウェールズ
+Tet-koet	ドイツ
+Pha̍k-ngò-lò-sṳ̂	ベラルーシ
+Tet-ngî	ドイツ語
+Pên-tó	アイスランド
+Song-ti	神
+Oi-sâ-nì-â	エストニア
+David Cameron	デーヴィッド・キャメロン
+Thú-sên	土星
+Ku-thin-yi̍t Fî-kî	飛行機
+1	1
+2	2
+3	3
+4	4
+5	5
+George W. Bush	ジョージ・W・ブッシュ
+Lâ-thot-vì-â	ラトビア
+Vû-khiet-làn	ウクライナ
+Tshia̍p-khiet	チェコ
+Sṳ̂-lo̍k-vì-nì-â	スロベニア
+Lò-mâ-nì-â	ルーマニア
+Pó-kâ-li-â	ブルガリア
+Lò-mâ	ローマ
+Mâ-khì-tun	マケドニア共和国
+Â-ngì-pâ-nì-â	アルバニア
+Khiet-lò-âi-sî-â	クロアチア
+Pô-sṳ-nì-â lâu Het-set-kô-vì-ná	ボスニア・ヘルツェゴビナ
+Â-set-pai-kiông	アゼルバイジャン
+Set-phû-lu-sṳ̂	キプロス
+Kak-lû-kit-â	グルジア
+Hâ-sat-khiet-sṳ̂-thán	カザフスタン
+Mí-li-thai	マルタ
+Mô-na̍p-kô	モナコ
+Mùng-thi̍t-nui-kô-lò	モンテネグロ
+Sṳn Mâ-li-nok	サンマリノ
+Kú-pâ	キューバ
+Eiffel Thiet-thap	エッフェル塔
+Yin-thu-nì-sî-â	インドネシア
+Wolfgang Amadeus Mozart	ヴォルフガング・アマデウス・モーツァルト
+Pi-tô-fûn	ルートヴィヒ・ヴァン・ベートーヴェン
+Thú-ngí-khì-ngî	トルコ語
+Nàm-fî	南アフリカ共和国
+Vû-tsṳ̂-phe̍t-khiet-sṳ̂-thán	ウズベキスタン
+Pô-tsṳ-nàm	ポズナン
+Fà-sâ	ワルシャワ
+Súi	水
+Thien-sṳ	テレビ
+Chṳ-li	チリ
+Yâ-sû	イエス・キリスト
+Súi-sên	水星
+Li̍t-sṳ́	歴史
+Phìn-kó Kûng-sṳ̂	アップル インコーポレイテッド
+Kîm-sên	金星
+Ngî-ngièn	言語
+Muk-sên	木星
+Thiên-vòng-sên	天王星
+Pu-lie̍t-thap-nì	ブルターニュ
+Hói-vòng-sên	海王星
+Thiên-vùn-ho̍k	天文学
+Sîn-kâ-po	シンガポール
+Khô-ho̍k	科学
+Montréal	モントリオール
+Lie̍t-kî-tûn-sṳ-tên	リヒテンシュタイン
+Kiam-khiâu	ケンブリッジ
+Thi-ngi-chhṳ Sṳ-kie Thai-chan	第二次世界大戦
+Cologne	ケルン
+Kak-tên-nì-â	グディニャ
+Sṳ̍p-chhiet-chhiâng	シュチェチン
+Sṳ-ho̍k	数学
+Lâ-tên-ngî	ラテン語
+Pâ-lìm	バーレーン
+Â-mî-nì-â	アルメニア
+Set-ngì-vì-â	セルビア
+Ngie̍t-khiù	月
+Àu-thai-li-â	オーストラリア
+Vu̍t-lî-ho̍k	物理学
+Â-kîn-thìn	アルゼンチン
+Pi-lû	ペルー
+Sâng-vu̍t-ho̍k	生物学
+Tsêu-siên Mìn-tsú Tsú-ngi Ngìn-mìn Khiung-fò-koet	朝鮮民主主義人民共和国
+Kán-pu-chhài	カンボジア
+Khiúng-liùng	恐竜
+Yî-sṳ̂-làn-kau	イスラム教
+Lech Wałęsa	レフ・ヴァウェンサ
+Lin-é	車輪
+Lyon	リヨン
+Êu-chû Lièn-mèn	欧州連合
+Rhône-Alpes	ローヌ＝アルプ地域圏
+Chhiòn-khiù Chṳ̂-sín Mióng	World Wide Web
+Ńg-ngìn	女性
+Khiûng-tsiâu	バナナ
+Fâ	花
+Mâ-lî-â-na̍p-hói	マリアナ海溝
+Chû-mu̍k-lòng-mâ-fûng	エベレスト
+Sàng-sṳ	都市
+Nâ-pho-lùn yit-sṳ	ナポレオン・ボナパルト
+Ngit-tèu	太陽
+Pâ-sṳ-tet	ルイ・パスツール
+大洋洲	オセアニア
+Thai-yòng Hì	太陽系
+Pô-lò-tit-hói	バルト海
+Ngâ-chhṳ	歯
+Khîn	水素
+Hoi (氦)	ヘリウム
+Angela Merkel	アンゲラ・メルケル
+Lî	リチウム
+Phì	ベリリウム
+Si	本
+Ngit	日
+Ngièn	年
+Sṳ-ki	世紀
+Lò-tsṳ (Pô-làn)	ウッチ
+Khà-thok-vì-chṳ	カトヴィツェ
+Ngie̍t-sû-fû	ジェシュフ
+Phìn	ホウ素
+Thàn	炭素
+Tham	窒素
+Yòng	酸素
+Hàng-sên	惑星
+Yîm-ngo̍k	音楽
+Rennes	レンヌ
+Mo̍k-sṳ̂-khô	モスクワ
+Fuk	フッ素
+Yi-thai-li-ngî	イタリア語
+Nái	ネオン
+Sṳn Pí-tet-páu	サンクトペテルブルク
+Na̍p	ナトリウム
+北	北
+Mî	マグネシウム
+Lî (鋁)	アルミニウム
+Néu Sî-làn	ニュージーランド
+南	南
+Yin-thu	インド
+Si̍t	ケイ素
+Fap	フランシウム
+Lìn	リン
+Thiet	鉄
+Tûng-kâ	トンガ
+西	西
+Liù-vòng	硫黄
+東	東
+Liu̍k	塩素
+Pâ-pu-â Néu-kí-nui-â	パプアニューギニア
+Vî-lièn Sâ-sṳ-pí-â	ウィリアム・シェイクスピア
+Â (氬)	アルゴン
+Kap	カリウム
+Koi	カルシウム
+Yèn	鉛
+Mùng-kú-koet	モンゴル国
+Khong (鈧)	スカンジウム
+Thai	チタン
+Genghis Khan	チンギス・カン
+Fàm	バナジウム
+Mien-yîn	メイン州
+Kok	クロム
+Mâ	ウマ
+Thûng-vu̍t	動物
+Sû-li-nàm	スリナム
+Màng	マンガン
+Pâ-lâ-kûi	パラグアイ
+Koi-â-nâ	ガイアナ
+Ngi-su̍t	芸術
+Lòi	レニウム
+Kô-lùn-pí-â	コロンビア
+Kû	コバルト
+Vû	タングステン
+Ngiap (鎳)	ニッケル
+Fu̍t-kau	仏教
+Pô-li-vì-â	ボリビア
+Tshṳ̀-nì-tha̍t lâu Tô-pâ-kô	トリニダード・トバゴ
+Chhṳ̍t-vu̍t	植物
+Sîn	亜鉛
+Néu Hàn-pu-ha	ニューハンプシャー州
+Pí-â-vùi-sṳ̂-thok-khiet	ビャウィストク
+Ngà-mâi-kâ	ジャマイカ
+Mà-sat-chû-set	マサチューセッツ州
+Drenthe-sén	ドレンテ州
+Overijssel-sén	オーファーアイセル州
+Kûa-thi-mâ-là	グアテマラ
+Gelderland-sén	ヘルダーラント州
+Pâ-hâ-mâ	バハマ
+Không-nái-tí-khiet-chû	コネチカット州
+Kiê-é	ニワトリ
+Ha-vî-yî	ハワイ州
+Fùng-tû-lâ-sṳ̂	ホンジュラス
+Tô-mí-nì-kâ	ドミニカ国
+Tô-mí-nì-kâ Khiung-fò-koet	ドミニカ共和国
+Kâ-chû (Thung-vu̍t)	ブタ
+Hói-thi	ハイチ
+Sat-ngì-ngá-tô	エルサルバドル
+Yî-lóng	イラン
+Yî-là-khiet	イラク
+Â-lâ-sṳ̂-kâ	アラスカ州
+Kô-sṳ̂-tha̍t Lì-kâ	コスタリカ
+Yî-set-lie̍t	イスラエル
+Pâ-nâ-mâ	パナマ
+Ya̍p-mùn	イエメン
+Phiang-thu̍k	ウイルス
+Pô-làn-ngî	ポーランド語
+Yok-tan	ヨルダン
+Nì-kâ-lâ-kûa	ニカラグア
+Fu-lò-lî-tha̍t	フロリダ州
+Kit-ngí-kit-sṳ̂-thán	キルギス
+Â-li-sông-ná	アリゾナ州
+Khô-vî-thi̍t	クウェート
+Liàu-koet	ラオス
+Lì-pâ-nun	レバノン
+O-le̍t-kông	オレゴン州
+Mâ-ngì-thoi-fû	モルディブ
+Yù-thâ	ユタ州
+Mâ-lòi-sî-â	マレーシア
+Mién-thien	ミャンマー
+Nì-pok	ネパール
+Â-man	オマーン
+Pâ-kî-sṳ̂-thán	パキスタン
+Khà-tha̍t	カタール
+Mióng-khiù	テニス
+Sâ-vû-thi Â-lâ-pak	サウジアラビア
+Sṳ̂-lî-làn-khà	スリランカ
+Si-li-â	シリア
+Kâ	ガリウム
+Thap-kit-khiet-sṳ̂-thán	タジキスタン
+中華民國	中華民国
+YouTube	YouTube
+Châ	ゲルマニウム
+Thai-koet	タイ王国
+Sṳ̂n	ヒ素
+Thú-khû-man-sṳ̂-thán	トルクメニスタン
+Abakan	アバカン
+Sî	セレン
+Yî	イリジウム
+Â-lâ-pak Lièn-ha̍p Thai-kûng-koet	アラブ首長国連邦
+Tshiù (溴)	臭素
+Pha̍k (鉑)	白金
+Ye̍t-nàm	ベトナム
+Thai-hòn Mìn-koet	大韓民国
+Khiet	クリプトン
+Â-fu-hon	アフガニスタン
+J. R. R. Tolkien	J・R・R・トールキン
+Lù	ルビジウム
+Kîm	金
+Men-kâ-lâ-koet	バングラデシュ
+Ufa	ウファ
+Ôn-kô-lâ	アンゴラ
+Vùn-lòi	ブルネイ
+Kúng	水銀
+Fî-li̍t-pîn	フィリピン
+Thò	タリウム
+Ngie-sat-khiet Ngiù-tun	アイザック・ニュートン
+Albert Einstein	アルベルト・アインシュタイン
+Sṳ̂	ストロンチウム
+Yet	イットリウム
+Pit	ビスマス
+Vòng-set	黄色
+Tsan-pí-â	ザンビア
+Sîn-pâ-pu-vî	ジンバブエ
+北京	北京市
+Tuva Khiung-fò-koet	トゥヴァ共和国
+Pok-tshṳ-ngá-na̍p	ボツワナ
+Pho (釙)	ポロニウム
+Bayern	バイエルン州
+Baden-Württemberg	バーデン＝ヴュルテンベルク州
+Ngo (砈)	アスタチン
+Lòi-sò-thok	レソト
+Mâ-tha̍t-kâ-sṳ̂-kâ	マダガスカル
+Mâ-là-vî	マラウイ
+Stuttgart	シュトゥットガルト
+Màu-li-thap-nì-â	モーリタニア
+Pô-làn-ngìn	ポーランド人
+Mo̍k-sông-pí-khiet	モザンビーク
+Na̍p-mí-pí-â	ナミビア
+Nai-khi̍p-li-â	ナイジェリア
+Ko	ジルコニウム
+Nì	ニオブ
+Yû-li-vû-sṳ̂ Khái-sat	ガイウス・ユリウス・カエサル
+Sṳ̂-vî-sṳ-làn	スワジランド
+Muk	モリブデン
+Thap	テクネチウム
+Hamburg	ハンブルク
+Thoi-chhia	代謝
+Miên-yi̍t Hì-thúng	免疫系
+Lièn-ha̍p-koet	国際連合
+Sîm-chhong	心臓
+Thèu-nó	脳
+Phì-fû	皮膚
+Ló	ロジウム
+Làm-set	青
+Pâ	パラジウム
+Ngiùn	銀
+Kak	カドミウム
+Yîn	インジウム
+Siak	スズ
+Yu	ウラン
+Thi (銻)	アンチモン
+Ti	テルル
+Pu	プルトニウム
+Tièn	ヨウ素
+Nai	ネプツニウム
+Set	セシウム
+Phù	プロトアクチニウム
+Pi	バリウム
+Thú	トリウム
+Kap (鉿)	ハフニウム
+Than (鉭)	タンタル
+Luì	ラジウム
+Tûng	ラドン
+Alsace	アルザス地域圏
+Auvergne	オーヴェルニュ地域圏
+Ôn-tet-là-pâng	アーンドラ・プラデーシュ州
+Me̍t-hiet-kîn	ミシガン州
+Burgundy	ブルゴーニュ地域圏
+Aquitaine	アキテーヌ地域圏
+Schleswig-Holstein	シュレースヴィヒ＝ホルシュタイン州
+Hâ Saxony	ニーダーザクセン州
+Pet Rhine-Westphalia	ノルトライン＝ヴェストファーレン州
+Saxony	ザクセン州
+Yî-li-nò	イリノイ州
+Thuringia	テューリンゲン州
+Saxony-Anhalt	ザクセン＝アンハルト州
+Pet Tha̍t-khô-thâ	ノースダコタ州
+Brandenburg	ブランデンブルク州
+Bremen-chû	ブレーメン州
+Nàm Tha̍t-khô-thâ	サウスダコタ州
+Mùng-thai-nâ	モンタナ州
+Fài-ngò-mìn	ワイオミング州
+Yâ-lu-sat-lâng	エルサレム
+Oi-tha̍t-hòt	アイダホ州
+Fà-sṳn-tun	ワシントン州
+Lù (鑪)	ラザホージウム
+Nui-fà-tha̍t	ネバダ州
+Hàn (𨧀)	ドブニウム
+Hí (𨭎)	シーボーギウム
+Yin-thu-yòng	インド洋
+Khô-sò-vok	コソボ
+Kâ-le̍t-pí-hói	カリブ海
+Pô (𨨏)	ボーリウム
+Het (𨭆)	ハッシウム
+Phan Kî-vùn	潘基文
+Ma̍k (䥑)	マイトネリウム
+Khô-lò-là-tô	コロラド州
+Tha̍t	ダームスタチウム
+Siau-pâng	フレデリック・ショパン
+Lùn	レントゲニウム
+Kô (鎶)	コペルニシウム
+分類:Chú-yeu fûn-lui	Category:主要カテゴリ
+Chi-kâ-kô	シカゴ
+Arnhem	アーネム
+Tûng-kui	冬
+Sî-pân-ngà-ngî	スペイン語
+Fî-là-thiet-fî	フィラデルフィア
+Tî-tû	クモ
+Hèu-è	サル
+Kîm-tshièn	貨幣
+Vì-kit-nì-â	バージニア州
+Sî Vì-kit-nì-â	ウェストバージニア州
+Tshiâng-tséu	トウガラシ
+Néu-yok-chû	ニューヨーク州
+Sṳ (鈰)	セリウム
+Phú	プラセオジム
+Lò-tet-tó	ロードアイランド州
+Ńg	ネオジム
+Khûn-chhùng	昆虫
+Mâ-lî-làn	メリーランド州
+Thi̍t-lâ-ngá	デラウェア州
+Yû (銪)	ユウロピウム
+Ngò-hài-ngò	オハイオ州
+Vì-kit-ngì	ウェルギリウス
+Machiavelli	ニッコロ・マキャヴェッリ
+Pîn-sé-fap-nì-â	ペンシルベニア州
+Uetersen	ユーテルゼン
+O-kú-sṳ̂-tû	アウグストゥス
+Néu Chhe̍t-sî-chû	ニュージャージー州
+Fûn-làn-ngî	フィンランド語
+Yin-thi-ôn-na̍p	インディアナ州
+Vì-sṳ̂-pha-siên	ウェスパシアヌス
+Thù-là-chṳ̂n	トラヤヌス
+Hâ-tet-liòng	ハドリアヌス
+Khièu-tshṳ-â	ジョージア州
+Mâ-khù-sṳ̂ O-lie̍t-lî-vû-sṳ̂	マルクス・アウレリウス・アントニヌス
+Zagreb	ザグレブ
+Tet-khiet-sat-sṳ̂	テキサス州
+Thai-mí-ngì-na̍p-tet-pâng	タミル・ナードゥ州
+Pet Khà-lò-lòi-na̍p	ノースカロライナ州
+Nàm Khà-lò-lòi-na̍p	サウスカロライナ州
+Loire-sén	ロワール川
+Pâ-set-lò-nâ	バルセロナ
+Vòng-lî	パイナップル
+Me̍t-sî-sî-pí	ミシシッピ州
+Thièn-na̍p-sî	テネシー州
+Néu Me̍t-sî-kô	ニューメキシコ州
+Mìn-nì-sû-tha̍t	ミネソタ州
+Vî-sṳ̂-không-sîn	ウィスコンシン州
+Oi-hò-fà	アイオワ州
+Nui-pu-lâ-sṳ̂-kâ	ネブラスカ州
+Khâm-sat-sṳ̂	カンザス州
+Yin-thi-ngî	ヒンディー語
+Me̍t-sû-lî	ミズーリ州
+Lu-yi-sṳ̂-ôn-ná	ルイジアナ州
+Khén-thap-kî	ケンタッキー州
+Â-khén-set	アーカンソー州
+Neil Armstrong	ニール・アームストロング
+O-khiet-lâ-hò-mâ	オクラホマ州
+Pet-hói	北海
+Mo̍k-sṳ̂-khô-chû	モスクワ州
+Kiel	キール (ドイツ)
+Schwerin	シュヴェリーン
+Potsdam	ポツダム
+Hanover	ハノーファー
+Düsseldorf	デュッセルドルフ
+Mainz	マインツ
+Wiesbaden	ヴィースバーデン
+Saarbrücken	ザールブリュッケン
+Mu-nì-het	ミュンヘン
+Erfurt	エアフルト
+Dresden	ドレスデン
+Kaliningrad-chû	カリーニングラード州
+Murmansk-chû	ムルマンスク州
+Kak-than-sṳ̂-khiet	グダニスク
+Fap-làn-khiet-fuk	フランクフルト・アム・マイン
+Fut-lò-tshṳ-ngá-fû	ヴロツワフ
+Làn	ランタン
+Ki (鉕)	プロメチウム
+Sân	サマリウム
+Â-chhè Thi̍t-phe̍t Hàng-chṳn-khî	アチェ州
+Nga̍t (釓)	ガドリニウム
+Thi̍t (鋱)	テルビウム
+Tit (鏑)	ジスプロシウム
+Sṳn-kîn	聖書
+Fó	ホルミウム
+Ngí (鉺)	エルビウム
+Tiû	ツリウム
+Yi	イッテルビウム
+Liu	ルテチウム
+Hò-nui-sṳ	ハノイ
+Chṳ̂n Yâ-sû Kau-fi	真イエス教会
+Yîn-ngî	英語
+Màn-kuk	バンコク
+Kit-lùng-po	クアラルンプール
+Pâng-kâ Vú-lî-thung-sén	バンカ・ブリトゥン州
+Thòi-pet-sṳ	台北市
+Mî (鋂)	アメリシウム
+Arkhangelsk-chû	アルハンゲリスク州
+Khiu̍k	キュリウム
+Thùng-hói-sṳ	ドンホイ
+Concepción	コンセプシオン (チリ)
+Pet (鉳)	バークリウム
+Khà (鉲)	カリホルニウム
+Mìn-kú-lû-sén	ブンクル州
+Oi	アインスタイニウム
+Fi	フェルミウム
+Mùn	メンデレビウム
+Na	ノーベリウム
+Ontario-sén	オンタリオ州
+Lò	ローレンシウム
+Karelia Khiung-fò-koet	カレリア共和国
+Końskowola	コィンスコヴォラ
+2002-ngièn	2002年
+2008-ngièn	2008年
+Charles de Gaulle	シャルル・ド・ゴール
+Cham-pî-sén	ジャンビ州
+Komi Khiung-fò-koet	コミ共和国
+Nâm-póng-sén	ランプン州
+Pet Sû-mùn-tap-lia̍p-sén	北スマトラ州
+Syktyvkar	スィクティフカル
+Québec-sṳ	ケベック・シティー
+Nenets Chhṳ-chhṳ-khî	ネネツ自治管区
+Liàu-nui-sén	リアウ州
+Leningrad-chû	レニングラード州
+Pskov-chû	プスコフ州
+Liàu-nui Khiùn-tó-sén	リアウ諸島州
+Nizhny Novgorod-chû	ニジニ・ノヴゴロド州
+Nàm Sû-mùn-tap-lia̍p-sén	南スマトラ州
+Lò-mâ Ti-koet	ローマ帝国
+Mì-ngiôn Kûng-sṳ̂	マイクロソフト
+Tver-chû	トヴェリ州
+Khù-lû-fû	クルフ
+Fa-ho̍k	化学
+Smolensk-chû	スモレンスク州
+Yaroslavl-chû	ヤロスラヴリ州
+Kostroma-chû	コストロマ州
+Ivanovo-chû	イヴァノヴォ州
+Arnold Schwarzenegger	アーノルド・シュワルツェネッガー
+Chiuk-khiù	サッカー
+Ryazan-chû	リャザン州
+IPhone	IPhone
+Sî Sû-mùn-tap-lia̍p-sén	西スマトラ州
+Tula-chû	トゥーラ州
+IPad	IPad
+Mâ-tet-lî	マドリード
+Bryansk-chû	ブリャンスク州
+Michael Jackson	マイケル・ジャクソン
+Kaluga-chû	カルーガ州
+Loire-Atlantique-sén	ロワール＝アトランティック県
+Ain-sén	アン県
+Allier-sén	アリエ県
+Khâm-phì-là	キャンベラ
+Sông Alpes-sén	オート＝アルプ県
+Oryol-chû	オリョール州
+Sit-nì	シドニー
+Alpes-de-Haute-Provence-sén	アルプ＝ド＝オート＝プロヴァンス県
+Liu̍k-set	緑
+Alpes-Maritimes-sén	アルプ＝マリティーム県
+Hâ-tet-sùn-hò	ハドソン川
+Me̍t-ngì-pún	メルボルン
+Fùng-set	赤
+Ardèche-sén	アルデシュ県
+Jena	イェーナ
+Kursk-chû	クルスク州
+Ariège-sén	アリエージュ県
+Aude-sén	オード県
+Aveyron-sén	アヴェロン県
+Sîn Nàm Vî-ngì-sṳ̂-chû	ニューサウスウェールズ州
+Bouches-du-Rhône-sén	ブーシュ＝デュ＝ローヌ県
+Àu-thai-li-â Sú-tû Liâng-thi	オーストラリア首都特別地域
+Cantal-sén	カンタル県
+Belgorod-chû	ベルゴロド州
+Côte-d'Or-sén	コート＝ドール県
+Côtes-d'Armor-sén	コート＝ダルモール県
+Drôme-sén	ドローム県
+Finistère-sén	フィニステール県
+Voronezh-chû	ヴォロネジ州
+Sû-mùn-tap-lia̍p	スマトラ島
+Lipetsk-chû	リペツク州
+Van-tan-sén	バンテン州
+Chûng Cháu-ôa-sén	中部ジャワ州
+Fùi-sên	彗星
+Rostov-chû	ロストフ州
+Tûng Cháu-ôa-sén	東ジャワ州
+Ngâ-kâ-tha̍t Sú-tû Thi̍t-khî	ジャカルタ
+Sî Cháu-ôa-sén	西ジャワ州
+Adygea Khiung-fò-koet	アディゲ共和国
+Ngit-ngiâ Thi-fông Thi̍t-khî	ジョグジャカルタ特別州
+Gera	ゲーラ
+Maykop	マイコープ
+Cháu-ôa-tó	ジャワ島
+Kâ-lî-man-tân-chû	カリマンタン
+Séu Sùn-thâ Khiùn-tó	小スンダ列島
+Sû-lâ-vî-sî-tó	スラウェシ島
+Mô-lu̍k-kâ Khiùn-tó	モルッカ諸島
+Chûng Kâ-lî-man-tân-sén	中部カリマンタン州
+Tûng Kâ-lî-man-tân-sén	東カリマンタン州
+Nàm Kâ-lî-man-tân-sén	南カリマンタン州
+Kâ-li-sî-â	ガリシア州
+Sî Kâ-lî-man-tân-sén	西カリマンタン州
+Thai-ho̍k	大学
+Pretoria	プレトリア
+Chok-khiù	卓球
+Â-sṳ̂-thù-lî-â-sṳ̂	アストゥリアス州
+Wikipedia:Sandbox	Wikipedia:サンドボックス
+Astrakhan-chû	アストラハン州
+Kham-thap-pu-lî-â	カンタブリア州
+Kalmykia Khiung-fò-koet	カルムイク共和国
+Weimar	ヴァイマル
+Osasco	オザスコ (サンパウロ州)
+Â-là-kung	アラゴン州
+Kak-là-sṳ̂-kô	グラスゴー
+Thùng-hói Kî-chhòng	ドンホイ空港
+Vú-lîn-ngièn Fûng-kín Miàng-sṳn-khî	武陵源
+分類:Thòi-vân li̍t-sṳ́	Category:台湾の歴史
+Curitiba	クリチバ
+Chloë Grace Moretz	クロエ・グレース・モレッツ
+Khûng-chṳ́	孔子
+Corbin Bleu	コービン・ブルー
+分類:Sṳ-ho̍k	Category:数学
+分類:Ngìn-kûng ngî-ngièn	Category:人工言語
+Pâ-lî-sén	バリ島
+Mî-kîm	アメリカ合衆国ドル
+Thi-chûng-hói	地中海
+Hông-chû-sṳ	杭州市
+Kî-tuk-kau	キリスト教
+Tûng Nú-sâ Tên-kâ-là-sén	東ヌサ・トゥンガラ州
+Sî Nú-sâ Tên-kâ-là-sén	西ヌサ・トゥンガラ州
+Chûng Sû-lâ-vî-sî-sén	中部スラウェシ州
+Kô-lùn-tá-lo̍k-sén	ゴロンタロ州
+Pet Sû-lâ-vî-sî-sén	北スラウェシ州
+Tûng-nàm Sû-lâ-vî-sî-sén	南東スラウェシ州
+Nàm Sû-lâ-vî-sî-sén	南スラウェシ州
+Sî Sû-lâ-vî-sî-sén	西スラウェシ州
+Vò-é	米
+Mâ-lû-kú-sén	マルク州
+Pet Mâ-lû-kú-sén	北マルク州
+Pâ-pu-â-sén	パプア州
+Sî Pâ-pu-â-sén	西パプア州
+Dagestan Khiung-fò-koet	ダゲスタン共和国
+Sú-tû	首都
+Monzón	モンソン
+Phù-thò-ngà-ngî	ポルトガル語
+Ngie̍t	月 (暦)
+Mustafa Kemal Atatürk	ムスタファ・ケマル・アタテュルク
+Makhachkala	マハチカラ
+Chechnya Khiung-fò-koet	チェチェン共和国
+Grozny	グロズヌイ
+Almazán	アルマサン
+Vòng Hien-fàm	黄現ハン
+Ingushetia Khiung-fò-koet	イングーシ共和国
+Magas	マガス
+Pet Ossetia–Alania Khiung-fò-koet	北オセチア共和国
+Kabardino-Balkaria Khiung-fò-koet	カバルダ・バルカル共和国
+Tson-sa̍k	ダイヤモンド
+Bill Gates	ビル・ゲイツ
+Ngi̍t-ngî	日本語
+Pak-khô-chhiòn-sû	百科事典
+頭頁	メインページ
+Karachay-Cherkessia Khiung-fò-koet	カラチャイ・チェルケス共和国
+Saratov	サラトフ
+Saratov-chû	サラトフ州
+Orenburg-chû	オレンブルク州
+Mordovia Khiung-fò-koet	モルドヴィア共和国
+Saransk	サランスク
+Yâ-khiù	野球
+Làm-khiù	バスケットボール
+Kirov-chû	キーロフ州
+Udmurtia Khiung-fò-koet	ウドムルト共和国
+Sî-pak-li-â	シベリア
+Mari El Khiung-fò-koet	マリ・エル共和国
+Yoshkar-Ola	ヨシュカル・オラ
+Stellenbosch	ステレンボッシュ
+Sverdlovsk-chû	スヴェルドロフスク州
+Cape Town	ケープタウン
+Chuvash Khiung-fò-koet	チュヴァシ共和国
+Durban	ダーバン
+Cheboksary	チェボクサル
+Tat-tat-sṳ̂-thán Khiung-fò-koet	タタールスタン共和国
+Penza-chû	ペンザ州
+Là-fî-ngì	ラファエロ・サンティ
+Pí-tet Lû-pún-sṳ̂	ピーテル・パウル・ルーベンス
+Ulyanovsk-chû	ウリヤノフスク州
+Gung-gung-hi-tsaa	バス (交通機関)
+Kâ-thai-lò-nì-â	カタルーニャ州
+Bashkortostan Khiung-fò-koet	バシコルトスタン共和国
+Chelyabinsk-chû	チェリャビンスク州
+Pâ-lùn-sî-â Chhṳ-chhṳ-khî	バレンシア州
+Khà-sṳ̂-tì-li-â lâu Lòi-ngong	カスティーリャ・レオン州
+Kurgan-chû	クルガン州
+Mô Chhe̍t-tûng	毛沢東
+Tyumen-chû	チュメニ州
+Omsk-chû	オムスク州
+Thai-mí-ngì-ngî	タミル語
+Chet-ho̍k	哲学
+分類:Candidates for speedy deletion	Category:即時削除対象のページ
+Altai Khiung-fò-koet	アルタイ共和国
+Kòng-khìm	ピアノ
+Gorno-Altaysk	ゴルノ＝アルタイスク
+Kemerovo-chû	ケメロヴォ州
+Hebe Camargo	ヘーペ・カマルゴ
+Chṳ̂-pún chú-ngi	資本主義
+Koet-kâ	国
+Mìn-chhu̍k	国民
+Khanty-Mansi Chhṳ-chhṳ-khî	ハンティ・マンシ自治管区・ユグラ
+Yamalo-Nenets Chhṳ-chhṳ-khî	ヤマロ・ネネツ自治管区
+Montpellier	モンペリエ
+分類:Thiên-vùn-ho̍k	Category:天文学
+Khakassia Khiung-fò-koet	ハカス共和国
+Irkutsk-chû	イルクーツク州
+Sakha Khiung-fò-koet	サハ共和国
+Khiet-lò-âi-sî-â-ngî	クロアチア語
+Hon-pó	ハンバーガー
+Buryatia Khiung-fò-koet	ブリヤート共和国
+Vû-làn Vû-tet	ウラン・ウデ
+Amur-chû	アムール州
+Ngi-sṳ̍p Sṳ-ki	20世紀
+Gotha	ゴータ
+Dijon	ディジョン
+Kâ-thai-lò-nì-â-ngî	カタルーニャ語
+Nordhausen	ノルトハウゼン
+Kit-lò-na̍p-sén	ジローナ
+Eisenach	アイゼナハ
+Se-pâu Sâng-vu̍t-ho̍k	細胞生物学
+Sṳ-kie Ngiùn-hòng Si̍p-thòn	世界銀行
+A-la-pak Liên-mên	アラブ連盟
+Mìn-tsú Tsú-ngi	民主主義
+Chhîn-chhèu (秦朝)	秦朝
+Pet Thai-sî-yòng Kûng-yok Chû-chṳt	北大西洋条約機構
+Chhìn Sṳ Fòng	始皇帝
+Hon-chhèu	漢
+Hon Vú-ti Liù Chha̍t	武帝 (漢)
+Sâng-vu̍t	生物
+Kiûn-chú-chṳ	君主制
+Khiung-fò-koet	共和制
+Yí-mô-khiù	バドミントン
+Ngièn-chhèu	元 (王朝)
+Nazi Tet-koet	ナチス・ドイツ
+Yù-thai-ngìn	ユダヤ人
+Chang Fò	鄭和
+Chìn-chhèu	晋 (王朝)
+Ngí	耳
+Phi	鼻
+Ngién	目
+Mûn-é	カ
+Mièn-yòng	ヒツジ
+Lo̍k-thò	ラクダ
+Phú-nen thung-vu̍t	哺乳類
+Siong	ゾウ
+Ngie-kûng	アリ
+Phûng-é	ハナバチ
+Hò-làn-ngî	オランダ語
+Fà-thi̍t Thit-sṳ-nì Kûng-sṳ̂	ウォルト・ディズニー・カンパニー
+Thot-yong Fu̍t-thông Fu̍t-son	デオキシリボ核酸
+Khiô	ナス
+Siet	雪
+Â-pâ	父親
+Fûn	分
+Yù-thai Chhṳ-chhṳ-chû	ユダヤ自治州
+Ngò-lò-sṳ̂-ngî	ロシア語
+Tûng-nàm-â Koet-kâ Lièn-mèn	東南アジア諸国連合
+Sakhalin-chû	サハリン州
+Mien-pâu	パン
+Sṳ-kie Mo-yi Chû-chṳt	世界貿易機関
+漢語	中国語
+Se-pâu	細胞
+Hiet-yi̍t	血液
+Hi	肺
+Lò-mâ-nì-â-ngî	ルーマニア語
+Pó-kâ-li-â-ngî	ブルガリア語
+Magadan-chû	マガダン州
+Chhṳ-yèn Khô-ho̍k	自然科学
+Het-chhe̍t Mìn	黒澤明
+Franklin D. Roosevelt	フランクリン・ルーズベルト
+Thi-khiù Khô-ho̍k	地球科学
+Sa̍k-thèu	岩石
+Yùn	雲
+Kí-hò-ho̍k	幾何学
+Tet-lu-kú-ngî	テルグ語
+Thai-hì-chhèn	大気圏
+Kak-lû-kit-â-ngî	グルジア語
+Kîn-chi-ho̍k	経済学
+Pîn-kóng	パンカルピナン
+漢字	漢字
+Sî-lî-ngì Sṳ-mû	キリル文字
+Lâ-tên sṳ-mû	ラテン文字
+Vùn-ho̍k	文学
+分類:Fap-koet	Category:フランス
+分類:Yîm-ngo̍k	Category:音楽
+分類:Vùn-ho̍k	Category:文学
+Fù-lì	キツネ
+La̍p-pá	トランペット
+Â-li̍t-sân-thai sâm-sṳ	アレクサンドロス3世
+Kiûn-sṳ-thán-tên Yit-sṳ	コンスタンティヌス1世
+Set-lû-sṳ thai-ti	キュロス2世
+Vùn-mìn	文明
+Kau-yuk	教育
+Kâ-thìn	家族
+Nàm-ngìn	男性
+Fûn-yîn	結婚
+Kiûn-sṳ	軍事
+Kâ-pî	コーヒー
+Ngiù-nen	乳
+Sûn Chûng-sân	孫文
+Â-yuk-vòng	アショーカ王
+香港	香港
+Thai-yîn Ti-koet	イギリス帝国
+Sú-ngì	ソウル特別市
+Kâm-nái-thit Koet-chi Kî-chhòng	ジョン・F・ケネディ国際空港
+上海	上海市
+Lùn-tûn Hî-sṳ̂-lu Kî-chhòng	ロンドン・ヒースロー空港
+Lùn-tûn Kak-vet Kî-chhòng	ロンドン・ガトウィック空港
+Set-vì-li-â	セビリア
+Chhîn-chhèu	清
+Â-ngì-pâ-nì-â-ngî	アルバニア語
+Pâ-sṳ̂-khiet-ngî	バスク語
+Â-lâ-kung-ngî	アラゴン語
+Yîn-koet Hòng-khûng	ブリティッシュ・エアウェイズ
+Â-mî-nì-â-ngî	アルメニア語
+Vû-khiet-làn-ngî	ウクライナ語
+Pâ-lùn-sî-â	バレンシア (スペイン)
+Shuì-tién-ngî	スウェーデン語
+Tan-ma̍k-ngî	デンマーク語
+Nò-vî-ngî	ノルウェー語
+Kô-thi̍t-fu̍t-lòi-tet Vî-liâm Lòi-pu-nì-tsṳ	ゴットフリート・ライプニッツ
+Tshia̍p-khiet-ngî	チェコ語
+Sṳ̂-lo̍k-phat-khiet-ngî	スロバキア語
+Sṳ̂-lo̍k-vì-nì-â-ngî	スロベニア語
+Hiûng-ngà-li-ngî	ハンガリー語
+Oi-sâ-nì-â-ngî	エストニア語
+Là-thot-vì-â-ngî	ラトビア語
+Li̍p-thâu-vón-ngî	リトアニア語
+Pha̍k-ngò-lò-sṳ̂-ngî	ベラルーシ語
+Kui-mí-thi̍t-lî Mùn-tet-lie̍t-fû	ドミトリ・メンデレーエフ
+Ngièn-chṳ́	原子
+Lâ-set-fuk	アーネスト・ラザフォード
+Hî-lia̍p-ngî	ギリシア語
+Oi-ngì-làn-ngî	アイルランド語
+Pô-sṳ̂-ngî	ペルシア語
+Chûng-kau	宗教
+Chêu-sién-ngî	朝鮮語
+Chhóng-sṳ-ki	創世記
+Kóng-tûng-fa	広東語
+Chhut-âi-khi̍p-ki	出エジプト記
+Ye̍t-nàm-ngî	ベトナム語
+Pó-lò	パウロ
+Kô-mièn-ngî	クメール語
+Thai-ngî	タイ語
+Mâ-lòi-ngî	マレー語
+Yin-nì-ngî	インドネシア語
+Mùng-kú-ngî	モンゴル語
+Hâ-sat-khiet-ngî	カザフ語
+Vû-tsṳ̂-phe̍t-khiet-ngî	ウズベク語
+Thú-khù-màn-ngî	トルクメン語
+Yù-thai-kau	ユダヤ教
+Hî-pak-lói-ngî	ヘブライ語
+Â-set-pai-kiông-ngî	アゼルバイジャン語
+Mâ-khì-tun-ngî	マケドニア語
+Set-ngì-vì-â-ngî	セルビア語
+Set-ngì-vì-â Khiet-lò-thi-â-ngî	セルビア・クロアチア語
+Pô-sṳ-nì-â-ngî	ボスニア語
+Kâ-lî-sî-â-ngî	ガリシア語
+Vî-ngì-sṳ̂-ngî	ウェールズ語
+Sû-kak-làn Koi-ngì-ngî	スコットランド・ゲール語
+Siak-khiet-kau	シク教
+John Maynard Keynes	ジョン・メイナード・ケインズ
+Lufthansa Hòng-khûng	ルフトハンザドイツ航空
+Ló-chṳ́	老子
+Kôn-chhóng	肝臓
+Shìn	腎臓
+Thu-é	ウサギ
+Sṳ̀n-kîn Ne-thúng	神経系
+Sîm-lî-ho̍k	心理学
+Sṳt-kâ-mèu-nì	釈迦
+Mâ-tên Lu-tet	マルティン・ルター
+Yî-kâ	儒教
+Thiên-chú-kau	カトリック教会
+Tho-kau	道教
+Chit-siói	脊髄
+Sa̍t	舌
+Yî-tshóng	膵臓
+Hèu-thèu	喉頭
+Fuk-khiet-làn khiùn-tó	フォークランド諸島
+Vàng-kak-mo̍k	横隔膜
+Lân-mî	虫垂
+Elizabeth Ngi-sṳ	エリザベス2世
+Thòng-chhèu	唐
+John F. Kennedy	ジョン・F・ケネディ
+Mìn-chhèu	明
+Dwight D. Eisenhower	ドワイト・D・アイゼンハワー
+Ronald Reagan	ロナルド・レーガン
+Sat-là-kô-sat	サラゴサ
+Kîm Tsang-ngit	金正日
+Ngièn-su Chû-khì-péu	周期表
+Chû-su̍k	イノシシ属
+Mariano Rajoy	マリアーノ・ラホイ・ブレイ
+Se-khiûn	真正細菌
+Phù-thò	ブドウ
+Phûng-thòng	蜂蜜
+Thông	砂糖
+Vòng-theu	ダイズ
+Kûng-chhàng-ho̍k	工学
+Vùn-fa	文化
+Fan-vun	サンスクリット
+Sùn-fàn Hì-thúng	循環器
+Sôn	酸
+Yî-ho̍k	医学
+Néu-Yok Sṳ-kie Mo-yi Chûng-sîm	ワールドトレードセンター (ニューヨーク)
+Hâ Màn-hâ-tun	ロウアー・マンハッタン
+Yàm	塩
+分類:Pâ-sî	Category:ブラジル
+Màn-hâ-tun	マンハッタン
+Ngièn-su	元素
+Kâ-suk-thu	加速度
+Li̍t	力
+Kú	太鼓
+Tsṳt-liông	質量
+Thien-yáng	映画
+Kîm-su̍k	金属
+Nùng-ngia̍p	農業
+Sâng-yîm	音
+Sṳ̀-kiên	時間
+Mien-chit	面積
+Kûng-kîn	キログラム
+Kûng-tshak	メートル
+Miéu	秒
+Pâu-siuk	トウモロコシ
+Kûng-sṳ̂n	リットル
+Fà-ngì-kiê	ウォール街
+Tûng-nàm-â	東南アジア
+Tshùng-khin	重慶市
+Thiên-tsîn	天津市
+Vú-hon-sṳ	武漢市
+Kú Hî-lia̍p	古代ギリシア
+Thomas Jefferson	トーマス・ジェファーソン
+Vùi-sṳ̂-khà	ウエスカ
+Tychy	ティヒ
+Pu-lie̍t-thap-nì-ngî	ブルトン語
+Brittany	ブルターニュ地域圏
+Lóng	ろう者
+Chhi̍t-phiang	病気
+Khien-không	健康
+Sok-lî-â	ソリア
+Màn-tó-ngî	マン島語
+Chhiâng-môi-su	ペニシリン
+Nantes	ナント
+Pot-thâm-fó	結核
+Mà-chiông	麻雀
+模板:Location map Taiwan	Template:Location map Taiwan
+Detroit	デトロイト
+Van-lî Tshòng-sàng	万里の長城
+Gard-sén	ガール県
+Gers-sén	ジェール県
+Sông Garonne-sén	オート＝ガロンヌ県
+Sṳ̀n-sṳn Lò-mâ Ti-koet	神聖ローマ帝国
+Ille-et-Vilaine-sén	イル＝エ＝ヴィレーヌ県
+Isère-sén	イゼール県
+Chûng-kau Kói-kiet	宗教改革
+Sông Loire-sén	オート＝ロワール県
+Lot-sén	ロット県
+Lozère-sén	ロゼール県
+Maine-et-Loire-sén	メーヌ＝エ＝ロワール県
+Nì-pu-kap-nì-sat ngi-sṳ	ネブカドネザル2世
+Mayenne-sén	マイエンヌ県
+Morbihan-sén	モルビアン県
+Nièvre-sén	ニエーヴル県
+Nord-sén	ノール県
+Calais Hói-hia̍p-sén	パ＝ド＝カレー県
+Puy-de-Dôme-sén	ピュイ＝ド＝ドーム県
+Sông Pyrénées-sén	オート＝ピレネー県
+Pyrénées-Orientales-sén	ピレネー＝オリアンタル県
+Hâ Rhin-sén	バ＝ラン県
+Sông Rhin-sén	オー＝ラン県
+Saône-et-Loire-sén	ソーヌ＝エ＝ロワール県
+Sarthe-sén	サルト県
+Sông Savoie-sén	オート＝サヴォワ県
+Tarn-sén	タルヌ県
+Tarn-et-Garonne-sén	タルヌ＝エ＝ガロンヌ県
+Var-sén	ヴァール県
+Vaucluse-sén	ヴォクリューズ県
+Vendée-sén	ヴァンデ県
+Yonne-sén	ヨンヌ県
+Yî-pí-li-â Pan-tó	イベリア半島
+Lai-kî	レイシ
+Yâ-è	ココナッツ
+Sa̍k-liù	ザクロ
+Chong-fa	チワン語
+Sông-sok-pu-ngî	高地ソルブ語
+Na̍p-ngá-thi̍t-ngî	ナワトル語
+Mí-nàm-kâ-pó-ngî	ミナンカバウ語
+Mirandés-ngî	ミランダ語
+Harvard Thai-ho̍k	ハーバード大学
+Néu-yok Chṳn-khèn Kâu-yi-só	ニューヨーク証券取引所
+Lie̍t-yî-tha̍t-sén	リェイダ県
+Â-lâ-pak-ngî	アラビア語
+Kiú-chiu	九州
+Si-koet	四国
+O-khiet-ngî	オック語
+Nàm-fî Hò-làn-ngî	アフリカーンス語
+Lí Mìn-pok	李明博
+Lû Vú-hién	盧武鉉
+Kâ Mà-chiok	イエスズメ
+Kô-thiet	香港MTR
+澳門	マカオ
+Suhl	ズール
+Sâ-thièn-khî	沙田区
+Fù Kím-Thàu	胡錦濤
+Si̍p Khiûn-phìn	習近平
+Chhòng-kiáng-lu̍k	キリン
+Phì-âi-mùng-thi̍t-ngî	ピエモンテ語
+Thap-là-kô-na̍p	タラゴナ
+Provence-Alpes-Côte d'Azur	プロヴァンス＝アルプ＝コート・ダジュール地域圏
+Chûng-Wàn-Tshàm／Hiông-Kóng-Tshàm(MTR)	中環駅
+Chhṳ̂m-chun-sṳ	深セン市
+Kóng-tûng	広東省
+Kóng-sî Chong-chhu̍k Chhṳ-chhṳ-khî	広西チワン族自治区
+Mô-kài	指輪物語
+Hiông-kóng Thai-ho̍k	香港大学
+Badajoz	バダホス
+Lu̍k-yì-tó-yen	鹿児島県
+Kiok	足
+Sit-thit	トカゲ
+Altenburg	アルテンブルク
+Kiên	肩
+Midi-Pyrénées	ミディ＝ピレネー地域圏
+模板:Link FA	Template:Link FA
+Wikipedia:Chhâm-siòng	Wikipedia:井戸端
+Fu-mùng-thi̍t	バーモント州
+Hiû-sṳ̂-tûn	ヒューストン
+Kóng-chiu-sṳ	広州市
+Chiông Kie-sa̍k	蒋介石
+Vûn Kâ-pó	温家宝
+Nàm-kîn-sṳ	南京市
+Phiang-yèn	病院
+Kông-sû	江蘇省
+Chet-kông-sén	浙江省
+Thèn Séu-phìn	トウ小平
+Pet-phu Calais Hói-hia̍p	ノール＝パ・ド・カレー地域圏
+Pays de la Loire	ペイ・ド・ラ・ロワール地域圏
+Languedoc-Roussillon	ラングドック＝ルシヨン地域圏
+Thiap-sat-lò-nì-kâ	テッサロニキ
+西藏自治區	チベット自治区
+Hàng-thung Thien-fa	携帯電話
+Thò-niâu	ダチョウ
+Manchester	マンチェスター
+Pu-lû-khiet-lìm	ブルックリン区
+Fòng-heu-khî	クイーンズ区
+Liùng-yìn-sṳ	龍仁市
+Lòng	オオカミ
+Mâ-lòi Pan-tó	マレー半島
+Sîn-yok Sṳn-kîn	新約聖書
+9	9
+Zung-gok Thaai-liuk	中国大陸
+Het-liùng-kông	黒竜江省
+Mâ Yîn-kiú	馬英九
+Piên-fò-sṳ	ビエンホア
+Hiông-kóng-tó	香港島
+Ngà-tsông-sṳ	ニャチャン
+Podolsk	ポドリスク
+Pô-tô Lì-kok Thu̍k-li̍p-tóng	プエルトリコ独立党
+Lì-è	ロバ
+Si-chhôn-sén	四川省
+Khiu-yok Sṳn-kîn	旧約聖書
+Sṳn-tan-chiet	クリスマス
+Lò-màn Ngî-chhu̍k	ロマンス諸語
+Sâm-kok-hìn	三角形
+Steve Jobs	スティーブ・ジョブズ
+Yin-Êu Ngî-ne	インド・ヨーロッパ語族
+Breinigerberg	ブライニガーベルク
+Lo-fú	トラ
+Fù-ôn Khà-lo̍k-sṳ̂ Yit-sṳ	フアン・カルロス1世 (スペイン王)
+Súi-ngièn-sṳ	水原市
+Sâm-sên Si̍p-thòn	サムスングループ
+Thai-thièn Kóng-vet-sṳ	大田広域市
+Kîn-ki-tho	京畿道
+Sṳ̂-khâm-tit-nâ-vì-â	スカンディナヴィア
+Fu̍k-fa̍t-chiet	復活祭
+Thien-nó Khô-ho̍k	計算機科学
+Koet-chi Yîm-phiêu	国際音声記号
+Hò-pet	河北省
+Phú-lìm-sṳ̂-tun Thai-ho̍k	プリンストン大学
+Fôn-hìn-muk	コウノトリ目
+Chhṳ̀n Súi-pién	陳水扁
+台灣	台湾
+Chṳ-fi-hîn Sú-kî	スマートフォン
+Sa̍k-yù	石油
+Hài-è	靴
+Ngiùn-hòng	銀行
+Ngièn-lun Chhṳ-yù	表現の自由
+Oi-ngì-làn	アイルランド島
+Cheshire	チェシャー
+Cumbria	カンブリア (イングランド)
+Lancashire	ランカシャー
+Northumberland	ノーサンバーランド (イングランド)
+Tyne and Wear	タイン・アンド・ウィア
+County Durham	ダラム (カウンティ)
+Pet Yorkshire	ノース・ヨークシャー
+Lincolnshire	リンカンシャー
+Nottinghamshire	ノッティンガムシャー
+Derbyshire	ダービーシャー
+Merseyside	マージーサイド
+Leicestershire	レスターシャー
+Rutland	ラトランド
+Lû-sùn	魯迅
+Northamptonshire	ノーサンプトンシャー
+Devon	デヴォン
+Oxfordshire	オックスフォードシャー
+Wiltshire	ウィルトシャー
+Hampshire	ハンプシャー
+Buckinghamshire	バッキンガムシャー
+Surrey	サリー (イングランド)
+West Sussex	ウェスト・サセックス
+East Sussex	イースト・サセックス
+Kent	ケント (イングランド)
+Thai Lùn-tûn	グレーター・ロンドン
+7	7
+8	8
+Lu̍k-é	シカ
+Pên	氷
+Chú ke Khì-tó-vùn	主の祈り
+Ngìn-lui-ho̍k	人類学
+Fùng-hói	紅海
+Oi-tên-páu	エディンバラ
+Pha̍k-set	白
+Marseille	マルセイユ
+Thai-chhûng-thèu	タマネギ
+6	6
+Kôn-fông ngî-ngièn	公用語
+Kháu-kú-ho̍k	考古学
+George H. W. Bush	ジョージ・H・W・ブッシュ
+Pâ-ngì-kòn pan-tó	バルカン半島
+Dmitry Medvedev	ドミートリー・メドヴェージェフ
+Entrena	エントレナ
+Sîn-kau	プロテスタント
+Selena	セレナ (歌手)
+Mî-koet Thai-khûng Chúng-shu	アメリカ航空宇宙局
+Thai Put-lie̍t-tiên-tó	グレートブリテン島
+Pâ-le̍t-sṳ̂-thán	パレスチナ
+10	10
+Lila Downs	リラ・ダウンズ
+Lia̍p-pau	チーター
+Liverpool	リヴァプール
+Bremen	ブレーメン
+Sîn Nò-vî-ngî	ニーノシュク
+Meu-thèu-tiâu	フクロウ目
+Sṳ̀	時間 (単位)
+Fap-lò-ngî	フェロー語
+Kîm-eu-sṳ	カマウ
+Meu-khô	ネコ科
+Koet-chi Thai-khûng Chhàm	国際宇宙ステーション
+Tà-la-sṳ	ダラット
+Tat-tat-ngî	タタール語
+Tshûng-liông	重さ
+Tsûng-su	ナツメヤシ
+Fan-tshiet-sṳ	ファンティエット
+Sî Fut-lî-sî-ngî	フリジア語
+Séu Vòng-chṳ́	星の王子さま
+Phiàng-fông kûng-tshak	平方メートル
+Fó-yam-chhùng	ホタル
+Li̍p-fông kûng-tshak	立方メートル
+Fàn-chiet-thûng-vu̍t-mùn	環形動物
+Chhú-khô	ネズミ科
+Lû-sêm-nì-â-ngî	ルシン語
+Ede (Hò-làn)	エーデ
+Sông-ngia̍p	商業
+Fú-kîn	シャチ
+Sâ-thi̍t-fut-lî-sî-ngî	東フリジア語
+Liû-khiù-koet	琉球王国
+Pet-fut-lî-sî-â-ngî	北フリジア語
+Â-mê-ha̍p-lâ-ngî	アムハラ語
+蝠婆	コウモリ
+Tarnobrzeg	タルノブジェク
+Vòng Ti	黄帝
+Tiau-ǹg-thòi Lie̍t-yí	尖閣諸島
+Khiung-fò-tóng (Mî-koet)	共和党 (アメリカ)
+Â-sṳ̂-thù-lî-â-sṳ̂-ngî	アストゥリアス語
+中國	中国
+O-thi-li Pâ-vî-li-â-ngî	バイエルン・オーストリア語
+Mìn-chú-tóng (Mî-koet)	民主党 (アメリカ)
+Tsuk-pet-sṳ	竹北市
+Sàng-tû-sṳ	成都市
+Âi-sṳ̂-thi̍t-lùi-mâ-thu-lâ-ngî	エストレマドゥーラ語
+Sàng-fà-khî	成華区
+Séu-su mìn-chhu̍k	社会的少数者
+Pô-lòi-kú	プレイク
+Â-ha̍p-sṳ̂-vòng	アハズ
+Chûng-chû-sṳ	忠州市
+Yî-liàu Ví-sâng	医療
+Yòng-suk-yen	陽朔県
+Khiet-là-khô-fû	クラクフ
+臺灣省	台湾省
+Pet-kîn Sú-tû Koet-chi Kî-chhòng	北京首都国際空港
+Sîn-kâ-po Hòng-khûng Kûng-sṳ̂	シンガポール航空
+Thien-nó Thôn-chhèn Só-mèu	コンピュータ断層撮影
+Vî-nî-sṳ̂-ngî	ヴェネト語
+Vû-lòi-khî	烏来区
+Koet-li̍p Thòi-vân Thai-ho̍k	国立台湾大学
+Vì-phú-sêm-ngî	ヴェプス語
+Fu̍t-lò-ngî	ヴォロ語
+Pân-mâ	シマウマ
+Valery Leontiev	ヴァレリー・レオンティエフ
+Khô-sî-kâ-ngî	コルシカ語
+Buryat-ngî	ブリヤート語
+Sùn-tho-chûng	メソジスト
+Mông-kiê-sṳ	モンカイ
+Suk-vú-ngî	セブアノ語
+Chavacano-ngî	チャバカノ語
+Chûng-pí-khô-ngì-ngî	中央ビコール語
+Tha̍t-lò-phî-thû Ngî-hì	ドラヴィダ語族
+Ló-kiê-sṳ	ラオカイ
+客家語	客家語
+Liòng-sân-sṳ	ランソン
+Hiuk-tsin-sṳ	ソクチャン
+Liùng-chhôn-sṳ	ロンスエン
+Mî-tshiu-sṳ	ミトー
+Fut-liù-li-ngî	フリウリ語
+Pâng-mî-tsuk	バンメトート
+Kàm-ngî	カン語
+Pok-vu̍t-kón	博物館
+Yin-thu Yî-lóng Ngî-chhu̍k	インド・イラン語派
+Thai-yùng-meu	ジャイアントパンダ
+Kalmyk-ngî	カルムイク語
+Mân-ngî	満州語
+Kû-li̍p ngî-ngièn	孤立した言語
+Kit-là-kî-ngî	ギラキ語
+Khà-sû-pí-ngî	カシューブ語
+Karachay-Balkar-ngî	カラチャイ・バルカル語
+Maguindanao-ngî	マギンダナオ語
+Lùn-pâ-tí-ngî	ロンバルド語
+Sú	手
+Thu fú	杜甫
+Maranao-ngî	マラナオ語
+O-lî-â-ngî	オリヤー語
+Ngìn-khiéu	人口
+Nò-man-thi-ngî	ノルマン語
+Pâng-â-sî-nâm-ngî	パンガシナン語
+Nèn-phìn-sṳ	ニンビン
+Pet-sat-mí-ngî	北部サーミ語
+O-set-thôi-ngî	オセット語
+Sî-sî-lî-ngî	シチリア語
+Sat-tên-nî-â-ngî	サルデーニャ語
+Nì-ngá-ngì-ngî	ネパール・バサ語
+Valparaíso	バルパライソ
+Kóng-ngi-sṳ	クアンガイ
+Yên-yèn	俳優
+Thap-kâ-lo̍k-ngî	タガログ語
+Thùng	青銅
+Surigaonon-ngî	スリガオノン語
+Tausūg-ngî	タウスグ語
+Vlaams-ngî	フラマン語
+Fà-liùng-ngî	ワロン語
+Sú-ngî	手話
+Yî-ngî	四川彝語
+Międzyrzec Podlaski	ミェンヅィジェツ・ポドラスキ
+Phiêu-chún Chhông-ngî	チベット語
+Ngá-shuì-ngá-shuì-ngî	ワライ語
+Yì-ku-tshu̍k	ユグル族
+N̂g-ngî	呉語
+Woodrow Wilson	ウッドロウ・ウィルソン
+Fu̍t-sân-sṳ	仏山市
+Ngiù-chîn Thai-ho̍k	オックスフォード大学
+Sú-tsṳ́	指
+Sṳ̍p-thiàu Kie-min	モーセの十戒
+Yok-hon-nì-sṳ̂-páu	ヨハネスブルグ
+Kî-tuk Kau-fi	教会
+Pau-é	ヒョウ
+Sîn-kiông	新疆ウイグル自治区
+Muk-kôa	パパイア
+Pu-lî-sṳ̂-pân	ブリスベン
+Â-mî-ngî	アミ語
+Vî-liâm Lùn-khìm	ヴィルヘルム・レントゲン
+Chû-chhèu	周
+Ido-ngî	イド語
+Brad Pitt	ブラッド・ピット
+Pa̍k-kiûng	ホワイトハウス
+Tha̍t-mâ-thai-ngî	ダルマチア語
+Tat-tat-chhu̍k	タタール
+Thai-fán-sṳ	大阪市
+Sên-khiù-ngî	地球同語
+Kiam-khiâu Thai-ho̍k	ケンブリッジ大学
+Kûng-khín	ヘクタール
+Sé-lî	洗礼
+Pông-hâ	気管支喘息
+Chuk	竹
+Hiligaynon-ngî	ヒリガイノン語
+Fù Tsṳ-mìn	ホー・チ・ミン
+Thièn-piên-fú	ディエンビエンフー
+Khûn-sṳ-làn-chû	クイーンズランド州
+Ha-liùng-sṳ	ハロン市
+Kûi-yìn-sṳ	クイニョン
+Mìn-nì-â-pô-li-sṳ̂	ミネアポリス
+Li̍t-ka-sṳ	ラックザー
+Li-kú-lî-â-ngî	リグリア語
+Phô-lò-chû	ボルネオ島
+Khà-phién-phién-kâm-ngî	パンパンガ語
+Vù-fâ-kó	イチジク
+Sun-fa-sṳ	フエ
+Tshòng-thu	長さ
+Sṳ̂-chhù-chṳ̂-lu	シルクロード
+Hói-yòng-sṳ	ハイズオン
+Mô-li-ngî	マオリ語
+Mên-tûng-ngî	ビン東語
+Mên-pet-ngî	ビン北語
+Tô-se-pâu sâng-vu̍t	多細胞生物
+Mên-nàm-ngî	ビン南語
+Tshiên-ngièn	ミレニアム
+Ho̍k-miàng	学名
+Vì-tô-li-â-chû	ビクトリア州
+Chong-chhu̍k	チワン族
+Sông-hói-fa	上海語
+Pet-kông	バクザン (ベトナム)
+Aung San Suu Kyi翁山蘇姬	アウンサンスーチー
+Tshèu-chû-fa	潮州語
+Yok-hon-fuk-yîm	ヨハネによる福音書
+William Vòng-chṳ́	ウィリアム (ケンブリッジ公)
+Chhṳ̀n Kóng-sâng	ジャッキー・チェン
+12	12
+Vok-là-phú-khiet-ngî	ヴォラピュク
+Toshiro Mifune	三船敏郎
+Kám-lám-su	オリーブ
+Só-lò-mùn-vòng	ソロモン
+O-khiet-làn	オークランド (ニュージーランド)
+Chhṳ̍t-sien	直線
+11	11
+13	13
+Sûn-chṳ́	孫武
+Sṳn-lìn	聖霊
+Lû-pu-lìm	ルブリン
+Thì-thèu	ラッカセイ
+100	100
+Tshit-thèu	膝
+Tô-piên-hìn	多角形
+Nàm Chûng-koet Hói	南シナ海
+Campora San Giovanni	カンポラ・サン・ジョヴァンニ
+Pien-set-liùng	カメレオン科
+Bloemfontein	ブルームフォンテーン
+Ngiam-set-thí	染色体
+O-khiet-làn Vùn-fap Ho̍k-káu	オークランド・グラマー・スクール
+Ngióng-kông	ヤンゴン
+Ma̍k-tông-lò Kûng-sṳ̂	マクドナルド
+1000000	1000000
+Meu-miàng-sṳ	茂名市
+Liú-chiu-sṳ	柳州市
+Pet-pan-khiù	北半球
+Ló-chhú	ハツカネズミ属
+Thí-tsit	体積
+Het-tsṳ̂	ヘルツ
+Pak-pân-khiet	バーバンク (カリフォルニア州)
+Sien-lia̍p-thí	ミトコンドリア
+Yî-sên	医師
+Ki-sa̍k-chhṳn	ストーンヘンジ
+Chúng-thí Kîn-chi-ho̍k	マクロ経済学
+Ágreda	アグレダ
+Lu-kâ-fuk-yîm	ルカによる福音書
+Sîn Kí-nui-â	ニューギニア島
+Sṳ́-thù-hàng-chhon	使徒言行録
+Mô-hái	カニ
+PH	水素イオン指数
+Khì-tó	祈り
+Ôn-fui-sén	安徽省
+Chûng-chhîn Pet-tho	忠清北道
+Chûng-chhîn Nàm-tho	忠清南道
+Kông-ngièn-tho (Hôn-koet)	江原道 (南)
+Nui Mùng-kú	内モンゴル自治区
+Kîm Ngit-sṳ̀n	金日成
+Pí-tet-kô-sṳ̍p	ブィドゴシュチュ
+Nottingham	ノッティンガム
+Thai-ví-vòng	ダビデ
+Li-vi-ki	レビ記
+Sṳ̂-thán-fuk Thai-ho̍k	スタンフォード大学
+Fuk-kian	福建省
+Kûng-khiet	グラム
+Mùng-kú-tshu̍k	モンゴル系民族
+Khí-sṳ-liu̍k	ヨハネの黙示録
+Kong-lîn-sṳ	江陵市
+Kiê-liùng-sṳ	鶏龍市
+Kô-yòng-sṳ	高陽市
+Kûng-chû-sṳ	公州市
+Kó-chhôn-sṳ	果川市
+Kông-mìn-sṳ	光明市
+Kóng-chû-sṳ (Hôn-koet)	広州市 (京畿道)
+Kiú-lî-sṳ	九里市
+Kiûn-phú-sṳ	軍浦市
+Kîm-phú-sṳ	金浦市
+Nàm-yòng-chû-sṳ	南楊州市
+Lun-sân-sṳ	論山市
+Thông-chîn-sṳ (Hôn-koet)	唐津市 (忠清南道)
+Tûng-theu-chhôn-sṳ	東豆川市
+Tûng-hói-sṳ (Hôn-koet)	東海市 (江原道)
+Pó-nèn-sṳ	保寧市
+Fu-chhôn-sṳ	富川市
+Sâm-chit-sṳ	三陟市
+Shuì-sân-sṳ	瑞山市
+Sàng-nàm-sṳ	城南市
+Suk-chhó-sṳ	束草市
+Sṳ́-hîn-sṳ	始興市
+Ngà-sân-sṳ	牙山市
+Ôn-sân-sṳ	安山市
+Ôn-sàng-sṳ (Hôn-koet)	安城市 (京畿道)
+Ôn-yông-sṳ	安養市
+Yòng-chû-sṳ	楊州市
+Vû-sân-sṳ	烏山市
+Ngièn-chû-sṳ	原州市
+Ngi-vòng-sṳ	義王市
+Ngi-chṳn-fú-sṳ	議政府市
+Li-chhôn-sṳ (Hôn-koet)	利川市 (京畿道)
+Thî-chhôn-sṳ	堤川市
+Thiên-ôn-sṳ	天安市
+Chhîn-chû-sṳ	清州市
+Chhûn-chhôn-sṳ	春川市
+Thai-pha̍k-sṳ	太白市
+Po-chû-sṳ	坡州市
+Phìn-tshe̍t-sṳ	平沢市
+Phàu-chhôn-sṳ	抱川市
+Hò-nàm-sṳ	河南市
+Fà-sàng-sṳ	華城市
+Buckingham Kiûng	バッキンガム宮殿
+Hói-nàm	海南省
+Yén-tûng	極東
+Ngiên-kiu	研究
+Kâm-suk	甘粛省
+Pha̍k Se-pâu	白血球
+York	ヨーク (イングランド)
+Tsiú	肘
+Sṳ̂n-min-ki	申命記
+Sû-chû-sṳ	蘇州市
+Vûn-chû-sṳ	温州市
+Windsor Sàng-páu	ウィンザー城
+Hòn-chhu̍k	漢民族
+Nèn-pô-sṳ	寧波市
+Tet-koet-ngìn	ドイツ人
+Ko-men	アレルギー
+Fù-khì	ヒル (動物)
+Kîm-yùng	金融
+1000	1000
+Mìn-su-ki	民数記
+Liu̍k Khiet-vùn	ケビン・ラッド
+Ngo̍k-ǹg	クロコダイル科
+Yùn-nàm	雲南省
+Vû-â	カラス属
+Plymouth	プリマス
+Sân-tûng	山東省
+Pí	腕
+Derby-sṳ	ダービー (イギリス)
+Thàn-khîn Fa-ha̍p-vu̍t	炭化水素
+Hò-nàm	河南省
+Montehermoso	モンテエルモーソ
+Liâu-nèn	遼寧省
+El Cid	エル・シッド
+Jim Morrison	ジム・モリソン
+Sin-ngi-hiông	信義郷
+Kóng-khiéu	港湾
+Thòi-vân Thò-yèn Koet-chi Kî-chhòng	台湾桃園国際空港
+Kit-lìm	吉林省
+Fù-nàm	湖南省
+Chhiâng-hói	青海省
+Vì-ngâ-ngì-tshu̍k	ウイグル
+Rhône-sén	ローヌ県
+Koet-kâ Kûng-yèn	国立公園
+Pâ-lì Charles-de-Gaulle Koet-chi Kî-chhòng	パリ＝シャルル・ド・ゴール空港
+Chṳ̂-sán	資産
+O-le̍t-liòng	ルキウス・ドミティウス・アウレリアヌス
+Fù-pet	湖北省
+Sân-sî	山西省
+Hòng-khûng Kûng-sṳ̂	航空会社
+Hò-khiéu-vân	三角江
+Chûng-set	茶色
+Kui-chû	貴州省
+Chûng-khi Sṳ̀n-kîn Ne-thúng	中枢神経系
+Yî-fut-só	エフェソス
+Ôn-tha̍t-màn Hói	アンダマン海
+Yok-sû-â-ki	ヨシュア記
+Sî-pet Yîn-kak-làn	ノース・ウェスト・イングランド
+Shám-sî-sén	陝西省
+Tûng-pet Yîn-kak-làn	ノース・イースト・イングランド
+Tûng Midlands	イースト・ミッドランズ
+Tûng Yîn-kak-làn	イースト・オブ・イングランド
+Tûng-nàm Yîn-kak-làn	サウス・イースト・イングランド
+Sî-nàm Yîn-kak-làn	サウス・ウェスト・イングランド
+模板:Commonscat	Template:Commonscat
+Sî Midlands	ウェスト・ミッドランズ (リージョン)
+Yorkshire lâu Humber	ヨークシャー・アンド・ザ・ハンバー
+Kòn Se-pâu	幹細胞
+Lò-mâ-sû	ローマの信徒への手紙
+Mâ-liuk-kap Hói-hia̍p	マラッカ海峡
+Yù-thai Vòng-koet	ユダ王国
+Fî-yí Mî-koet Het-ngìn	アフリカ系アメリカ人
+Mà-sat-chû-set Lî-kûng Ho̍k-yen	マサチューセッツ工科大学
+Pô-sṳ-tun Thai-ho̍k	ボストン大学
+Yâ-lû Thai-ho̍k	イェール大学
+Nàm-pet-chêu	南北朝時代 (中国)
+Liû-Sùng	宋 (南朝)
+Fûn-lî	結婚式
+Pan Chúng-thúng-chṳ	半大統領制
+Kâ-phìn-khiùn	加平郡
+Fâi-sân-khiùn	槐山郡
+Kím-sân-khiùn	錦山郡
+Tan-yòng-khiùn (Hôn-koet)	丹陽郡
+Po-ên-khiùn	報恩郡
+Fù-yì-khiùn	扶餘郡
+Sû-chhôn-khiùn	舒川郡
+Yòng-khiéu-khiùn	楊口郡
+Siong-yòng-khiùn	襄陽郡
+Yòng-phìn-khiùn	楊平郡
+Lî-chû-sṳ	驪州市
+Liên-chhôn-khiùn	漣川郡
+Yún-thùng-khiùn	永同郡
+Nèn-ye̍t-khiùn	寧越郡
+Lî-sân-khiùn	礼山郡
+Vok-chhôn-khiùn	沃川郡
+Yîm-sàng-khiùn	陰城郡
+Lîn-thài-khiùn	麟蹄郡
+Tsin-san-khiùn	旌善郡
+Chên-phiàng-khiùn	曽坪郡
+Chṳ́n-chhôn-khiùn	鎮川郡
+Chhiâng-yòng-khiùn	青陽郡
+Thai-ôn-khiùn	泰安郡
+Fùng-sàng-khiùn	洪城郡
+Fùng-chhôn-khiùn	洪川郡
+Fà-chhôn-khiùn	華川郡
+Vàng-sàng-khiùn	横城郡
+Ên-phìn-sṳ	恩平区
+Fî-li̍p-pí-sû	フィリピの信徒への手紙
+Thiên-koet Pat-fuk	真福九端
+Mî-koet Lièn-pâng Chún-phi Ne-thúng	連邦準備制度
+Kúai-é	カエル
+Hâ Sî-lî-sî-â-sén	ドルヌィ・シロンスク県
+Khù-â-vì - Pô-mî-là-nì-â-sén	クヤヴィ＝ポモージェ県
+Lû-pu-lìm-sén	ルブリン県
+Lû-pu-sṳ̂-khà-sén	ルブシュ県
+Lò-tsṳ-sén	ウッチ県
+Séu Pô-làn-sén	マウォポルスカ県
+Mâ-tsó-fû-sá-sén	マゾフシェ県
+O-pô-lòi-sén	オポーレ県
+Khak-ngì-pâ-yèn-sân-sén	ポトカルパチェ県
+Pô-tet-là-chhia-sén	ポドラシェ県
+Pô-mî-là-nì-â-sén	ポモージェ県
+Sî-lî-sî-â-sén	シロンスク県
+Sṳn-sṳ̍p-sṳ-sén	シフィェンティクシシュ県
+Sî Pô-mî-là-nì-â-sén	西ポモージェ県
+Pâ-lùn-sî-â-sén	バレンシア県
+Sat-là-kô-sat-sén	サラゴサ県
+Vùi-sṳ̂-khà-sén	ウエスカ県
+Baak-gaa-seng	百家姓
+Sok-lî-â-sén	ソリア県
+Hien-thoi Khì-chhâ	現代自動車
+Sûng-hâi-khî	双渓区
+Kîm Tsang-ên	金正恩
+Pu-nùng-ngî	ブヌン語
+Phû-sien-ngî	ホ仙語
+Kông-sî	江西省
+Wernher von Braun	ヴェルナー・フォン・ブラウン
+Nèn-ha	寧夏回族自治区
+Lí Hién-liùng	リー・シェンロン
+Kîm-fà-sṳ	金華市
+Thòi-chû-sṳ	台州市
+Phòng-châ-phú-ngî	パンジャーブ語
+Phú-sṳ̍p-thok-ngî	パシュトー語
+Yâ-chû	イノシシ
+Chû-hói-sṳ	珠海市
+Sân-thèu-sṳ	汕頭市
+Shâu-kûan-sṳ	韶関市
+Kông-mùn-sṳ	江門市
+Chhám-kông-sṳ	湛江市
+Shàu-khin-sṳ	肇慶市
+Fi-chiu-sṳ	恵州市
+Mòi-chiu-sṳ	梅州市
+San-mî-sṳ	汕尾市
+Hò-ngièn-sṳ	河源市
+Yòng-kông-sṳ	陽江市
+Chhîn-yén-sṳ	清遠市
+Tûng-kôn-sṳ	東莞市
+Chûng-sân-sṳ	中山市
+Chhèu-chiu-sṳ	潮州市
+Thiên-tén-yen	天等県
+Liùng-chiu-yen	竜州県
+Nèn-mìn-yen	寧明県
+Thai-sîn-yen	大新県
+Thòi-vân sén-tho	台湾省道
+Mâ-liuk-kap-sṳ	ムラカ
+Khiâu-chhṳ-sṳ	ジョージタウン (ペナン州)
+IPhone 5	IPhone 5
+Nàm-Chhî	斉 (南朝)
+Mèu-li̍t-yen	苗栗県
+Sṳn-chhôn-lî	聖餐
+Fuk-chiu-sṳ	福州市
+Nàm-phìn-sṳ	南平市
+Phû-thièn-sṳ	ホ田市
+Sâm-mìn-sṳ	三明市
+Tshièn-chiu-sṳ	泉州市
+Hà-mûn-sṳ	廈門市
+Chông-chiu-sṳ	ショウ州市
+Liùng-ngâm-sṳ	竜岩市
+Nèn-tet-sṳ	寧徳市
+Sî-pak-li-â Fú	アムールトラ
+Thiên-ngô-yen	天峨県
+Nàm-tan-yen	南丹県
+Fung-sân-yen	鳳山県 (河池市)
+Tûng-làn-yen	東蘭県
+Pat-tet-sṳ	八徳区
+Sîn-chuk-yen	新竹県
+Thông Ngiâ-mong	アダム・シャール
+Yáng-chhiong Chín-thôn-ho̍k	放射線医学
+La̍p-tsuk	ろうそく
+Hiet-chiong	血漿
+Southampton	サウサンプトン
+Lu-tet-ki	ルツ記
+Hâ-sat-khiet-chhu̍k	カザフ
+Yòng-mî	トンボ亜目
+Chit-fûn-ho̍k	積分法
+Kô-lìm-tô-chhièn-sû	コリントの信徒への手紙一
+Sî-pân-ngà Ti-koet	スペイン帝国
+Pha̍k-yùn-khî (Kóng-chiu-sṳ)	白雲区 (広州市)
+Sṳ-sṳ̂-ki	士師記
+Po-lîn-chhòi	ホウレンソウ
+Pâ-set-lò-nâ-sén	バルセロナ県
+Nàm-thèu-yen	南投県
+Liuk-piên-hìn	六角形
+Thòi-pet 101	台北101
+Lùn-tûn Thap-khiâu	タワーブリッジ
+Siù-li Yún-kòn-sien-chhùng	カエノラブディティス・エレガンス
+O-pô-lòi	オポーレ
+Sopot	ソポト
+Kám-lám-yù	オリーブ・オイル
+Chim-sin-fi	バプテスト教会
+Vú-yî-sân-sṳ	武夷山市
+Set-vì-li-â-sén	セビリア県
+Thap-là-kô-na̍p-sén	タラゴナ県
+Provence-sén	プロヴァンス
+Kî-hài Kûng-chhàng	機械工学
+Apeldoorn	アペルドールン
+Lìm-pó-ngî	リンブルフ語
+Khái-ngì-chhái	キェルツェ
+Bytom	ビトム
+Ôn-sit-ngit	安息日
+Khìm-sṳ̂-thok-khok-ngá	チェンストホヴァ
+Zabrze	ザブジェ
+Ôn-sit-ngit-fi	セブンスデー・アドベンチスト教会
+Jean Michel Jarre	ジャン・ミッシェル・ジャール
+Thai Pô-làn Thi-khî Kô-yî-fû	ゴジュフ・ヴィエルコポルスキ
+Là-tô-mê	ラドム
+Lo̍k-chham-ki-yen	ロサンゼルス郡 (カリフォルニア州)
+Słupsk	スウプスク
+Sosnowiec	ソスノヴィエツ
+Gliwice	グリヴィツェ
+Yo̍k-sṳ̂	薬剤師
+Hi-kôn Yì-chhṳ̍t	移植 (医療)
+Bielsko-Biała	ビェルスコ＝ビャワ
+Rybnik	リブニク
+Mâ-khó-fuk-yîm	マルコによる福音書
+Ruda Śląska	ルダ・シロンスカ
+Yok-thán-vòng	ヨタム (ユダ王)
+Thò-yèn-yen	桃園市
+10000000	10000000
+Nò-mí	もち米
+Kîn-tû-fú	京都府
+Kau-su	教授
+Thai-fán-fú	大阪府
+Fuk-kông-yen	福岡県
+Oi-yèn-yen	愛媛県
+Kô-lìm-tô-heu-sû	コリントの信徒への手紙二
+Khien-mî	ボディビル
+Chhùng-hièn	ミミズ
+Port Elizabeth	ポート・エリザベス
+Kimberley (Nàm-fî)	キンバリー
+Yok-sâ-fap-vòng	ヨシャファト
+Thòi-vân Hói-hia̍p	台湾海峡
+Sî Khôi-phú-sén	西ケープ州
+Yamaguchi-yen	山口県
+Khiâu-chhṳ Sâm-sṳ	ジョージ3世 (イギリス王)
+Chûng-koet Thi-fông	中国地方
+Mî-koet Thu̍k-li̍p Siên-ngièn	アメリカ独立宣言
+Sâm-tshûng-yen	三重県
+Yù-mu̍k mìn-chhu̍k	遊牧民
+Hiông-pak-su	ヒマラヤスギ属
+Hî-pak-lòi-sû	ヘブライ人への手紙
+Kâ-lâ-thai-sû	ガラテヤの信徒への手紙
+Màn-é	ウナギ目
+Sông-chhèu	殷
+Thai-thúi	太股
+Pîn-khù-yen	兵庫県
+Kiûng-khì-yen	宮崎県
+Yùng-pún-yen	熊本県
+Stamford Raffles	トーマス・ラッフルズ
+Sha̍m-é	セミ
+Tûng Khôi-phú-sén	東ケープ州
+Fap-koet Hòng-khûng	エールフランス
+Kô-lò-sî-sû	コロサイの信徒への手紙
+Ngâ-kok-sû	ヤコブの手紙
+Yok-hon-yit-sû	ヨハネの手紙一
+Fî-li-mùn-sû	フィレモンへの手紙
+Thiap-sat-lò-nì-kâ-heu-sû	テサロニケの信徒への手紙二
+Thiap-sat-lò-nì-kâ-chhièn-sû	テサロニケの信徒への手紙一
+Pí-tet-chhièn-sû	ペトロの手紙一
+Thì-mô-thai-chhièn-sû	テモテへの手紙一
+Lí Kông-yeu	リー・クアンユー
+Chṳ̂-kâ-kô Thai-ho̍k	シカゴ大学
+Tsṳ̂-fo-yen	滋賀県
+Mu-nì-het Kî-chhòng	ミュンヘン国際空港
+Yok-hon-ngi-sû	ヨハネの手紙二
+Thì-mô-thai-heu-sû	テモテへの手紙二
+Thì-tô-sû	テトスへの手紙
+Yî-sṳ̂-lâ-ki	エズラ記
+Nì-hî-mí-ki	ネヘミヤ記
+Pietersburg	ポロクワネ
+Séu Pha̍k-Lù	コサギ
+Chhòn-ngiam-phiang	感染症
+Kôn-yàm	肝炎
+Chhûn-chiet	春節
+Shinzō Abe	安倍晋三
+Mpumalanga-sén	ムプマランガ州
+Pet Khôi-phú-sén	北ケープ州
+Tó-kîn-yen	島根県
+Kông-sân-yen	岡山県
+Gauteng-sén	ハウテン州
+Thung-fûng	痛風
+Chông-fa-yen	彰化県
+Thai-fûn-yen	大分県
+Tiâu-tshí-yen	鳥取県
+Nùng-la̍k	中国暦
+Kô-tî-yen	高知県
+Pha̍k-hèu	ジフテリア
+Exeter	エクセター
+Saint Lawrence-hò	セントローレンス川
+Limpopo-sén	リンポポ州
+Kô-tén Kau-yuk	高等教育
+Sân-tá-kîn	サンダカン
+Â-pí	コタキナバル
+Ngi̍t-pún thúng-tshṳ sṳ̀-thoi (Thòi-vân)	日本統治時代 (台湾)
+Phok Kiún-fi	朴槿恵
+Tûng-sṳ-khî	東勢区
+Lévis	レヴィ (ケベック州)
+Thòi-fûng	台風
+Thòi-nàm-sṳ	台南市
+Laval (Québec)	ラヴァル (ケベック州)
+Charlemagne, Québec	シャルルマーニュ
+Mâ-lòi Pô-lî-nì-sî-â Ngî-chhu̍k	マレー・ポリネシア語派
+Fên-yòng-sṳ	衡陽市
+Pet-lûn-khî	北侖区
+Mân-chiu-tshu̍k	満州民族
+Doetinchem	ドゥーティンヘム
+Zamość	ザモシチ
+Malbork	マルボルク
+Mì-chit-fûn-ho̍k	微分積分学
+Ngo̍k-yòng-sṳ	岳陽市
+BP	BP (企業)
+Sú-thiàu	フライドポテト
+Yùn-lìm-yen	雲林県
+Fù-khiéu-hiông	湖口郷
+Kiok-tsṳ́	爪先
+Vî-liâm Â-li̍t-sân-thai (Hò-làn)	ウィレム＝アレクサンダー (オランダ王)
+Sî-fù-khî (Hông-chû-sṳ)	西湖区 (杭州市)
+Vì-tô-li-â Kóng	ビクトリア・ハーバー
+Sî-kung-khî	西貢区
+Mâ-nâ-sî-vòng	マナセ (ユダ王)
+Kî-kîm-fi	財団法人
+A-hîn Kôn-yàm	A型肝炎
+Yù-tsiâm-vong-khî	油尖旺区
+Fûng-sái	カキノキ
+Tshṳ̍t-tshòng	直腸
+Chhṳ-yù Pâng-sén	フリーステイト州
+Tsó-fo-yen	佐賀県
+Tet-tó-yen	徳島県
+Sî-pân-ngà-ngìn	スペイン人
+Fu̍t-chhṳ̂ Khiung-chṳn Sṳ̀n-siong	核磁気共鳴画像法
+Hiông-tshon-yen	香川県
+Reading, Berkshire	レディング
+Kâ-chû Lî-kûng Ho̍k-yen	カリフォルニア工科大学
+Vì-ngì-tshṳ-páu Thai-ho̍k	ユリウス・マクシミリアン大学ヴュルツブルク
+Fên-yòng-yen	衡陽県
+Êu-kí-lî-tet Kí-hò	ユークリッド幾何学
+Si̍t-kuk	シリコンバレー
+Barneveld	バルネフェルト
+Khiu Tha̍t-sîn	タクシン・チナワット
+Thòi-sân-sṳ	台山市
+Lièn-phìn-yen	連平県
+Kîm-kôa	カボチャ
+Thai Sùn-thâ Khiùn-tó	大スンダ列島
+Doesburg	ドゥースブルフ
+Sî-pet-sén	北西州 (南アフリカ)
+Sien-thon	線分
+Kâ-ngi-yen	嘉義県
+Vûn-tai	温帯
+Thai-khi̍t-khièn	太極拳
+Kiok-khwá	足関節
+Hò-làn Tâi-thi Sat-khiet-sùn-ngî	低ザクセン語
+Pân-kiêu-é	コキジバト
+Tshòng-khì-yen	長崎県
+Hà-chhèu	夏 (三代)
+Chû-vì Sṳ̀n-kîn Ne-thúng	末梢神経系
+Lùn-tûn Thai-ho̍k	ロンドン大学
+Kip-sú	級数
+Nelspruit	ネルスプロイト
+Sâ-là-ye̍t-chû	サラワク州
+Â-chû Thai-phìn-yòng Kîn-tsi Ha̍p-tsok Fi-ngi	アジア太平洋経済協力
+Kôan-chiet-yàm	関節炎
+Ngò-piên Yì-chhu̍k Chhṳ-chhṳ-yen	峨辺イ族自治県
+Chûng-la̍k-sṳ	中レキ区
+Montauban	モントーバン
+Chhòng-sâ-sṳ	長沙市
+Thai Put-lie̍t-tiên lâu Oi-ngì-làn Lièn-ha̍p Vòng-koet	グレートブリテン及びアイルランド連合王国
+Kiok-kiên	かかと
+Kûng-fûn	センチメートル
+Lièn-ha̍p Hòng-khûng	ユナイテッド航空
+Yen-thèu	咽頭
+Hò-mí	ミリメートル
+Tsûng-tsang-khî (Thòi-pet-sṳ)	中正区 (台北市)
+Mì-mí	マイクロメートル
+Pâ-mâ Yâu-chhu̍k Chhṳ-chhṳ-yen	巴馬ヤオ族自治県
+Khi̍t-han (Sú-ho̍k)	極限
+Theu-fú	豆腐
+Phù-sat	菩薩
+Chóng-ló Kau-fi	長老派教会
+Hien-thoi Veloster	ヒュンダイ・ヴェロスター
+Nai-mí	ナノメートル
+Pâ-chûng-sṳ	巴中市
+Fu̍t-kông-yen	仏岡県
+Sâ-pâ-chû	サバ州
+Nàm-nèn-sṳ	南寧市
+Ngâ-li-ôn-ngìn	アーリア人
+Yù-sṳn-mî-thi Koet-kâ Kûng-yèn	ヨセミテ国立公園
+Chhiâng-set	シアン (色)
+Ho̍k-yen	学部
+Kô-hiùng-sṳ	高雄市
+Pet-mî Chhṳ-yù Mo-yi Hia̍p-ngi	北米自由貿易協定
+Sû-kak-làn-ngìn	スコットランド人
+Rustenburg	ルステンブルク
+Yen-tsong-fui	演奏会
+Yù-fu̍t-chû	ジョホール州
+Ngò-lò-sṳ̂ Lièn-pâng Chhṳ̍t-hot-sṳ	ロシアの連邦市
+Fì-tshu̍k	回族
+Sha̍k-sṳ	修士
+Preston, Lancashire	プレストン (イングランド)
+Sî-tí-kâ-vòng	ゼデキヤ (ユダ王)
+Sâm-koet	三国時代 (中国)
+Chhûn-chhiû Sṳ̀-khì	春秋時代
+Chan-koet Sṳ̀-khì	戦国時代 (中国)
+Mâ-liuk-kap-chû	ムラカ州
+Pietermaritzburg	ピーターマリッツバーグ
+Sú-vón	手首
+Kit-làn-tan-chû	クランタン州
+Tshông-tshu̍k	チベット系民族
+Pîn-sàng-chû	ペナン州
+Blackburn	ブラックバーン (イングランド)
+Chûng-sin Pha̍k-hiet-khiû	好中球
+Pâng-kâ-tó	バンカ島
+Phìn-chhông-khiùn	平昌郡
+Thai-koet Koet-chi Hòng-khûng Kûng-sṳ̂	タイ国際航空
+Thai Ngi̍t-pún Ti-koet	大日本帝国
+Hiûng-nù	匈奴
+Phit-li̍t-chû	ペラ州
+Lùn-tûn Ti-koet Ho̍k-yen	インペリアル・カレッジ・ロンドン
+Tsen-sàng-sṳ	増城区
+Kui-lìm-sṳ	桂林市
+Siet-làn-ngô-chû	セランゴール州
+Tui-kok-sien	対角線
+Fi-li-phi Liuk-sṳ	フェリペ6世 (スペイン王)
+Kûng-tún	トン
+Phàng-hên-chû	パハン州
+中國象棋	シャンチー
+Pit-sṳn-hak	ピザハット
+Yim-suk Siáu-tsṳ́	ソニック・ザ・ヘッジホッグ
+Ngo̍k-vûn-khiet-tshu̍k	エヴェンキ
+Kiu-ên	救済
+Nàm-kîn Thai-thù-sat	南京事件 (1937年)
+Yún Chṳ-Hau	尹致昊
+Phì-mí	ピコメートル
+Chûng-koet 2010-ngièn Sông-hói Sṳ-kie Pok-lám-fi	上海国際博覧会
+Ngiù-ngiuk	牛肉
+Carlisle, Cumbria	カーライル (イングランド)
+Ngit-tèu-kông	太陽光
+Khwon-kûan-tsiet	股関節
+Fûn-kî-hon-khiûn	マイコバクテリウム属
+Chàu-yòng-sṳ	邵陽市
+Phìn-tûng-yen	屏東県
+Chông-fa-sṳ	彰化市
+Hién-mì-kiang	顕微鏡
+Chông-phìn-sṳ	ショウ平市
+Chông-kâ-kie-sṳ	張家界市
+Tsàu-ôn-yen	詔安県
+Chau-phìn-yen	昭平県
+Chṳ Sṳ̀n-kûng	鄭成功
+Tsṳn-fò-yen	政和県
+Chin-siong-khî	蒸湘区
+Chṳ́n-hói-khî (Nèn-pô-sṳ)	鎮海区 (寧波市)
+Tsà-yùng-yen	柘栄県
+Chûng-fò-khî	中和区
+Chûng-kông-yen	中江県
+Chung-sân-yen	鍾山県
+Tsû-nèn-yen	周寧県
+Chon-hiuk	センギョク
+Chu-chû-sṳ	株洲市
+Phàng-fù-yen	澎湖県
+Nàm-sâ-khî	南沙区
+Kûng-tshun	デシメートル
+McGill Thai-ho̍k	マギル大学
+Sâm-fòng Ńg-ti	三皇五帝
+Sanok	サノク
+Tsṳ́-kîm-yen	紫金県
+Chhṳ-liù-chiáng-khî	自流井区
+Mâ-tshâ	チャリオット
+Milton Keynes	ミルトン・キーンズ
+Â-mî-tshu̍k	アミ族
+Ên-tién	恩寵 (キリスト教)
+Hiong-sàng-khî	キョウ城区
+Hî-lìn-tên-khî	ヒリンドン・ロンドン特別区
+Chṳ̂-hîn-sṳ	資興市
+Chṳ̂-yòng-sṳ	資陽市
+Chṳ̂-ngièn-yen	資源県
+Sṳ̀n-chhùng	成虫
+Chang Thien-chṳ́ Fat-sa Kie-son-kî Thôn-chhèn Só-mèu	ポジトロン断層法
+Przemyśl	プシェムィシル
+Chhiòn-khiû Sàng-sṳ	世界都市
+Pî-mí	フェムトメートル
+Burnley	バーンリー
+Tûng Lùn-tûn, Tûng Khôi-phú-sén	イースト・ロンドン
+Pet-hói-sṳ	北海市
+Mafikeng	マフィケング
+Mí-sâ-yên Khiùn-tó	ビサヤ諸島
+Yông-muì-sṳ	楊梅区
+Lò-pô-ôn-vòng	レハブアム
+Slough	スラウ
+Thì-mô-thai	テモテ
+Chho̍k-sṳ̂-lia̍p	セントロメア
+Tûng-hò, Néu-yok-sṳ	イースト川
+Chhêu-fông-hìn	超立方体
+Sêm-mî-làn-chû	ヌグリ・スンビラン州
+Fidel Valdez Ramos	フィデル・ラモス
+Łomża	ウォムジャ
+Siong-thâm-sṳ	湘潭市
+Thûng-tshu̍k	トン族
+Pak-fo Kûng-sṳ̂	百貨店
+Thòi-vân Ngièn-tshu-mìn	台湾原住民
+騷靈現象	ポルターガイスト現象
+Tha̍t-vat-ngì-tshu̍k	ダウール族
+Na̍p-sî-tshu̍k	ナシ族
+Kô-hiùng-yen	高雄県
+Khiu-lîn	丘陵
+Outaouais	ウタウエ地域
+Kuî-é	カメ
+Pak-sâ-sat	ベルシャザル
+Yî-set-lie̍t Vòng-koet	イスラエル王国
+Tshòn-fì Yâ-lu-sat-lâng Yun-thung	バック・トゥー・エルサレム
+Sîn-sân-sṳ	ジョホールバル
+Khiu-kîm-sân Vân	サンフランシスコ湾
+Li Mâ-teu	マテオ・リッチ
+Tshài Yîn-vùn	蔡英文
+Chełm	ヘウム
+Pha̍k-ngìn	白人
+Â-ha̍p-vòng	アハブ
+Suwałki	スヴァウキ
+Ngì-làn-yen	宜蘭県
+Sî-làn-ngî	ゼーランド語
+Epe	エーペ
+Maidenhead	メイデンヘッド
+Chû Khiet-lùn	周杰倫
+Kiú-liùng	九龍
+Nâ-pô-nì-tha̍t	ナボニドゥス
+Kiap-kông-yen	夾江県
+Hâ-phú-yen	霞浦県
+Ngie-mí-li-ôn Lò-mâ-nok-ngî	エミリア・ロマーニャ語
+Sîn-pet-sṳ	新北市
+Hî-sî-kâ-vòng	ヒゼキヤ
+Thòi-chûng-sṳ	台中市
+IPhone 4S	IPhone 4S
+Fâ-lièn-yen	花蓮県
+Kîm-mùn-yen	金門県
+Lièn-kông-yen	連江県 (中華民国)
+Thòi-tûng-yen	台東県
+Sîn-chuk-sṳ	新竹市
+Kâ-ngi-sṳ	嘉義市
+Kî-lùng-sṳ	基隆市
+Pet-thèu-khî (Thòi-pet-sṳ)	北投区
+Thai-ôn-khî (Thòi-pet-sṳ)	大安区 (台北市)
+Sṳ-lìm-khî (Thòi-pet-sṳ)	士林区
+Àu-thai-li-â Ngièn	オーストラリア・ドル
+Thùng-lû-yen	桐廬県
+Tûng-yín-hiông	東引郷
+Fuk-tshîn-sṳ	福清市
+Tûng-sṳ-hiông	東勢郷
+Mò Chhiang-li ke Thung-vu̍t	不浄な生き物
+Nyèn-sân-khî	雁山区
+Tûng-sa̍k-hiông	東石郷
+Ngo̍k-thòng-khî	岳塘区
+Hon-ho̍k	中国学
+Thai-thùng-khî (Thòi-pet-sṳ)	大同区 (台北市)
+Nàm-kóng-khî (Thòi-pet-sṳ)	南港区
+Nui-fù-khî (Thòi-pet-sṳ)	内湖区
+Tshiùng-sân-khî (Thòi-pet-sṳ)	松山区 (台北市)
+Van-fà-khî (Thòi-pet-sṳ)	万華区
+Vùn-sân-khî (Thòi-pet-sṳ)	文山区
+Sin-ngi-khî (Thòi-pet-sṳ)	信義区 (台北市)
+Tsûng-sân-khî (Thòi-pet-sṳ)	中山区 (台北市)
+Yî-pó-sṳ	イポー
+Ná-pô-pha-lâ-sâ-ngì	ナボポラッサル
+Â-pí-ngâ-vòng	アビヤム
+Sûn N̂g	呉 (三国)
+Pha̍k-chhu̍k	ペー族
+Aalten	アールテン
+Ap-chû	鴨洲
+Phiâng-sân-sîn-khî	坪山新区
+Chàu-tûng-yen	邵東県
+Lai-phú-yen	茘浦県
+Hâu-kông-khî	濠江区
+Yòng-sân-yen	陽山県
+Kông-mìn-sîn-khî	光明新区
+IPhone 3GS	IPhone 3GS
+IPhone 4	IPhone 4
+IPhone 3G	IPhone 3G
+Alan Dawa Dolma	Alan
+Tûng-Chìn	東晋
+Mâ-lòi-sî-â Hòng-khûng	マレーシア航空
+Lì-tshu̍k	リー族
+Chûng-sî-khî (Hiông-kóng)	中西区 (香港)
+Mí-nâ-hien-vòng	メナヘム
+Â-ha̍p-chhia-vòng (Yî-set-lie̍t)	アハズヤ (イスラエル王)
+Â-ha̍p-chhia-vòng (Yù-thai)	アハズヤ (ユダ王)
+Yok-làn-vòng (Yù-thai)	ヨラム (ユダ王)
+Â-sat-li-ngâ	ウジヤ
+Yâ-lò-pô-ôn yit-sṳ	ヤロブアム1世
+Am-li-vòng	オムリ
+Nâ-tap-vòng	ナダブ (イスラエル王)
+Pâ-sâ-vòng	バシャ
+Yâ-fu-vòng	イエフ
+Yok-sî-â-vòng	ヨシヤ
+Yok-â-sṳ̂-vòng (Yù-thai)	ヨアシュ (ユダ王)
+Sîm-li-vòng	ジムリ
+Yâ-lò-pô-ôn ngi-sṳ	ヤロブアム2世
+Yî-vi-mí-lò-tha̍t	アメル・マルドゥク
+Â-mâ-chhia-vòng	アマツヤ
+Yî-sṳ̂-pô-sat-vòng	イシュ・ボシェテ
+N̂g Chok-tùng	ゴー・チョクトン
+Â-sat-vòng	アサ (ユダ王)
+Â-mùn-vòng	アモン (ユダ王)
+Chong Koet-yùng（Chong Fat-chûng）	レスリー・チャン
+Lí Tên-Fî	李登輝
+Yî-lâ-vòng	エラ (イスラエル王)
+Yok-ngâ-kin-vòng	エホヤキム (ユダ王)
+Hò-se-â-vòng	ホセア (イスラエル王)
+Yok-ngâ-kîn-vòng	エホヤキン
+Chhî Chai-Phit	徐載弼
+Puławy	プワヴィ
+Chuk Hon	蜀漢
+Chhâu Ngùi	魏 (三国)
+Abitibi-Témiscamingue	アビティビ・テミスカマング地域
+Mò-tóng-sit	無所属
+Iwakuni-sṳ	岩国市
+Soi-ha-tshu̍k	サイシャット族
+Phok Hièn-yún	朴憲永
+Sat-kâ-li-ngâ-vòng	ゼカリヤ (イスラエル王)
+Yok-ha̍p-sṳ̂-vòng	ヨアハズ (イスラエル王)
+Fùng Siù-chhiòn	洪秀全
+Yok-â-sṳ̂-vòng (Yî-set-lie̍t)	ヨアシュ (イスラエル王)
+Yok-làn-vòng (Yî-set-lie̍t)	ヨラム (イスラエル王)
+Pí-kâ-vòng	ペカ
+Sâ-liùng-vòng	シャルム (イスラエル王)
+Pí-kâ-hot-vòng	ペカフヤ
+Khiu Sṳ̀n-thûng	シン＝トゥン・ヤウ
+Fùng Puk-kím Kiê	キンケイ
+Sat-lâ-tshu̍k	サラール族
+Yok-ha̍p-sṳ-vòng	ヨアハズ (ユダ王)
+Sîn-tiam-khî	新店区
+Łapy	ワピ
+Chhiâng-pa̍k-kông-khî	青白江区
+Mî-yî-mî-fi	メソジスト監督教会
+瑤族	ヤオ族
+Thú-sàng-khî	土城区
+Sîn-chông-khî	新荘区
+Hagi-sṳ	萩市
+Wong Hi-zi	王羲之
+Meu-nàm-khî	茂南区
+Chûng-chhiû-chiet	月見
+Nài-lî-kak-li-sâ-ngì	ネルガル・シャレゼル
+Fùng-theu	アズキ
+Łuków	ウクフ
+Pô-sṳ̂ Ti-koet	アケメネス朝
+Nagato-sṳ	長門市
+Sî-lìm-yen	西林県
+Mâ-thai-fuk-yîm	マタイによる福音書
+Sṳ̍p-sṳ-ka	十字架
+Â-chû Hòng-khûng X	エアアジア X
+Â-chû Hòng-khûng	エアアジア
+Yî-fut-só-sû	エフェソの信徒への手紙
+Sòng-tet-sṳ	常徳市
+Yit-yòng-sṳ	益陽市
+Chhim-chû-sṳ	チン州市
+Tshî Kông-khí	徐光啓
+Sàng-khî (San-mî-sṳ)	城区
+Súi-nèn-sṳ	遂寧市
+Nui-kông-sṳ	内江市
+Tha̍t-chû-sṳ	達州市
+Ngá-ôn-sṳ	雅安市
+10000	10000
+Fú-kûa	ツルレイシ
+Fún-fùng-set	ピンク
+Nâ-sat-le̍t	ナザレ
+Thòi-vân kâu-thûng	台湾の交通
+Yî-tshu̍k	イ族
+Mî-koet Kûng-lî-fi Chhâ-fi	アメリカン・ボード
+Â-thâ-li-ngâ	アタルヤ
+Augustów	アウグストゥフ
+Windsor, Berkshire	ウィンザー (イングランド)
+Kô Khô-kî	ハイテク
+Hí Chṳ̂n-shuk	許貞淑
+Tai Tet-sâng	ハドソン・テーラー
+Hòn Hòn	韓寒
+Pet-kóng-tsṳ́n	北港鎮
+Tczew	トチェフ
+Hâ-nì-tshu̍k	ハニ族
+Thòi-nàm-yen	台南県
+Fù-chṳ-mìn-sṳ Kî-chhòng	タンソンニャット国際空港
+Hien-thoi Accent	ヒュンダイ・アクセント
+Hien-thoi Sonata	ヒュンダイ・ソナタ
+Hien-thoi Elantra	ヒュンダイ・エラントラ
+Hien-thoi Equus	ヒュンダイ・エクウス
+Vû-tsṳ-phe̍t-khiet-chhu̍k	ウズベク
+Thap-kit-khiet-tshu̍k	タジク人
+Wal-Mart Kûng-sṳ̂	ウォルマート
+緋彈个婭里婭	緋弾のアリア
+Yùn-tôn yun-son	クラウドコンピューティング
+Ńg-sùn-chiet Yun-thung	ペンテコステ派
+Liu̍k-theu	リョクトウ
+Chêu-siên-chhu̍k	朝鮮民族
+Khúa-ngì-khiet-tsṳ-tshu̍k	キルギス人
+Burgo de Osma-Ciudad de Osma	エル・ブルゴ・デ・オスマ
+Sông-hói Ha̍p-tsok Tsû-tsṳt	上海協力機構
+Yì Kit-chùn	兪吉濬
+Reus	レウス
+Hien-thoi Santa Fe	ヒュンダイ・サンタフェ
+Yî-ho̍k-yen	医学部
+Het-mien Phî-lù	クロツラヘラサギ
+Tshiòn-koet hon-sṳ kau-yuk thôi-tsin tsúng lièn-ha̍p-fi	全国漢字教育推進総連合会
+Sṳ̀n-chheu-fi	アッセンブリーズ・オブ・ゴッド
+Phok Chhùng-yòng	朴重陽
+Fâ-tû-khî	花都区
+Sâ-â-nàm	シャー・アラム
+Kit-lùng-po Koet-chi Kî-chhòng	クアラルンプール国際空港
+Ngiu̍k-Sân	玉山 (台湾)
+Hōfu-sṳ	防府市
+Thai-yí-sân	大嶼島
+Starogard Gdański	スタロガルド・グダニスキ
+Het-tsat-tshu̍k	ナナイ
+Sîn-chhèu	新
+Mauricie	モリシー地域
+Hò-làn Tâi-thi Sat-khiet-sêm-ngî	オランダ低ザクセン語
+Yîn-kô-khî	鶯歌区
+Khiùn	郡
+Vû-yìn	イエバエ科
+Tha̍t-mâ-thai	ダルマチア
+Pat-phu-khî	八歩区
+Ôn-fa-yen	安化県
+Hà (Sṳ̍p-liuk-koet)	夏 (五胡十六国)
+Sîn-chîn-yen	新津県
+Mùng-sân-yen	蒙山県
+Thai-lî-khî	大里区
+Fûng-ngièn-sṳ	豊原区 (台中市)
+Thai-phìn-sṳ	太平区 (台中市)
+Thai-kap-tsṳ́n	大甲区
+Tshîn-súi-tsṳ́n	清水区 (台中市)
+Sâ-lu̍k-tsṳ́n	沙鹿区
+Ǹg-tshi-tsṳ́n	梧棲区
+Thai-ôn-hiông (Thòi-chûng)	大安区 (台中市)
+Thai-tú-hiông	大肚区
+Thai-ngâ-hiông	大雅区
+Fò-phìn-khî	和平区 (台中市)
+Heu-lî-hiông	后里区
+Liùng-tsiáng-hiông	龍井区
+Sṳ̀n-kông-hiông	神岡区
+Sa̍k-kóng-hiông	石岡区
+Thâm-tsṳ́-hiông	潭子区
+Ngoi-phû-hiông	外埔区
+Vú-fûng-hiông	霧峰区
+Vû-ngit-hiông	烏日区
+Sîn-sa-hiông	新社区
+Pat-lî-khî	八里区
+Pán-khièu-khî	板橋区 (新北市)
+Kung-liàu-khî	貢寮区
+Kîm-sân-khî	金山区 (新北市)
+Nà-khiéu-khî	林口区
+Lù-chû-khî	蘆洲区
+Phiâng-lìm-khî	坪林区
+Phìn-hâi-khî	平渓区
+Lui-fông-khî	瑞芳区
+Sâm-chhùng-khî	三重区
+Sâm-hia̍p-khî	三峽区
+Sâm-chṳ-khî	三芝区
+Chhṳ̂m-hâng-khî	深坑区
+Sa̍k-tàng-khî	石碇区
+Sa̍k-mùn-khî	石門区
+Su-nà-khî	樹林区
+Thai-sân-khî	泰山区 (新北市)
+Thâm-súi	淡水区
+Van-lî-khî	万里区
+Ńg-kú-khî	五股区
+Sip-chṳ-khî	汐止区
+Yún-fò-khî	永和区
+Fû-lùn-pi-ngì-sṳ	フルンボイル市
+Ngo̍k-vûn-khiet-tshu̍k Tshṳ-tshṳ-khî	エヴェンキ族自治旗
+Thòi-yit-sien	台1線
+Ǹg-chiu-sṳ	梧州市
+Fòng-sàng-kóng-sṳ	防城港市
+Khîm-chiu-sṳ	欽州市
+Kui-kóng-sṳ	貴港市
+Ngiu̍k-lìm-sṳ	玉林市
+Pak-set-sṳ	百色市
+Fo-chiu-sṳ	賀州市
+Hò-chhṳ̀-sṳ	河池市
+Lòi-pîn-sṳ	来賓市
+Fuk-thièn-khî	福田区
+Chhùng-chó-sṳ	崇左市
+Kôn-liâu	官僚
+Lùng-fi-yen	隆回県
+Thú-kâ-tshu̍k	トゥチャ族
+Lai-vân-khî	茘湾区
+Hîn-nèn-khî	興寧区
+Siau-sân-khî	蕭山区
+Fûng-khôi-yen	封開県
+Sîn-kie	新界
+Khôi-phìn-sṳ	開平市
+Tsit-sa̍k-sân Pó-ôn-tshu̍k Tûng-hiông-tshu̍k Sat-lâ-tshu̍k Tshṳ-tshṳ-yen	積石山バオアン族ドンシャン族サラール族自治県
+Mo-yi	取引
+Kô-mìn-khî	高明区
+Saam-zi-gang	三字経
+Thí-lîn-sṳ	醴陵市
+Kóng-hon-sṳ	広漢市
+Meu-yen	茂県
+Ôn-hiông-yen	安郷県
+Ôn-hâi-yen	安渓県
+Duiven	ダイフェン
+Yo̍k-ho̍k	薬学
+Chhiâng-yòng-khî	青羊区
+Fi-yòng-khî	恵陽区
+Kóng-tó-yen	広島県
+Thu̍k-liùng-tshu̍k	トーロン族
+Tseu-tshu̍k	ツォウ族
+IPhone (Thi-yit thoi)	IPhone (初代)
+Ye̍t-nàm-ngî sṳ-mû	クオック・グー
+Sîn Pâ-pí-lùn Vòng-koet	新バビロニア
+Fuk-tín-sṳ	福鼎市
+Fung-sân-sṳ	鳳山区
+Khîm-nàm-khî	欽南区
+Kien-yòng-sṳ	建陽市
+Shūnan-sṳ	周南市
+Kô-tá-ha̍p-lû-sṳ	コタバル
+Sú-chiuk-khiéu-phiang	手足口病
+Kông-phú	スペクトル
+Chhṳ̂m-súi-phu-khî	深水ホ区
+Yùn-siau-yen	雲霄県
+客家	客家
+Vù-kau-piáng	フラットブレッド
+Téu-liuk-sṳ	斗六市
+Wejherowo	ヴェイヘロヴォ
+Pu-yî-chhu̍k	プイ族
+Mí-yi-yen	米易県
+Nâ-po-yen	那坡県
+Ngì-làn-sṳ	宜蘭市
+Ńg-fù Sṳ̍p-liuk-koet	五胡十六国時代
+Néu-yok Tû-fi-khî	ニューヨーク都市圏
+歷峯雧團	リシュモン
+Ng̀-tshon-sṳ	呉川市
+Lanaudière	ラノディエール地域
+Thap-lùn-ti-nò-ngî	タラント語
+Vòng Sîm-lìn	王心凌
+Vòng Yún-khin	王永慶
+Thùng-lò-hiông	銅鑼郷
+Chhṳ̀n Kâ-fà	陳嘉樺
+Lo̍k-chhîn-sṳ	楽清市
+Eu-hói-khî	甌海区
+Mâ-kûng-sṳ	馬公市
+Sîn-yàng-sṳ	新営区
+Tshu-theu-fú	臭豆腐
+Thai-pó-sṳ	太保市
+Sû-o-tsṳ́n	蘇澳鎮
+Làn-yí	蘭嶼
+Mèu-li̍t-sṳ	苗栗市
+2009-ngièn sṳ-kie yun-thung-fi	ワールドゲームズ2009
+Thòi-vân hàng-tsṳn khî-va̍k	台湾の行政区分
+Nàm-o-hiông	南澳郷
+Thai-ngâ-tshu̍k	タイヤル族
+Thòi-chûng-yen	台中県
+Thòi-ngi-sien	台2線
+Liu̍k-tó-hiông	緑島郷
+Lu̍k-kóng-tsṳ́n	鹿港鎮
+Kîm-mùn Koet-kâ Kûng-yèn	金門国家公園
+Pu-nùng-tshu̍k	ブヌン族
+Nàm-kôn-hiông	南竿郷
+Liùng-vân-khî	竜湾区
+Lu̍k-sàng-khî	鹿城区
+Phìn-yòng-yen	平陽県
+Yún-kâ-yen	永嘉県
+Thung-thèu-yen	洞頭県
+Tûng-sân-hiông (Thòi-nàm)	東山区 (台南市)
+Ǹg-yèn	つみれ
+Chhṳ̀-hâi-sṳ	慈渓市
+Lò-tûng-tsṳ́n	羅東鎮
+Tûng-sân-hiông	冬山郷
+Thèu-sàng-tsṳ́n	頭城鎮
+Pet-mùn-hiông	北門区
+Sîn-sṳ-hiông	新市区 (台南市)
+Thai-hâi-tsṳ́n	大渓区
+Tshit-mî-hiông	七美郷
+Pî-nàm-tshu̍k	プユマ族
+Kit-ôn-hiông	吉安郷
+Yún-không-sṳ	永康区
+Kông-sân-tsṳ́n	岡山区
+Phú-chṳ́-sṳ	朴子市
+Sâm-sên-hiông	三星郷
+Tha̍t-ngu-tshu̍k	タオ族
+Thòi-vân Ngiùn-hòng	台湾銀行
+Kîm-sàng-tsṳ́n	金城鎮
+Phû-lî-tsṳ́n	埔里鎮
+Vû-hiu-hiông	烏キュウ郷
+Thai-thùng-hiông	大同郷
+Mâ-hâi	馬偕
+Tsiông-kiûn-hiông	将軍区
+Koet-li̍p Thòi-vân Pok-vu̍t-kón	国立台湾博物館
+Thai-su-hiông	大樹区
+Pô-chûng-hiông	褒忠郷
+Tsiâu-hâi-hiông	礁渓郷
+Mong-ôn-hiông	望安郷
+Mà-theu-tsṳ́n	麻豆区
+Mî-nùng-tsṳ́n	美濃区
+Theui-waan Thin-get Lin-mang	台湾団結連盟
+Pat-pat suí-châi	八八水害
+Thai-lû-kok Koet-kâ Kûng-yèn	太魯閣国家公園
+Â-lî-sân Koet-kâ Sêm-lìm Yù-lo̍k-khî	阿里山
+Tûng-kóng-tsṳ́n	東港鎮
+Tshòng-tshṳ-hiông	長治郷
+Sṳ̂-é-hiông	獅子郷
+Tsham-lìm-hiông	杉林区
+Van-yùng-hiông	万栄郷
+Tsuk-thièn-hiông	竹田郷
+Mâ-kâ-hiông	瑪家郷
+Mì-thò-hiông	弥陀区
+Yèn-tshâu-hiông	燕巣区
+Piông-liàu-hiông	枋寮郷
+Tsṳ́-kôn-hiông	梓官区
+Piông-sân-hiông	枋山郷
+Méu-tân-hiông	牡丹郷
+Yèn-sân-hiông	員山郷
+Lu-tsuk-hiông	路竹区
+Khén-tên Koet-kâ Kûng-yèn	墾丁国家公園
+Su-fûng-hiông	寿豊郷
+Fu-lî-hiông	富里郷
+Siet-pa Koet-kâ Kûng-yèn	雪覇国家公園
+Siu-lìm-hiông	秀林郷
+Kông-fu̍k-hiông	光復郷
+Nàm-chû-hiông	南州郷
+Cho̍k-hâi-hiông	卓渓郷
+Mân-chû-hiông	満州郷
+Kham-táng-hiông	カン頂郷
+Yâm-phû-hiông	塩埔郷
+Pet-kôn-hiông	北竿郷
+Lie̍t-yí-hiông	烈嶼郷
+Ńg-kiet-hiông	五結郷
+Van-lòng-hiông	万巒郷
+Kô-su-hiông	高樹郷
+Kâ-tûng-hiông	佳冬郷
+Lòi-ngi-hiông	来義郷
+Fûng-pîn-hiông	豊浜郷
+Nâ-mâ-ha-hiông	ナマシャ区
+Lìm-lo̍k-hiông	麟洛郷
+Liùng-khì-hiông	龍崎区
+Thai-vú-hiông (Phìn-tûng)	泰武郷
+Vu-thòi-hiông	霧台郷
+Meu-lìm-hiông	茂林区
+Kiú-yì-hiông	九如郷
+Ho̍k-kap-tsṳ́n	学甲区
+Yún-ôn-hiông	永安区
+Tiâu-tshiùng-hiông	鳥松区
+Tsó-tsṳ́n-hiông	左鎮区
+Thièn-liàu-hiông	田寮区
+Khiâu-thèu-hiông	橋頭区
+Thai-sa-hiông	大社区
+Yàm-súi-tsṳ́n	塩水区
+Liù-khiù-hiông	琉球郷
+Lìm-yèn-hiông	林園区
+Lìm-piên-hiông	林辺郷
+Tshûn-ngit-hiông	春日郷
+Lî-kóng-hiông	里港郷
+Thò-ngièn-hiông	桃源区
+Nui-mùn-hiông	内門区
+Â-lièn-hiông	阿蓮区
+Vòng Sṳ́m-tî	王審知
+Nàm-fa-hiông	南化区
+Si̍p-si̍p-tsṳ́n	集集鎮
+Tsuk-sân-tsṳ́n	竹山鎮
+Tshó-thùn-tsṳ́n	草屯鎮
+Yìn-oi-hiông	仁愛郷
+Yìn-tet-hiông	仁徳区
+Ôn-thin-hiông	安定区 (台南市)
+Sṳ̀n-kûng-tsṳ́n	成功鎮
+Súi-lî-hiông	水里郷
+Yìn-vú-hiông	仁武区
+Koet-siang-hiông	国姓郷
+San-fa-tsṳ́n	善化区
+Tshit-kú-hiông	七股区
+Ngiu̍k-tsiáng-hiông	玉井区
+Ǹg-tshṳ̀-hiông	魚池郷
+Sân-song-hiông	山上区
+Ha-yàng-hiông	下営区
+Nàm-sî-hiông	楠西区
+Kûi-yìn-hiông	帰仁区
+Liuk-kap-hiông	六甲区
+Miàng-kiên-hiông	名間郷
+Liú-yàng-hiông	柳営区
+Tshèu-chû-tsṳ́n	潮州鎮
+Fú-mî-tsṳ́n	虎尾鎮
+Thú-khù-tsṳ́n	土庫鎮
+Van-tân-hiông	万丹郷
+Hâi-chû-hiông	渓州郷
+Kûan-sân-tsṳ́n	関山鎮
+Heu-piak-hiông	後壁区
+Sî-kóng-hiông	西港区
+Ngiu̍k-lî-tsṳ́n	玉里鎮
+Thai-nui-hiông	大内区
+Kôn-thièn-hiông	官田区
+Ngô-mì-hiông	峨眉郷
+Pha̍k-hò-tsṳ́n	白河区
+Yòng-mìn-sân Koet-kâ Kûng-yèn	陽明山
+Sî-yí-hiông	西嶼郷
+Hak-kâ chhoi	客家料理
+Làn-yí-hiông	蘭嶼郷
+Â-lî-sân-hiông	阿里山郷
+Fù-sî-hiông	湖西郷
+Fù-nui-hiông	湖内区
+Lìm-nui-hiông	林内郷
+Téu-nàm-tsṳ́n	斗南鎮
+Ma̍k-liàu-hiông	麦寮郷
+Kâ-lî-tsṳ́n	佳里区
+Ngièn-tshòng-hiông	元長郷
+Sîn-phî-hiông	新ピ郷
+Thòi-sî-hiông	台西郷
+Lûn-poi-hiông	崙背郷
+Tshṳ̀-thùng-hiông	シ桐郷
+Thai-tshûn-hiông	大村郷
+Hèn-tshûn-tsṳ́n	恒春鎮
+Kú-hâng-hiông	古坑郷
+Sî-lô-tsṳ́n	西螺鎮
+Thai-phî-hiông	大ヒ郷
+Tûng-ông Sân-ma̍k	中央山脈
+Si-fù-hiông	四湖郷
+Wong Gaa-khi	ウォン・カークイ
+Phìn-fông Kûng-lî	平方キロメートル
+Pha̍k-sâ-hiông	白沙郷
+Tshòng-pîn-hiông	長浜郷
+Tûng-hò-hiông	東河郷
+Pî-nàm-hiông	卑南郷
+Sîn-phû-tsṳ́n	新埔鎮
+Kîm-nèn-hiông	金寧郷
+Lu̍k-kuk-hiông	鹿谷郷
+Lu̍k-yâ-hiông	鹿野郷
+Liuk-kuî-hiông	六亀区
+Ngi-lûn-hiông	二崙郷
+Súi-lìm-hiông	水林郷
+Kôn-yîm-hiông	観音区
+Thòi-pet tû-fi khî	台北都市圏
+Khì-sân-tsṳ́n	旗山区
+Tsong-vì-hiông	壮囲郷
+Lui-sui-hiông	瑞穂郷
+Fò-mî-tsṳ́n	和美鎮
+Yèn-phìn-hiông	延平郷
+Sîn-sàng-hiông	新城郷
+Thai-mà-lî-hiông	太麻里郷
+Tshâ-sàng-hiông	車城郷
+Kîm-fûng-hiông	金峰郷
+Thai-vú-hiông	大武郷
+Kîm-fù-tsṳ́n	金湖鎮
+Thûng-sêu-tsṳ́n	通霄鎮
+Sâm-thi-mùn-hiông	三地門郷
+Hói-tôn-hiông	海端郷
+Kîm-sâ-tsṳ́n	金沙鎮
+Sîn-fûng-hiông	新豊郷
+Tsiâm-sa̍k-hiông	尖石郷
+Yen-lî-tsṳ́n	苑裡鎮
+Fâ-lièn-sṳ	花蓮市
+Kuî-sân-hiông	亀山区
+Yèn-lìm-tsṳ́n	員林鎮
+Phìn-tsṳ́n-sṳ	平鎮区
+Liùng-thâm-hiông	龍潭区 (桃園市)
+Shuì-ôn-sṳ	瑞安市
+Lù-tsuk-hiông	蘆竹区
+Fung-fa-sṳ	奉化市
+Phìn-tûng-sṳ	屏東市
+Thòi-tûng-sṳ	台東市
+Thai-liàu-hiông	大寮区
+F4	F4 (ユニット)
+Chùng-chṳ́	ちまき
+Pet-phû-hiông	北埔郷
+Heu-liùng-tsṳ́n	後龍鎮
+Vàng-sân-hiông	横山郷
+Kûng-kón-hiông	公館郷
+Nàm-chông-hiông	南庄郷
+Ńg-fûng-hiông	五峰郷
+Sîn-yèn-hiông	新園郷
+Kûan-sî-tsṳ́n	関西鎮
+Sî-fù-hiông	西湖郷
+Tsuk-nàm-tsṳ́n	竹南鎮
+Sṳ̂-thàn-hiông	獅潭郷
+Khiûng-lìm-hiông	キュウ林郷
+Chûng-liàu-hiông	中寮郷
+Fung-lìm-tsṳ́n	鳳林鎮
+Thèu-vuk-hiông	頭屋郷
+Lui-phû-hiông	内埔郷
+Thèu-fun-tsṳ́n	頭フン鎮
+Thai-ôn-hiông	泰安郷
+Pó-sân-hiông	宝山郷
+Cho-khièu-hiông	造橋郷
+Tha̍t-yìn-hiông	達仁郷
+Cho̍k-làn-tsṳ́n	卓蘭鎮
+Siet-sân Sân-ma̍k	雪山山脈
+Tsuk-tûng-tsṳ́n	竹東鎮
+Thai-fù-hiông	大湖郷
+Hâi-khiéu-hiông	渓口郷
+Sâm-vân-hiông	三湾郷
+Liuk-kiok-hiông	六脚郷
+Mìn-hiùng-hiông	民雄郷
+Sâm-ngi-hiông	三義郷
+Thai-phû-hiông	大埔郷
+Phû-sîm-hiông	埔心郷
+Yún-tshìn-hiông	永靖郷
+Hak-kâ Yòng-theu-fú	イェン・ター・フォー
+Then Yí-hièn	トウ雨賢
+Thòi-fûng Mo̍k-Là-Khiet (2009-ngièn)	平成21年台風第8号
+Tshûn-kóng-hiông	伸港郷
+Thòi-pet Tshia̍p-yun	台北捷運
+Kí-kóng-hiông	キョ光郷
+Chhòn-yùng Hòng-khûng	エバー航空
+Kôn-yîm	観音菩薩
+Nàm-thèu-sṳ	南投市
+Phài-vân-tshu̍k	パイワン族
+Thòi-vân nàm-tó ngî-ngièn	台湾諸語
+Fông-yen-hiông	芳苑郷
+Thièn-mî-hiông	田尾郷
+Thai-ngâ-ngî	タイヤル語
+Sa-thèu-hiông	社頭郷
+Hâi-fù-tsṳ́n	渓湖鎮
+Pu-thoi-tsṳ́n	布袋鎮
+Lu̍k-tshó-hiông	鹿草郷
+Sîn-vuk-hiông	新屋区
+Kap-siên-hiông	甲仙区
+Thò-yèn-sṳ	桃園区
+Lû-khái-tshu̍k	ルカイ族
+Tseu-ngî	ツォウ語
+Khiéu-fù-hiông	口湖郷
+Thòi-vân Thú-thi Ngiùn-hòng	台湾土地銀行
+Hak-kâ thú-lèu	福建土楼
+Khòng-sàng-chhàm (Hiông-kóng)	康城駅
+Sien-sî-hiông	線西郷
+Sîn-kóng-hiông	新港郷
+Chûng-phû-hiông	中埔郷
+Fâ-thàn-hiông	花壇郷
+Tsuk-thòng-hiông	竹塘郷
+Chûng-fà Thai-ho̍k	中華大学
+Phû-yàm-hiông	埔塩郷
+Tsuk-khì-hiông	竹崎郷
+Thai-sàng-hiông	大城郷
+Ngi-súi-hiông	二水郷
+Ngi-tsuk-hiông	義竹郷
+Súi-song-hiông	水上郷
+Fu̍k-hîn-hiông	復興区 (桃園市)
+Thai-lìm-tsṳ́n	大林鎮
+Thai-yèn-hiông	大園区
+Phî-thèu-hiông	ヒ頭郷
+Mòi-sân-hiông	梅山郷
+Fuk-hîn-hiông (Chông-fa)	福興郷
+Pet-téu-tsṳ́n	北斗鎮
+Fân-lu-hiông	番路郷
+Fûn-yèn-hiông	芬園郷
+Ngi-lìm-tsṳ́n	二林鎮
+Thièn-chûng-tsṳ́n	田中鎮
+Siu-súi-hiông	秀水郷
+100000	100000
+Kô-sîn-shì	コク
+Tûng-khî (Hiông-kóng)	東区 (香港)
+Â-chû Thien-sṳ Yû-han Kûng-sṳ̂ (Hiông-kóng)	亜洲電視
+Gaspésie–Îles-de-la-Madeleine	ガスペジー・マドレーヌ諸島地域
+Pok-lò-yen	博羅県
+Sa̍k-fûng-khî	石峰区
+Tshiâ-tshu̍k	シェ族
+Sîn-kâ-po Koet-li̍p Thai-ho̍k	シンガポール国立大学
+Sên-sán	生産
+Bronckhorst	ブロンクホルスト
+Thi-kip-sṳ	地級市
+Mine-sṳ	美祢市
+Mì-fûn-ho̍k	関数の微分
+Tûng-hiông-tshu̍k	ドンシャン族
+Lâ-fú-tshu̍k	ラフ族
+Chat-ho̍k Pok-sṳ	博士（学術）
+Lì-tó-khî	離島区
+Tshûng-shîn-yen	沖縄県
+Tshòng-lo̍k-sṳ	長楽市
+Yí-fù-khî	雨湖区
+Sâm-súi-khî	三水区
+Nàm-thin-sṳ	ナムディン
+Montpellier Thai-ho̍k	モンペリエ大学
+Fà-khièu	華僑
+Kien-nèn-yen	建寧県
+Lô-kông-khî	蘿崗区
+Tshṳ-tshṳ-chû	自治州 (中国)
+Pó-ôn-khî	宝安区
+Pet-liù-sṳ	北流市
+Nysa, Pô-làn	ニサ (ポーランド)
+Pó-ôn-chhu̍k	バオアン族
+Kôan-tan-sṳ	クアンタン
+Thâu-thông-shì	堯
+Hikari-sṳ	光市
+Kûng-lî	キロメートル
+Almarza	アルマルサ
+Aldealices	アルデアリセス
+Aldealafuente	アルデアラフエンテ
+Alentisque	アレンティスケ
+Adradas	アドラーダス
+Abejar	アベハール
+Aldealpozo	アルデアルポソ
+Alcubilla de Avellaneda	アルクビージャ・デ・アベジャネーダ
+Chhṳ̀-yùn-sân	慈雲山
+Vòng-thai-siên Tshàm	黄大仙駅
+Shâu-sân-sṳ	韶山市
+Tshiên-vân Chhàm(TSW)	セン湾駅
+Chhṳ̂m-súi-phu Tshàm	深水ホ駅
+Yù-thòng Tshàm(YAT)	油塘駅
+Mùn-pâ-tshu̍k	メンパ族
+Kudamatsu-sṳ	下松市
+Kiong-tshu̍k	チャン族
+Afrikaner-ngìn	アフリカーナー
+Yîn-koet-ngìn	イギリス人
+Ngá-tshu̍k	ワ族
+Kûng-yîn	ヘクトメートル
+Fû-yûng-sṳ	スレンバン
+Â-chhông-chhu̍k	アチャン族
+Thú-tshu̍k	トゥ族
+Kîn-mí	ギガメートル
+Súi-tshu̍k	スイ族
+Nyet-láu-tshu̍k	コーラオ族
+Kín-phó-tshu̍k	チンプオ族
+Lo̍k-pâ-tshu̍k	ローバ族
+Li̍t-siuk-tshu̍k	リス族
+Vì-kî Pak-khô Ngî-ngièn Lie̍t-péu	Wikipedia:全言語版の統計
+Siên-pî-chhu̍k	鮮卑
+Sanyo-Onoda-sṳ	山陽小野田市
+Pin-kông-khî	浜江区
+Fap-ho̍k	法学教育
+Pet-khî (Hiông-kóng)	北区 (香港)
+Mô-nàm-tshu̍k	マオナン族
+Nu-tshu̍k	ヌー族
+Mu̍k-láu-tshu̍k	ムーラオ族
+Sî-sûng-pán-na̍p Thài-tshu̍k Tshṳ-tshṳ-chû	シーサンパンナ・タイ族自治州
+Ngièn-lóng-khî	元朗区
+Kôn-thòng-khî	観塘区
+Khwûi-tshiâng-khî	葵青区
+Phù-mí-tshu̍k	プミ族
+Thai-pu-khî	大埔区
+Tet-ngo-tshu̍k	トーアン族
+Vòng-thai-siên-khî	黄大仙区
+Tshiên-vân-khî	セン湾区
+Pu-lóng-chhu̍k	プーラン族
+Pok-pha̍k-yen	博白県
+Chhîn-sîn-yen	清新県
+Mìn-chú Chin-phu-tóng	民主進歩党
+Tomaszów Lubelski	トマシュフ・ルベルスキ
+Liú-kông-yen	柳江県
+Thiên-hò-khî	天河区
+Po-thèu-khî	坡頭区
+Hàng-thung Chok-ngia̍p Ne-thúng	モバイルオペレーティングシステム
+Liùng-mùn-yen	竜門県
+Hói-tshong-khî	海滄区
+Pet Québec Thi-khî	ノール・デュ・ケベック地域
+Montérégie	モンテレジー地域
+Nàm-hiùng-sṳ	南雄市
+Hói-nàm-fa	海南語
+Tshiùng-thâu Mèu-tshu̍k Tshṳ-tshṳ-yen	松桃ミャオ族自治県
+Chhièn-Liòng	前涼
+Liú-sàng-yen	柳城県
+Sun-tet-khî	順徳区
+Fân-nyî-khî	番禺区
+Québec-ngìn Tóng	ケベック党
+Grahamstown	グラハムズタウン
+Cape Town Thai-ho̍k	ケープタウン大学
+Phìn-lo̍k-yen	平楽県
+Kui-phìn-sṳ	桂平市
+Kûng-nèn-hîn Sú-kî	フィーチャー・フォン
+Tûng-sân-yen	東山県
+Hò-thòng-khî	荷塘区
+Si̍p-mî-khî	集美区
+Ǹg-fûng-khî	魚峰区
+Daniele Suzuki	ダニエリ・スズキ
+Hiông-kóng Piên-kin Kim-khî	香港辺境禁区
+Thûn-mùn-khî	屯門区
+Kiú-liùng-sàng-khî	九龍城区
+Nàm-khî (Hiông-kóng)	南区 (香港)
+Vân-chái-khî	湾仔区
+Tân-vi	単位
+Tûng-Thiet-Sien	東鉄線
+Tseung Kwan O Line	将軍澳線
+Stockton-on-Tees	ストックトン＝オン＝ティーズ
+Kóng-nèn-yen	広寧県
+Sî-Liòng	西涼
+Kiú-liùng--thòng Tshàm	九龍塘駅
+Fûng-hâi-khî	楓渓区
+Kô-lò-sî	コロサイ
+Lò-fù-khî	羅湖区
+Yàm-thièn-khî	塩田区
+Khiâm-nàm Pu-yî-tshu̍k Mèu-tshu̍k Tshṳ-tshṳ-chû	黔南プイ族ミャオ族自治州
+Lìm-ha Fì-tshu̍k Tshṳ-tshṳ-chû	臨夏回族自治州
+Liùng-kông-khî	竜崗区
+Graaff-Reinet	グラーフ＝ライネ
+Fu-yòng-sṳ	富陽市
+Yì-yâu-sṳ	余姚市
+Â-pa Chhong-chhu̍k Kiông-chhu̍k Chhṳ-chhṳ-chû	アバ・チベット族チャン族自治州
+Vong-kok Tshàm(MOK)	旺角駅
+Welkom	ウェルコム
+Vú-mîn-yen	武鳴県
+Lìm-ôn-sṳ	臨安市
+Hói-tsû-khî	海珠区
+Ye̍t-siù-khî	越秀区
+Kwun-lò-sṳ	汨羅市
+Vòng-pu-khî	黄埔区
+Nàm-hói-khî	南海区
+Sin-nî-sṳ	信宜市
+Lùng-ôn-yen	隆安県
+Tû-kông-yén-sṳ	都江堰市
+Mâ-sân-yen	馬山県
+Sîn-fi-khî	新会区
+Tshiùng-fa-sṳ	従化区
+Lièn-sân Chong-chhu̍k Yâu-chhu̍k Chhṳ-chhṳ-yen	連山チワン族ヤオ族自治県
+Lo̍k-tshông-sṳ	楽昌市
+Lièn-chiu-sṳ	連州市
+Kô-yêu-sṳ	高要市
+Fû-yûng-khî	芙蓉区
+Hîn-nèn-sṳ	興寧市
+Ho̍k-sân-sṳ	鶴山市
+Yòng-chhûn-sṳ	陽春市
+Mo̍k-li̍t Tha̍t-ngá Tha̍t-vat-ngì-tshu̍k Tshṳ-tshṳ-khì	モリンダワ・ダウール族自治旗
+Thùng-ôn-khî	同安区
+Liu̍k-fûng-sṳ	陸豊市
+Thòi-kông-khî	台江区
+Liùng-hói-sṳ	竜海市
+Sa̍k-sṳ̂-sṳ	石獅市
+Siông-ôn-khî	翔安区
+Mên-hêu-yen	ビン侯県
+Lìm-siong-sṳ	臨湘市
+Liù-yòng-sṳ	瀏陽市
+Lói-yòng-sṳ	耒陽市
+Tsàu-vú-sṳ	邵武市
+Hói-shù-khî	海曙区
+Sa-fi Mìn-tsú Lièn-sien	社会民主連線
+Kien-tet-sṳ	建徳市
+Phî-yen	ヒ県
+Sîn-tû-khî	新都区
+Phìn-siông-sṳ	憑祥市
+Nî-chiu-sṳ	宜州市
+Tshîn-hói-khî	澄海区
+Yîn-tet-sṳ	英徳市
+Sṳ̍p-fong-sṳ	什ホウ市
+Vi	胃
+Tsìn-kông-sṳ	晋江
+Tshông-sân-khî	倉山区
+Chhông-ǹg-yen	蒼梧県
+Pak-van-mí	メガメートル
+Kî-nok-tshu̍k	ジーヌオ族
+Chhém-hâi-sṳ	岑渓市
+Ngo̍k-lùn-tshùn-tshu̍k	オロチョン族
+Chhà-lîn-yen	茶陵県
+Shèn-sàng-khî	禅城区
+Chhòng-sâ-yen	長沙県
+Tshòng-thai-yen	長泰県
+Tshòng-tin-yen	長汀県
+Chhòng-chû-khî	長洲区
+Tshèu-ôn-yen	潮安区
+Chaudière-Appalaches	ショーディエール・アパラッシュ地域
+Liông (Nàm-chhèu)	梁 (南朝)
+Sṳ̀n-Hòn	成漢
+Sàng-phu Mèu-chhu̍k Chhṳ-chhṳ-yen	城歩ミャオ族自治県
+Sàng-siong-khî	城廂区
+Tshak-kham-khî	赤坎区
+Sî-Hon	前漢
+Chhùng-chû-sṳ	崇州市
+Hói-nàm-tó	海南島
+Sùn-ôn-yen	淳安県
+Lí-sàng-khî	鯉城区
+Pet-ngan Thi-khî (Québec)	コート・ノール地域
+Mí-nàm-kâ-pó-ngìn	ミナンカバウ人
+Tshṳ̀-song-hiông	池上郷
+Néu-yok-kóng	ニューヨーク港
+Sî-Chìn	西晋
+Tha̍k-é	笛子
+Tûng-Hon	後漢
+Su-nèn-yen	寿寧県
+Sâ-vân-khî	沙湾区
+Thûng-chhôn-khî	通川区
+Sṳ-chûng-khî (Lo̍k-Sân-sṳ)	市中区 (楽山市)
+Mâ-piên Yì-chhu̍k Chhṳ-chhṳ-yen	馬辺イ族自治県
+Thai-song-ló-kiûn	太上老君
+Thai-phû-yen	大埔県
+Thai-fa Yâu-chhu̍k Chhṳ-chhṳ-yen	大化ヤオ族自治県
+Kú-thièn-yen	古田県
+Tet-pó-yen	徳保県
+Tet-fa-yen	徳化県
+Sîn-fa-tsṳ́n	新化区
+Kûan-meu-hiông	関廟区
+Hiông-kóng Thit-sṳ-nì Lo̍k-yèn Thu-ká-khî	香港ディズニーランド・リゾート
+Ńg-kuk	五穀
+Tet-khin-yen	徳慶県
+Tí-chhu̍k	テイ (民族)
+Fi-sàng-khî	恵城区
+Chiáng-ngân-yen	井研県
+Fài-si̍p-yen	懐集県
+Khien-vì-yen	ケン為県
+Ńg-thûng-khiàu-khî	五通橋区
+Kông-hói-khî	江海区
+Khì-yen	渠県
+Sun-khin-khî	順慶区
+Kô-phiàng-khî	高坪区
+Mu̍k-chhôn-yen	沐川県
+Liú-pet-khî	柳北区
+Liú-nàm-khî	柳南区
+Kông-nàm-khî (Nàm-nèn-sṳ)	江南区
+Thien-pha̍k-yen	電白県
+Sông-lìm-yen	上林県
+Thâm-thòng-khî	覃塘区
+Mòi-yen	梅県区
+Chṳ̂-yòng-khî	資陽区
+Sâm-kông Thûng-chhu̍k Chhṳ-chhṳ-yen	三江トン族自治県
+Na̍p-hâi-khî	納渓区
+Mièn-chuk-sṳ	綿竹市
+Lièn-sàng-yen	連城県
+Kô-chiu-sṳ	高州市
+Khiûng-lôi-sṳ	キョウライ市
+Si-fi-sṳ	四会市
+Ngièu-phìn-yen	饒平県
+Lùi-chiu-sṳ	雷州市
+Sun-tshông-yen	順昌県
+Lò-ngièn-yen	羅源県
+Phîn-nàm-yen	屏南県
+Phìn-thâm-yen	平潭県
+Nàm-ôn-sṳ	南安市
+Àu-choi Fôn	クラハシコウ
+Thia̍p-chhái-khî	畳彩区
+Ya̍k-sân-khî	蝶山区
+Tín-sàng-khî	鼎城区
+Tín-fù-khî	鼎湖区
+Chhîn-sàng-khî	清城区
+Tûng-khî (Pan-kî-fâ-sṳ)	東区 (攀枝花市)
+Tûng-hîn-sṳ	東興市
+Tûng-ngièn-yen	東源県
+Kî-chhòng	空港
+Téu-mùn-khî	斗門区
+Liu̍k-chhôn-yen	陸川県
+Tû-ôn Yâu-chhu̍k Chhṳ-chhṳ-yen	都安ヤオ族自治県
+Tôn-chiu-khî	端州区
+Tsen-zi-wun	千字文
+Ha̍p-phû-yen	合浦県
+Yen	県 (中華人民共和国)
+Lò-kông-yen	羅江県
+Yún-thin-yen	永定
+Thèn-yen	藤県
+Thi-fông Kau-fi	地元にあって合一である立場に立つ教会
+Nàm-Yèn	南燕
+Nàm-Liòng	南涼
+Fûng-sun-yen	豊順県
+Siong-sân-yen	象山県
+Ngiûn-chû-khî	ギン州区
+Kông-pet-khî (Nèn-pô-sṳ)	江北区 (寧波市)
+Nèn-hói-yen (Chet-kông-sén)	寧海県
+Kông-kòn-khî	江干区
+Ngò-mì-sân-sṳ	峨眉山市
+Siù-yí-khî	秀嶼区
+Yún-tshûn-yen	永春県
+Chàu-yòng-yen	邵陽県
+Sa̍k-kú-khî	石鼓区
+Tsiau-sàng-khî	蕉城区
+Sien-yù-yen	仙游県
+Fên-sân-yen	衡山県
+Yèn-phìn-khî	延平区
+Sîn-lò-khî	新羅区
+Phú-sàng-yen	浦城県
+Sâm-ngièn-khî	三元区
+Ngièn-fung-khî	雁峰区
+Hâm-kông-khî	涵江区
+Fûng-tshe̍t-khî	豊沢区
+Lai-sàng-khî	茘城区
+Sông-hông-yen	上杭県
+Tshiùng-hâi-yen	松渓県
+Fên-nàm-yen	衡南県
+Vú-phìn-yen	武平県
+Fên-tûng-yen	衡東県
+Nàm-tshìn-yen	南靖県
+Khî-tûng-yen	祁東県
+Lù-siung-khî	蘆淞区
+Kâ-vò-yen	嘉禾県
+Sû-sien-khî	蘇仙区
+Thâu-ngièn-yen	桃源県
+Liùng-fù-khî	竜湖区
+Sông-chhṳ̍t-yen	桑植県
+Het-sân-khî	赫山区
+Kông-sàng-khî	江城区
+Phûng-kông-khî	蓬江区
+Yòng-sî-yen	陽西県
+Hon-su-yen	漢寿県
+Sa̍k-mùn-yen	石門県
+Lìm-lí-yen	臨レイ県
+Lìm-vú-yen	臨武県
+Kui-yòng-yen	桂陽県
+Yòng-tûng-yen	陽東県
+Hiông-chû-khî	香洲区
+Liùng-mâ-thâm-khî	竜馬潭区
+Ngiùn-hói-khî	銀海区
+Vú-siên-yen	武宣県
+Kóng-nàm-khî (Kui-kóng-sṳ)	港南区 (貴港市)
+Yùng-yen (Chhṳ-kung-sṳ)	栄県
+Meu-kóng-khî	茂港区
+Kîm-phìn-khî	金平区
+Yùng-yen	容県
+Lû-yen	瀘県
+Siong-sân-khî	象山区
+Chin-yòng-khî	旌陽区
+Ket-sî-yen	掲西県
+Siù-fûng-khî	秀峰区
+Thièn-yòng-yen	田陽県
+Chhìn-sî-yen	靖西県
+Yún-fuk-yen	永福県
+Thièn-tûng-yen	田東県
+Kiûng-sàng Yâu-chhu̍k Chhṳ-chhṳ-yen	恭城ヤオ族自治県
+Kung-chiáng-khî	貢井区
+Mòi-kông-khî	梅江区
+Hîn-pîn-khî	興賓区
+Siong-khiâu-khî	湘橋区
+Hîn-ngia̍p-yen	興業県
+Kú-nìn-yen	古藺県
+Lìn-yùn-yen	凌雲県
+Lò-sàng Mu-láu-chhu̍k Chhṳ-chhṳ-yen	羅城モーラオ族自治県
+Yàm-piên-yen	塩辺県
+Lìm-kui-yen	臨桂区
+Ket-tûng-yen	掲東区
+Sî-khî (Pan-kî-fâ-sṳ)	西区 (攀枝花市)
+Kon-yòng-yen	灌陽県
+Kîm-sàng-kông-khî	金城江区
+Kóng-héu-khî	港口区
+Phû-pet-yen	浦北県
+Ngiu̍k-chiu-khî	玉州区
+Yùng-ôn-yen	融安県
+Lìn-chhôn-yen	霊川県
+Chhiòn-chiu-yen	全州県
+Van-siu-khî	万秀区
+Khîm-pet-khî	欽北区
+Sîn-fûng-yen	新豊県
+Fò-phìn-yen	和平県
+Sé-kiok-lî	洗足式
+Kîm-vân-khî	金湾区
+Ngìn-kûng Hi-kôn	人工臓器
+Liùng-sṳn-kok-chhu̍k Chhṳ-chhṳ-yen	竜勝各族自治県
+Sîn-sàng-yen	忻城県
+Thiet-sân-kóng-khî	鉄山港区
+Siong-chiu-yen	象州県
+Kîm-siu Yâu-chhu̍k Chhṳ-chhṳ-yen	金秀ヤオ族自治県
+Lùng-lìn Kok-chhu̍k Chhṳ-chhṳ-yen	隆林各族自治県
+Chhiâng-siù-khî	青秀区
+Chhit-sên-khî	七星区
+Thièn-lìm-yen	田林県
+Liòng-khin-khî	良慶区
+Phìn-nàm-yen	平南県
+Hói-sàng-khî	海城区
+Phìn-kó-yen	平果県
+Yung-nèn-khî	ヨウ寧区
+Fòng-sàng-khî	防城区
+Sông-sṳ̂-yen	上思県
+Lìn-sân-yen	霊山県
+Lu̍k-tshài-yen	鹿寨県
+Hîn-ôn-yen	興安県
+Phû-kông-yen	蒲江県
+Kîm-thòng-yen	金堂県
+Vûn-kông-khî	温江区
+Phìn-yén-yen	平遠県
+Hói-fûng-yen	海豊県
+Lièn-nàm Yâu-chhu̍k Chhṳ-chhṳ-yen	連南ヤオ族自治県
+Liùng-tshôn-yen	竜川県
+Liu̍k-hò-yen	陸河県
+Vú-hêu-khî	武侯区
+Liùng-chhièn-yi̍t-khî	竜泉駅区
+Chiau-liang-yen	蕉嶺県
+Kông-chiu-khî	江州区
+Yu-kông-khî	右江区
+Ha̍p-sân-sṳ	合山市
+Kîm-ngiù-khî	金牛区
+Kím-kông-khî	錦江区
+Phàng-chû-sṳ	彭州市
+Kông-tûng-khî (Nèn-pô-sṳ)	江東区 (寧波市)
+Hâ-sàng-khî	下城区
+Kiúng-shú-khî	拱墅区
+Yì-hông-khî	余杭区
+Sông-sàng-khî	上城区
+Lo̍k-ngia̍p-yen	楽業県
+Sân-sî Sṳ-sa	ソンタイ
+Chûng-koet Ngò-lò-sṳ̂-tshu̍k	オロス族
+Mà-tsông-khî	麻章区
+Ńg-fà-yen	五華県
+Súi-hâi-yen	遂渓県
+Sui-nèn-yen	綏寧県
+Tshî-vùn-yen	徐聞県
+Fuk-ôn-sṳ	福安市
+Nàm-àu-yen	南澳県
+Tsung Kâ-Hiûn	リンダ・チョン
+Chîn-sṳ-sṳ	津市市
+Liâm-kông-sṳ	廉江市
+Mên-tshîn-yen	ビン清県
+Hâ-sân-khî	霞山区
+Vung-ngièn-yen	翁源県
+Fa-chiu-sṳ	化州市
+Kien-eu-sṳ	建甌市
+Mâ-mî-khî	馬尾区
+Yún-thai-yen	永泰県
+Nèn-hiông-yen	寧郷県
+Liùng-vùn-khî	竜文区
+Sṳ-mìn-khî	思明区
+Yí-fâ-khî	雨花区
+Ngiên-kông-sṳ	ゲン江市
+Fi-tûng-yen	恵東県
+Siong-thâm-yen	湘潭県
+Phìn-fò-yen	平和県
+Thai-nèn-yen	泰寧県
+Kông-tshe̍t-yen	光沢県
+Yún-ôn-sṳ	永安市
+Lìm Tan	林丹
+分類:Tet-koet	Category:ドイツ
+分類:Yi-thai-li	Category:イタリア
+分類:Kâ-nâ-thai	Category:カナダ
+分類:Sî-pân-ngà	Category:スペイン
+分類:Chûng-koet	Category:中国
+分類:Ngi̍t-pún	Category:日本
+分類:Àu-thai-li-â	Category:オーストラリア
+分類:Yin-thu	Category:インド
+分類:Yî-set-lie̍t	Category:イスラエル
+分類:Nàm-fî	Category:南アフリカ共和国
+Thiên-sái (Hiông-kóng)	天璽 (香港)
+分類:Yin-thu-nì-sî-â	Category:インドネシア
+分類:Pâ-kî-sṳ̂-thán	Category:パキスタン
+分類:Pô-làn	Category:ポーランド
+分類:Sîn-kâ-po	Category:シンガポール
+分類:Hòn-koet	Category:大韓民国
+分類:Thai-koet	Category:タイ王国
+分類:Ye̍t-nàm	Category:ベトナム
+分類:Phú-nen-lui	Category:哺乳類
+分類:Tiâu	Category:鳥類
+分類:Chhṳ̍t-vu̍t	Category:植物
+分類:Vu̍t-lí-ho̍k	Category:物理学
+分類:Chhṳ-yèn Khô-ho̍k	Category:自然科学
+分類:Sâng-vu̍t-ho̍k	Category:生物学
+分類:Fa-ho̍k	Category:化学
+分類:Li̍t-sṳ́	Category:歴史
+分類:Thi-lî	Category:地理
+分類:Sa-fi	Category:社会
+分類:Chûng-kau	Category:宗教
+分類:Thí-yuk	Category:スポーツ
+分類:Khô-ho̍k	Category:科学
+分類:Lièn-ha̍p-koet	Category:国際連合
+分類:Êu-chû Lièn-mèn	Category:欧州連合
+分類:Kien-chuk-vu̍t	Category:建築物
+分類:Thûng-sin	Category:通信
+分類:Thi-khiù	Category:地球
+Chhièn-Chhîn	前秦
+Chhièn-Yèn	前燕
+Hiông-kóng Thiet-lu Yû-han Kûng-sṳ̂	香港鉄路 (企業)
+Thai-mo-sân	大帽山
+Heu-Yèn	後燕
+Pet-Liòng	北涼
+Chhièn-Chhàu	前趙
+Sî-Chhîn	西秦
+Song-Súi Tshàm(Hiông-Kóng Tûng-Thiet-Sien)	上水駅 (香港)
+Fó-than-chham	火炭駅
+Tson-sa̍k-sân Tshàm	鑽石山駅
+Heu-Chhîn	後秦
+Kú Lò-mâ	古代ローマ
+Ibanag-ngî	イバナグ語
+Sân-thi-mâ-lî-ngî	山地マリ語
+Tsui-heu ke Sṳ́m-phan	最後の審判
+Yok-hon-nì-sṳ̂-páu Thai-ho̍k	ヨハネスブルグ大学
+分類:Chet-ho̍k	Category:哲学
+分類:Fu̍t-kau	Category:仏教
+分類:Kî-tuk-kau	Category:キリスト教
+分類:Yù-thai-kau	Category:ユダヤ教
+Pet-Yèn	北燕
+Sià-ok Sṳn-kîn	姦淫聖書
+Kôn-thòng Chhàm(KWT)	観塘駅
+Ên-tiâu	鷲
+Kiú-liùng Chhàm (Hiông-kóng)	九龍駅 (香港)
+Yî-kín-vân	ディスカバリー・ベイ
+Ngùi Pó-lò	ポール・ウエイ
+Heu-Liòng	後涼
+Heu-Chhàu	後趙
+Bochotnica	ボホトニツァ
+Chong Pâ-nâ-pâ	バルナバ・ザン
+Ngi̍t-pún Khûn-chhùng Ki	にっぽん昆虫記
+Chiông-Kiûn-Àu	将軍澳
+琴浦同學	琴浦さん
+分類:Hàng-sên	Category:惑星
+分類:Vùn-fa	Category:文化
+分類:Ngìn-vùn Khô-ho̍k	Category:人間科学
+分類:Tî-sṳt	Category:知識
+Nàm-tshông Thiet-lu Tshàm（Hiông-kóng）	南昌駅 (香港)
+Sàng-sṳ Fûng-sû Kau-fi	シティハーベストチャーチ
+Chṳ́-set	紫
+Hòn Sân-mìn	テオドール・ハンバーグ
+Ap-è	カモ
+Lù-tshṳ̀	ウ科
+分類:Yên-yèn	Category:俳優
+模板:Tl	Template:Tl
+模板:Userbox	Template:Userbox
+Thòi-sâm-sien	台3線
+Thòi-11-sien	台11線
+Hiu Hen-ngì	邱幸儀
+Thòi-si-sien	台4線
+Thòi-64-sien	台64線
+Thòi-18-sien	台18線
+Â-kô	兄
+Thòi-16-sien	台16線
+Thòi-ńg-sien	台5線
+Thòi-21-sien	台21線
+模板:Wikipedialang	Template:メインページ/他言語版
+分類:Koet-kâ	Category:国
+Wikipedia:Kón-lî-yèn	Wikipedia:管理者
+分類:Chûng-fà Mìn-chhu̍k	Category:中華人民共和国の民族
+分類:Ngìn-vu̍t	Category:人物
+分類:Mìn-chhu̍k	Category:民族集団
+Wikipedia:Hàng-tsṳn-yèn	Wikipedia:ビューロクラット
+Wikipedia:IP chhà-fûng li-ngoi-chá	Wikipedia:IPブロック適用除外
+Wikipedia:Kî-hi-ngìn	Wikipedia:Bot
+分類:Sṳ̀-kiên	Category:時間
+分類:Chhṳ-yèn	Category:自然
+分類:Kûng-chhàng	Category:工学
+分類:Yî-ho̍k	Category:医学
+分類:Chṳn-chṳ	Category:政治
+分類:Kau-yuk	Category:教育
+分類:Kông-ho̍k	Category:光学
+Âi-khi̍p	エジプト
+分類:Chat-ho̍k-kâ	Category:哲学者
+模板:Bot	Template:Bot
+Kâ-nâ-thai	カナダ
+分類:Hiûng-ngà-li	Category:ハンガリー
+分類:Hî-lia̍p	Category:ギリシャ
+分類:Lâ-thot-vì-â	Category:ラトビア
+分類:Yù-hi	Category:ゲーム
+Thiên-koet	天国
+分類:Êu-chû koet-kâ	Category:ヨーロッパの国
+分類:Êu-chû	Category:ヨーロッパ
+模板:Documentation	Template:Documentation
+Wikipedia:Yung-fu	Wikipedia:利用者
+Pok-sṳ	博士
+Wikipedia:Sa-khî	Wikipedia:コミュニティ・ポータル
+分類:Wikipedians by language	Category:言語別の利用者
+Sṳ̀n Chhai-kî	成在基
+Khi-néu Kî-chhòng	ハブ空港
+Khî-ngia̍p	企業
+Ngiuk-yèn	ミートボール
+模板:Softredirect	Template:Softredirect
+模板:Delete	Template:即時削除
+分類:Kî-su̍t	Category:技術
+分類:Ngî-ngièn	Category:諸言語
+Wikipedia:Chhóng-kien Sîn Thiàu-muk	Help:新規ページの作成
+分類:還無索引嘅頁面	Category:検索エンジンに収集されないページ
+分類:含有損壞文件鏈接嘅頁面	Category:壊れたファイルへのリンクがあるページ
+模板:Navbox	Template:Navbox
+Pak-ha̍p-fâ	ユリ
+模板:!	Template:!
+模板:!-	Template:!-
+模板:Tnavbar	Template:Tnavbar
+模板:Unicode	Template:Unicode
+模板:Smallcaps	Template:Smallcaps
+模板:Small	Template:Small
+模板:Nowrap	Template:Nowrap
+分類:Fî-chû	Category:アフリカ
+分類:Chhṳ-yù Pâng-sén	Category:フリーステイト州
+分類:Tûng Khôi-phú-sén	Category:東ケープ州
+分類:Gauteng-sén	Category:ハウテン州
+分類:KwaZulu-Natal-sén	Category:クワズール・ナタール州
+分類:Mpumalanga-sén	Category:ムプマランガ州
+分類:Pet Khôi-phú-sén	Category:北ケープ州
+分類:Sṳn-kîn	Category:聖書
+分類:Limpopo-sén	Category:リンポポ州
+分類:Sî Khôi-phú-sén	Category:西ケープ州
+分類:Sî-pet-sén	Category:北西州 (南アフリカ)
+分類:Si	Category:書物
+模板:Pâ-phe̍t	Template:Babel
+模板:Reflist	Template:Reflist
+模板:Stub	Template:Stub
+模板:User ca-1	Template:User ca-1
+模板:User de	Template:User de
+模板:User de-1	Template:User de-1
+模板:User en-3	Template:User en-3
+模板:User en-1	Template:User en-1
+模板:User en-2	Template:User en-2
+模板:User en-4	Template:User en-4
+模板:User en-0	Template:User en-0
+模板:User en	Template:User en
+模板:User de-2	Template:User de-2
+分類:Yî-chhiu	Category:宇宙
+模板:User fr-2	Template:User fr-2
+模板:User ja-1	Template:User ja-1
+模板:User fr	Template:User fr
+模板:Location map/Info	Template:Location map/Info
+分類:Khûn-chhùng	Category:昆虫
+分類:Â-chû	Category:アジア
+分類:Chṳ-li	Category:チリ
+分類:Nàm-mî-chû	Category:南アメリカ
+分類:Khà-sṳ̂-tì-li-â lâu Lòi-ngong	Category:カスティーリャ・レオン州
+模板:Esoteric	Template:複雑なテンプレート
+分類:Mâ-lòi-sî-â	Category:マレーシア
+分類:Sṳ̍t-phín	Category:食品
+模板:Mod	Template:Mod
+模板:SIL	Template:Infobox Language/codelist
+模板:User es-2	Template:User es-2
+模板:Fôn-ngiàng	Template:Welcome
+分類:Thiàu-mi-liau	Category:調味料
+分類:Chû-chṳt	Category:組織 (団体)
+分類:Ngî-ngièn-ho̍k	Category:言語学
+模板:ITA	Template:ITA
+模板:非洲行政區劃	Template:アフリカ
+模板:SVK	Template:SVK
+模板:Infobox Country	Template:基礎情報 国
+模板:Documentation/docname	Template:Documentation/docname
+模板:TUR	Template:TUR
+分類:User en-4	Category:User en-4
+分類:User en	Category:User en
+分類:User zh	Category:User zh
+分類:User zh-N	Category:User zh-N
+分類:User en-2	Category:User en-2
+模板:User zh	Template:User zh
+模板:Documentation/start box	Template:Documentation/start box
+模板:Cite web	Template:Cite web
+模板:Ombox	Template:Ombox
+分類:Hòng-khûng	Category:航空
+模板:Country data	Template:Country data
+分類:Yím-sṳ̍t	Category:飲食
+模板:Fong-wui	Template:方位
+模板:BS3	Template:BS3
+分類:Tsúng-thúng	Category:大統領
+模板:IPA	Template:IPA2
+分類:Chṳn-chṳ Ngìn-lui	Category:政治家
+分類:Mî-chû	Category:アメリカ
+模板:其他	Template:Otheruses
+分類:Language user templates	Category:バベル
+模板:User language-N	Template:User language
+模板:Imbox	Template:Imbox
+Wikipedia:GNU自由文檔協議證書	Wikipedia:Text of GNU Free Documentation License
+模板:Topicon	Template:Top icon
+模板:Fmbox	Template:Fmbox
+模板:大洋洲行政區劃	Template:オセアニア
+分類:Vùn-ho̍k-kâ	Category:作家
+分類:Kiûn-sṳ	Category:軍事
+分類:Thai-ho̍k	Category:大学
+模板:Country data Malaysia	Template:Country data Malaysia
+模板:Lang-he	Template:Lang-he
+模板:Both	Template:Both
+分類:Sṳ-kie Pok-lám-fi	Category:国際博覧会
+分類:Chûng-fà Ngìn-mìn Khiung-fò-koet Chú-sit	Category:中華人民共和国主席
+模板:Documentation subpage	Template:Documentation subpage
+分類:Fu̍k-tsông	Category:僧
+模板:FIN	Template:FIN
+模板:Purge	Template:Purge
+模板:Lang-de	Template:Lang-de
+模板:DNK	Template:DNK
+模板:Provinces of China	Template:中華人民共和国の行政区画
+模板:Userpage	Template:Userpage
+模板:DEU	Template:DEU
+模板:SWE	Template:SWE
+模板:User language-4	Template:User language-4
+分類:Ye̍t-nàm kî-chhòng	Category:ベトナムの空港
+Kiet-tshòng	結腸
+分類:Kûng-sṳ̂	Category:企業
+Â-mí	アトメートル
+模板:User fr-3	Template:User fr-3
+模板:Allcaps	Template:Allcaps
+模板:JPN	Template:JPN
+分類:Thien-nó	Category:パーソナルコンピュータ
+模板:MKD	Template:MKD
+模板:LTU	Template:LTU
+100000000	100000000
+分類:Sṳ-chhòng	Category:市場
+Mô-li-ngìn	マオリ
+模板:Disambig	Template:Aimai
+模板:Tick	Template:レ
+分類:Khien-không Khô-ho̍k	Category:健康科学
+分類:Hàng-thung Thien-fa	Category:携帯電話端末
+模板:User nan	Template:User zh-min-nan
+模板:User nan-1	Template:User zh-min-nan-1
+模板:GRC	Template:GRC
+模板:Lang-grc	Template:Lang-grc
+模板:CZE	Template:CZE
+模板:Lifetime	Template:Lifetime
+模板:Lang-en	Template:Lang-en
+分類:Chhòn-ngiam-phiang	Category:感染症
+分類:Sîn-kau	Category:プロテスタント
+模板:GBR	Template:GBR
+分類:Sâng-vu̍t	Category:生物
+模板:SVN	Template:SVN
+模板:FRA	Template:FRA
+模板:Hiông-kóng Hàng-tsṳn Khî-va̍k	Template:香港の行政区画
+模板:User pt-2	Template:User pt-2
+分類:Kâ-li-sî-â	Category:ガリシア州
+模板:歐洲行政區劃	Template:ヨーロッパ
+分類:User yue	Category:User zh-yue
+分類:User fr	Category:User fr
+分類:User ja	Category:User ja
+分類:User pt	Category:User pt
+分類:User nl-3	Category:User nl-3
+分類:User fr-2	Category:User fr-2
+分類:User ja-2	Category:User ja-2
+分類:User ko-N	Category:User ko-N
+分類:User fr-N	Category:User fr-N
+分類:Vùn-sṳ	Category:文字
+分類:Tho-kau	Category:道教
+分類:User ca	Category:User ca
+分類:User ca-1	Category:User ca-1
+分類:User de	Category:User de
+分類:User de-2	Category:User de-2
+分類:User de-N	Category:User de-N
+分類:User en-3	Category:User en-3
+分類:User en-N	Category:User en-N
+分類:User es	Category:User es
+分類:User es-2	Category:User es-2
+分類:User es-N	Category:User es-N
+分類:Hiông-kóng Thi-lî	Category:香港の地理
+模板:Lang-lv	Template:Lang-lv
+分類:Yî-set-lie̍t kiûn-vòng	Category:北イスラエル王国の君主
+分類:Yù-thai kiûn-vòng	Category:ユダ王国の君主
+分類:Kí-hò-ho̍k	Category:幾何学
+模板:Ye̍t-nàm	Template:ベトナムの地方行政区画
+分類:User ja-1	Category:User ja-1
+分類:User ko	Category:User ko
+模板:Lang-vi	Template:Lang-vi
+分類:Thiên-hi	Category:気象
+分類:Lièn-ha̍p-koet Pi-sû-chóng	Category:国際連合事務総長
+分類:Hói-yòng	Category:海
+模板:LUX	Template:LUX
+分類:Thai-yòng-ne	Category:太陽系
+分類:Chhîn-su̍k Ne-thúng	Category:親族
+分類:Kóng-tûng-sén	Category:広東省
+分類:Fuk-kian	Category:福建省
+分類:Kîn-chi	Category:経済
+分類:Koet-chi Chû-chṳt	Category:国際組織
+分類:Fat-mìn-kâ	Category:発明家
+分類:Yím-liau	Category:飲料
+分類:User nan-1	Category:User zh-min-nan-1
+分類:User nan-2	Category:User zh-min-nan-2
+分類:User nan-3	Category:User zh-min-nan-3
+分類:User nan-N	Category:User zh-min-nan-N
+分類:Sa-fi Khô-ho̍k	Category:社会科学
+分類:Mî-koet Koet-kâ Kûng-yèn	Category:アメリカ合衆国の国立公園
+分類:Kô-tén Kau-yuk	Category:高等教育
+模板:!w	Template:!wrap
+分類:Thi-hìn	Category:地形
+分類:Pâ-lùn-sî-â Chhṳ-chhṳ-khî	Category:バレンシア州
+模板:User ja-2	Template:User ja-2
+分類:User yue-N	Category:User zh-yue-N
+分類:Yîm-ngo̍k-kâ	Category:音楽家
+模板:!((	Template:!((
+模板:))!	Template:))!
+模板:Lang	Template:Lang
+分類:Fa-kâ	Category:画家
+分類:Yin-thu chûng-kau	Category:インドの宗教
+分類:Ho̍k-su̍t	Category:学問
+分類:Sa-fi chṳ-thu	Category:社会制度
+模板:.w	Template:•wrap
+分類:Ngìn-lui	Category:人間
+模板:CYP	Template:CYP
+分類:Yin-thu Thi-lî	Category:インドの地理
+分類:Sông-ngia̍p	Category:商業
+分類:Kiú-liùng	Category:九龍
+分類:Fap-koet fòng-ti	Category:フランス皇帝
+模板:EST	Template:EST
+模板:AUT	Template:AUT
+Thòi-pat-sien	台8線
+Thòi-liuk-sien	台6線
+Thòi-24-sien	台24線
+Thòi-22-sien	台22線
+Thòi-20-sien	台20線
+Thòi-15-sien	台15線
+Thòi-14-sien	台14線
+Thòi-13-sien	台13線
+Thòi-12-sien	台12線
+Thòi-sṳ̍p-sien	台10線
+分類:Meu-khô	Category:ネコ科
+分類:Kâ-le̍t-pí-hói	Category:カリブ海
+分類:Thòi-vân Thi-lî	Category:台湾の地理
+模板:User zh-3	Template:User zh-3
+模板:User zh-4	Template:User zh-4
+Kuet-tho	国道
+分類:Nì-pok Thi-lî	Category:ネパールの地理
+分類:Thai-khûng-ngìn	Category:宇宙飛行士
+分類:Chûng-fà Mìn-tshu̍k Tshṳ-tshṳ-chû	Category:中華人民共和国の民族自治州
+分類:Khî-ngia̍p-kâ	Category:実業家
+分類:Fî-li̍t-pîn	Category:フィリピン
+分類:User nl	Category:User nl
+分類:User zh-1	Category:User zh-1
+分類:User zh-4	Category:User zh-4
+分類:User zh-3	Category:User zh-3
+分類:User zh-2	Category:User zh-2
+分類:Yin-thu kiûn-chú	Category:インドの君主
+分類:Ho̍k-vi	Category:学位
+分類:Pô-sṳ̂ koet-vòng	Category:イランの君主
+分類:Kîm-yùng	Category:金融
+分類:Chûng-fà mìn-koet tsúng-thúng	Category:中華民国総統
+分類:Thien-sṳ	Category:テレビ
+分類:Chhòn-kau-sṳ	Category:宣教師
+分類:Hói-hia̍p	Category:海峡
+分類:Yin-Êu Ngî-ne	Category:インド・ヨーロッパ語族
+分類:Kî-chhòng	Category:空港
+分類:Fa-ho̍k ngièn-su	Category:元素
+分類:Khô-ho̍k-kâ	Category:科学者
+分類:Pâ-kî-sṳ̂-thán Thi-lî	Category:パキスタンの地理
+分類:Kî-tuk-kau lî-ngì	Category:キリスト教の礼拝・典礼・奉神礼
+分類:Nì-pok	Category:ネパール
+分類:Thòi-vân	Category:台湾
+分類:Chûng-koet chhèu-thoi	Category:中国の王朝
+分類:Pet-mî-chû koet-kâ	Category:北アメリカの国
+分類:Sṳ-tshòi	Category:野菜
+分類:Súi-kó	Category:果物
+分類:Khiu-yok Sṳn-kîn	Category:旧約聖書
+分類:Pok-vu̍t-kón	Category:博物館
+分類:Hì-hèu	Category:気候
+分類:Â-chû Thi-lî	Category:アジアの地理
+分類:Ngìn-lui-ho̍k	Category:人類学
+分類:Thai-khûng Chhàm	Category:宇宙ステーション
+分類:Fap-koet Thai-ho̍k	Category:フランスの大学
+模板:ESP	Template:ESP
+分類:Thung-vu̍t	Category:動物
+分類:Chit-chhûi Thung-vu̍t	Category:脊椎動物
+分類:Ngî-yîm-ho̍k	Category:音声学
+分類:Hòng-khûng Kûng-sṳ̂	Category:航空会社
+分類:Ngìn-khièn	Category:人権
+分類:Ngo̍k-hi	Category:楽器
+分類:Ngî-ne	Category:語族
+分類:Hon-sṳ	Category:漢字
+分類:Pó-sa̍k	Category:宝石
+分類:Koet-kâ Kûng-yèn	Category:国立公園
+分類:Hi-siong-ho̍k	Category:気象学
+分類:Chûng-mî-chû	Category:中央アメリカ
+分類:Fî-kîm-su̍k	Category:非金属元素
+分類:Hiông-kóng	Category:香港
+分類:Kóng-sî-sén	Category:広西チワン族自治区
+分類:Yên-liau	Category:燃料
+分類:Sông-hói	Category:上海
+分類:Sin-sit kî-su̍t	Category:情報技術
+分類:Ngiuk-lui	Category:食肉
+分類:Yo̍k-ho̍k	Category:薬学
+分類:Sú-tû	Category:首都
+分類:Nàm-Â	Category:南アジア
+分類:Kham-thap-pu-lî-â	Category:カンタブリア州
+分類:Â-sṳ̂-thù-lî-â-sṳ̂-sén	Category:アストゥリアス州
+分類:Kîm-su̍k	Category:金属
+分類:Thòi-pet-sṳ	Category:台北市
+分類:Lò-màn Ngî-chhu̍k	Category:ロマンス諸語
+分類:Kâu-thûng	Category:交通
+分類:Ngiên-kiu	Category:研究
+分類:Thông-lui	Category:糖類
+分類:Nàm-tó ngî-hì	Category:オーストロネシア語族
+分類:Pet-mî-chû	Category:北アメリカ
+分類:Kô-sú	Category:歌手
+分類:Si-chhòng	Category:チベット
+分類:Sú-ho̍k-kâ	Category:数学者
+分類:Vu̍t-lî ho̍k-kâ	Category:物理学者
+分類:Kîn-chi ho̍k-kâ	Category:経済学者
+分類:Mìn-tsú	Category:民主主義
+分類:Kî-tuk-kau Li̍t-sṳ́	Category:キリスト教の歴史
+分類:Àu-mûn	Category:マカオ
+分類:Hàng-sên-ne	Category:惑星系
+Thòi-17-sien	台17線
+分類:Hiông-kóng pan-tó	Category:香港の島
+分類:Thòi-vân ngî-ngièn	Category:台湾の言語
+分類:Thòi-vân Koet-kâ Kûng-yèn	Category:台湾の国家公園
+分類:Khiù-lui Yun-thung	Category:球技
+分類:Ngiùn-hòng	Category:銀行
+Fu̍k-vu	サービス
+分類:Chûng-fà Ngìn-mìn Khiung-fò-koet	Category:中華人民共和国
+分類:Kâ-thai-lò-nì-â	Category:カタルーニャ州
+Kap-kut-vùn	甲骨文字
+分類:Khien-không	Category:健康
+分類:User zh-classical-2	Category:User zh-classical-2
+模板:Lang-pl	Template:Lang-pl
+Trojany	トロヤニ (マゾフシェ県)
+分類:Â-chû koet-kâ	Category:アジアの国
+分類:Yùn-lìm-yen	Category:雲林県
+分類:Ngì-làn-yen	Category:宜蘭県
+分類:Yù-tsiâm-vong-khî	Category:油尖旺区
+模板:Chûng-fà Mìn-chhu̍k	Template:中華民族
+模板:User nan-2	Template:User zh-min-nan-2
+模板:MLT	Template:MLT
+模板:User zh-classical-2	Template:User zh-classical-2
+分類:Vân-chái-khî	Category:湾仔区
+分類:Hak-kâ	Category:客家
+分類:Kûng-yèn	Category:公園
+分類:Thòi-vân Ngiùn-hòng	Category:台湾の銀行
+分類:Chûng-sî-khî (Hiông-kóng)	Category:中西区 (香港)
+分類:Kâ-ngi-yen	Category:嘉義県
+分類:Sùn-fàn Hì-thúng	Category:循環系
+分類:Thòi-vân ngièn-tshu-mìn ngî-ngièn	Category:台湾諸語
+分類:Si-chhòng Thi-lî	Category:チベットの地理
+模板:Lts	Template:Lts
+分類:Hiông-kóng-tó	Category:香港島
+分類:Sîn-tsuk-yen	Category:新竹県
+分類:Fâ-lièn-yen	Category:花蓮県
+分類:Nui-mùng-kú Tshṳ-tshṳ-khî	Category:内モンゴル自治区
+分類:Lì-tó-khî	Category:離島区
+分類:Kî-lùng-sṳ	Category:基隆市
+分類:Kiú-liùng-sàng-khî	Category:九龍城区
+分類:Lâ-tên Mî-chû	Category:ラテンアメリカ
+分類:Chúng-chhu̍k	Category:人種
+分類:Mèu-li̍t-yen	Category:苗栗県
+分類:Hiông-kóng Sân-Fûng	Category:香港の山
+分類:Chûng-fà Mìn-koet	Category:中華民国
+分類:Nàm-thèu-yen	Category:南投県
+分類:Sîn-kie	Category:新界
+分類:Sî-kung-khî	Category:西貢区
+分類:Siak-khiet-kau	Category:シク教
+分類:Sa-fi Mìn-tsú Tsú-ngi	Category:社会民主主義
+分類:Phìn-tûng-yen	Category:屏東県
+模板:BEL	Template:BEL
+分類:Kú-thoi chhu̍k-khiùn	Category:古代民族
+分類:Thap-là-kô-na̍p-sén	Category:タラゴナ県
+分類:Pâ-set-lò-nâ-sén	Category:バルセロナ県
+分類:Chûng-kau-ho̍k	Category:宗教学
+分類:Thòi-tûng-yen	Category:台東県
+分類:Thòi-vàn Ngièn-chhu-mìn	Category:台湾原住民
+分類:Thò-yèn-yen	Category:桃園市
+分類:Thien-fa	Category:電話
+模板:TPE	Template:TPE
+分類:Ngân-set	Category:色
+分類:Thûn-mùn-khî	Category:屯門区
+分類:Â-là-kung	Category:アラゴン州
+分類:User cdo	Category:User cdo
+分類:User zh-min-dong-N	Category:User cdo-N
+分類:Chông-fa-yen	Category:彰化県
+分類:Tseu-mìn	Category:照明
+分類:Phòng-châ-phú	Category:パンジャーブ
+分類:Phàng-fù-yen	Category:澎湖県
+分類:Hak-kâ-ngìn	Category:客家人
+模板:Chûng-fà Mìn-koet Hàng-chṳn Khî-va̍k	Template:中華民国の行政区分
+分類:Lie̍t-yî-tha̍t-sén	Category:リェイダ県
+甲型流感病毒H7N9亞型	H7N9亜型
+模板:HUN	Template:HUN
+Â-phô	おばあさん
+模板:Yin-thu-nì-sî-â	Template:インドネシアの地方行政区画
+Vòng-phûng	ハチ
+模板:Kóng-sî Hàng-chṳn Khî-va̍k	Template:広西チワン族自治区の行政区画
+模板:Kóng-tûng Hàng-chṳn Khî-va̍k	Template:広東省の行政区画
+分類:User en-1	Category:User en-1
+分類:User de-1	Category:User de-1
+分類:Lièn-kông-yen	Category:連江県
+模板:Thòi-pet-sṳ	Template:台北市
+Liû-khiû Khiùn-tó	琉球諸島
+Thòi-19-sien	台19線
+Thòi-tshit-sien	台7線
+模板:User ru-3	Template:User ru-3
+Thòi-23-sien	台23線
+模板:Kô-hiùng-yen	Template:高雄県の行政区分
+模板:Phìn-tûng-yen	Template:屏東県の行政区分
+模板:Ngì-làn-yen	Template:宜蘭県の行政区分
+模板:User nl-3	Template:User nl-3
+模板:Sîn-pet-sṳ	Template:新北市の行政区分
+模板:Yùn-lìm-yen	Template:雲林県の行政区分
+模板:Si-chhôn Hàng-chṳn Khî-va̍k	Template:四川省の行政区画
+模板:Nàm-thèu-yen	Template:南投県の行政区分
+模板:Fâ-lièn-yen	Template:花蓮県の行政区分
+模板:MTR	Template:香港MTR
+模板:Kâ-ngi-yen	Template:嘉義県の行政区分
+模板:Thòi-chûng-sṳ	Template:台中市の行政区分
+模板:Sîn-tsuk-yen	Template:新竹県の行政区分
+模板:Chông-fa-yen	Template:彰化県の行政区分
+模板:Alphabet tr	Template:トルコ語アルファベット
+模板:Thò-yèn-yen	Template:桃園市の行政区分
+模板:Mèu-li̍t-yen	Template:苗栗県の行政区分
+模板:Thòi-nàm-yen	Template:台南市の行政区分
+模板:Thòi-tûng-yen	Template:台東県の行政区分
+2013-ngièn Lù-sân Thi-chṳ́n	四川地震 (2013年)
+Yòng-ya̍p-é	チョウ
+Chûng-koet Chhèu-thoi	中国史時代区分表
+模板:Documentation/end box	Template:Documentation/end box
+Ngiên-kiu-só	大学院
+模板:Style/IPA	Template:Style/IPA
+模板:Style/yid	Template:Style/yid
+IPhone 5S	IPhone 5s
+IPhone 5C	IPhone 5c
+Sûng-kú Lô-siên	二重らせん
+Tôn-ńg-chiet	端午
+特殊:最近更改	特別:最近の更新
+模組:HtmlBuilder	モジュール:HtmlBuilder
+模組:Navbar	モジュール:Navbar
+模組:Navbox	モジュール:Navbox
+馬來西亞航空17號班機空難	マレーシア航空17便撃墜事件
+Ngit-tèu Fuk-sa	太陽放射
+Khóa Vùn-chet	柯文哲

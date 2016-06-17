@@ -1,0 +1,830 @@
+Afrịka	アフリカ
+South Amerika	南アメリカ
+Spain	スペイン
+Njikota Obodo Amerika	アメリカ合衆国
+Àlà	地球
+Mádu	ヒト
+Finland	フィンランド
+Poland	ポーランド
+Turkéy	トルコ
+Obodo Békè	ヨーロッパ
+Asia	アジア
+Olile anyanwu Amerika	北アメリカ
+Antarctica	南極大陸
+Wikipedia	ウィキペディア
+New York City	ニューヨーク
+Orunotu	コンピュータ
+Intanet	インターネット
+Barack Obama	バラク・オバマ
+MediaWiki	MediaWiki
+London	ロンドン
+Òrìmìlì Atlantic	大西洋
+Òrìmìlì Pacific	太平洋
+California	カリフォルニア州
+Önwa mbu	1月
+February	2月
+March	3月
+Ethiopia	エチオピア
+Ghana	ガーナ
+Önwa ànó	4月
+May	5月
+Önwa ishií	6月
+July	7月
+August	8月
+September	9月
+October	10月
+Önwa iri na otụ	11月
+Disemba	12月
+Odúm	ライオン
+Obodoézè Nà Ofú	イギリス
+Wiktionary	ウィクショナリー
+Brazil	ブラジル
+Mpaghara Russia	ロシア
+Wiki	ウィキ
+Alabama	アラバマ州
+Jimmy Wales	ジミー・ウェールズ
+Jémanị	ドイツ
+Larry Sanger	ラリー・サンガー
+Otu	1
+Abụo	2
+Atọ	3
+Anọ	4
+Ise	5
+0 (Ónúọgụgụ)	0
+Yukrain	ウクライナ
+Barbados	バルバドス
+Algeria	アルジェリア
+Wikisource	ウィキソース
+Ńkú	木材
+Jisọs Kraịst	イエス・キリスト
+Ákíkó mbu	歴史
+Ihunanya	愛
+Wikipedia nke ndị bekee	英語版ウィキペディア
+Amamihe	科学
+Wikibooks	ウィキブックス
+Wikiquote	ウィキクォート
+Ubuntu	Ubuntu
+Ọmúmú-ónúọgụgụ	数学
+Ostraliya	オーストラリア
+Bob Marley	ボブ・マーリー
+Physics	物理学
+Áláküba	イスラム教
+Lech Wałęsa	レフ・ヴァウェンサ
+Ábu	詩
+Ìfulū	花
+Ama ukwu	都市
+Wikimedia Commons	ウィキメディア・コモンズ
+Chad	チャド
+Ndia	インド
+Mën	メイン州
+Ǹkà	芸術
+Osisi	植物
+Hampshire Ohúrú	ニューハンプシャー州
+Jamaikạ	ジャマイカ
+Másáchusẹts	マサチューセッツ州
+Kónétíkùt	コネチカット州
+Hawaii	ハワイ州
+Dominika	ドミニカ国
+Arctic Ocean	北極海
+Àláskà	アラスカ州
+Israel	イスラエル
+Flórídạ	フロリダ州
+Arizona	アリゾナ州
+Oregon	オレゴン州
+Amerikas	アメリカ州
+Yútạh	ユタ州
+Charlie Chaplin	チャールズ・チャップリン
+Angola	アンゴラ
+Albert Einstein	アルベルト・アインシュタイン
+Togo	トーゴ
+Benin	ベナン
+Botswana	ボツワナ
+Burkina Faso	ブルキナファソ
+Burundi	ブルンジ
+Eritrea	エリトリア
+Pope John Paul II	ヨハネ・パウロ2世 (ローマ教皇)
+Gabon	ガボン
+Kameroon	カメルーン
+Cape Verde	カーボベルデ
+Niger	ニジェール
+Naigeria	ナイジェリア
+Julius Caesar	ガイウス・ユリウス・カエサル
+Sudan	スーダン
+Ọmúmú-àlà	地理学
+Àgwà	色
+Michigan	ミシガン州
+Ilinoi	イリノイ州
+North Dakota	ノースダコタ州
+Sawt Dakótạ	サウスダコタ州
+Montana	モンタナ州
+Waịómịn	ワイオミング州
+Jerusalem	エルサレム
+Idaho	アイダホ州
+Washington (nkeji obodo)	ワシントン州
+Náevadạ	ネバダ州
+Òrìmìlì India	インド洋
+Colorado	コロラド州
+Òtù:Ébé ihe nọr	Category:主要カテゴリ
+Chicago	シカゴ
+Végíníyà	バージニア州
+West Virginia	ウェストバージニア州
+Nú Yọk	ニューヨーク州
+Àlá mmírí Rhode	ロードアイランド州
+Mérílạnd	メリーランド州
+Déláwè	デラウェア州
+Ohaïyo	オハイオ州
+Pensílvéníyạ	ペンシルベニア州
+Uetersen	ユーテルゼン
+Nú Jezị	ニュージャージー州
+Ndiánà	インディアナ州
+Jorjiạ	ジョージア州
+Texas	テキサス州
+Nort Kárólínạ	ノースカロライナ州
+Nleda anyanwu Kàròlina	サウスカロライナ州
+Mississippi	ミシシッピ州
+Tennessee	テネシー州
+Nú Mézíkọ	ニューメキシコ州
+Minésótạ	ミネソタ州
+Coordinated Universal Time	協定世界時
+Wiskonsin	ウィスコンシン州
+Áyowạ	アイオワ州
+Nebraska	ネブラスカ州
+Kánzạs	カンザス州
+Mizurị	ミズーリ州
+Luwisiánà	ルイジアナ州
+Kentórkị	ケンタッキー州
+Arkinsọ	アーカンソー州
+Oklahoma	オクラホマ州
+Akwụkwọ Nsọ	聖書
+Ho Chi Minh City	ホーチミン市
+Ezigbo ulo uka Jesu	真イエス教会
+Asụsụ Inglish	英語
+Đồng Hới	ドンホイ
+Końskowola	コィンスコヴォラ
+2000	2000年
+2003	2003年
+2001	2001年
+2005	2005年
+2007	2007年
+1909	1909年
+1991	1991年
+1993	1993年
+1996	1996年
+1998	1998年
+1999	1999年
+Önwa mbu 1	1月1日
+Önwa mbu 2	1月2日
+Önwa mbu 3	1月3日
+Önwa mbu 4	1月4日
+Önwa mbu 5	1月5日
+Önwa mbu 6	1月6日
+Önwa mbu 7	1月7日
+Önwa mbu 8	1月8日
+Önwa mbu 9	1月9日
+10 Jenụwarị	1月10日
+11 Jenụwarị	1月11日
+Önwa mbu 12	1月12日
+Önwa mbu 13	1月13日
+Önwa mbu 14	1月14日
+Önwa mbu 15	1月15日
+Önwa mbu 16	1月16日
+Önwa mbu 17	1月17日
+Önwa mbu 18	1月18日
+Önwa mbu 19	1月19日
+Önwa mbu 20	1月20日
+Önwa mbu 21	1月21日
+Önwa mbu 22	1月22日
+Önwa mbu 23	1月23日
+Önwa mbu 24	1月24日
+Önwa mbu 25	1月25日
+Önwa mbu 26	1月26日
+Önwa mbu 27	1月27日
+Önwa mbu 28	1月28日
+Önwa mbu 29	1月29日
+Önwa mbu 30	1月30日
+Önwa mbu 31	1月31日
+Önwa iri na abụọ 1	12月1日
+3 Disemba	12月3日
+1 Febrụwarị	2月1日
+2 Febrụwarị	2月2日
+3 Febrụwarị	2月3日
+Kurów	クルフ
+4 Febrụwarị	2月4日
+5 Febrụwarị	2月5日
+6 Febrụwarị	2月6日
+7 Febrụwarị	2月7日
+8 Febrụwarị	2月8日
+9 Febrụwarị	2月9日
+10 Febrụwarị	2月10日
+14 Febrụwarị	2月14日
+13 Febrụwarị	2月13日
+15 Febrụwarị	2月15日
+11 Febrụwarị	2月11日
+12 Febrụwarị	2月12日
+19 Febrụwarị	2月19日
+17 Febrụwarị	2月17日
+16 Febrụwarị	2月16日
+18 Febrụwarị	2月18日
+20 Febrụwarị	2月20日
+21 Febrụwarị	2月21日
+22 Febrụwarị	2月22日
+23 Febrụwarị	2月23日
+24 Febrụwarị	2月24日
+25 Febrụwarị	2月25日
+26 Febrụwarị	2月26日
+27 Febrụwarị	2月27日
+28 Febrụwarị	2月28日
+29 Febrụwarị	2月29日
+2 Maachị	3月2日
+3 Maachị	3月3日
+5 Maachị	3月5日
+1 Maachị	3月1日
+7 Maachị	3月7日
+8 Maachị	3月8日
+4 Maachị	3月4日
+10 Maachị	3月10日
+11 Maachị	3月11日
+6 Maachị	3月6日
+13 Maachị	3月13日
+9 Maachị	3月9日
+12 Maachị	3月12日
+15 Maachị	3月15日
+14 Maachị	3月14日
+16 Maachị	3月16日
+17 Maachị	3月17日
+18 Maachị	3月18日
+19 Maachị	3月19日
+20 Maachị	3月20日
+1985	1985年
+21 Maachị	3月21日
+22 Maachị	3月22日
+1981	1981年
+23 Maachị	3月23日
+24 Maachị	3月24日
+25 Maachị	3月25日
+20 Disemba	12月20日
+26 Maachị	3月26日
+27 Maachị	3月27日
+28 Maachị	3月28日
+29 Maachị	3月29日
+30 Maachị	3月30日
+31 Maachị	3月31日
+1976	1976年
+Pope Benedict XVI	ベネディクト16世 (ローマ教皇)
+15 Eprel	4月15日
+13 Eprel	4月13日
+12 Eprel	4月12日
+14 Eprel	4月14日
+11 Eprel	4月11日
+10 Eprel	4月10日
+8 Eprel	4月8日
+9 Eprel	4月9日
+7 Eprel	4月7日
+6 Eprel	4月6日
+5 Eprel	4月5日
+4 Eprel	4月4日
+3 Eprel	4月3日
+1 Eprel	4月1日
+2 Eprel	4月2日
+16 Eprel	4月16日
+17 Eprel	4月17日
+18 Eprel	4月18日
+19 Eprel	4月19日
+20 Eprel	4月20日
+21 Eprel	4月21日
+22 Eprel	4月22日
+23 Eprel	4月23日
+24 Eprel	4月24日
+25 Eprel	4月25日
+26 Eprel	4月26日
+27 Eprel	4月27日
+28 Eprel	4月28日
+29 Eprel	4月29日
+30 Eprel	4月30日
+1 Mee	5月1日
+2 Mee	5月2日
+3 Mee	5月3日
+4 Mee	5月4日
+5 Mee	5月5日
+6 Mee	5月6日
+7 Mee	5月7日
+8 Mee	5月8日
+9 Mee	5月9日
+10 Mee	5月10日
+11 Mee	5月11日
+12 Mee	5月12日
+13 Mee	5月13日
+14 Mee	5月14日
+15 Mee	5月15日
+16 Mee	5月16日
+17 Mee	5月17日
+18 Mee	5月18日
+19 Mee	5月19日
+20 Mee	5月20日
+21 Mee	5月21日
+22 Mee	5月22日
+23 Mee	5月23日
+24 Mee	5月24日
+25 Mee	5月25日
+26 Mee	5月26日
+27 Mee	5月27日
+28 Mee	5月28日
+29 Mee	5月29日
+30 Mee	5月30日
+31 Mee	5月31日
+Önwa ishií 14	6月14日
+Önwa ishií 15	6月15日
+Önwa ishií 13	6月13日
+Önwa ishií 10	6月10日
+Önwa ishií 7	6月7日
+Önwa ishií 11	6月11日
+Önwa ishií 9	6月9日
+Önwa ishií 12	6月12日
+Önwa ishií 6	6月6日
+Önwa ishií 8	6月8日
+Önwa ishií 5	6月5日
+Önwa ishií 3	6月3日
+Önwa ishií 2	6月2日
+Önwa ishií 1	6月1日
+Önwa ishií 4	6月4日
+1967	1967年
+Önwa ishií 16	6月16日
+Önwa ishií 30	6月30日
+Önwa ishií 29	6月29日
+Önwa ishií 28	6月28日
+Önwa ishií 26	6月26日
+Önwa ishií 25	6月25日
+Önwa ishií 22	6月22日
+Önwa ishií 27	6月27日
+Önwa ishií 24	6月24日
+Önwa ishií 20	6月20日
+Önwa ishií 23	6月23日
+Önwa ishií 19	6月19日
+Önwa ishií 18	6月18日
+Önwa ishií 21	6月21日
+Önwa ishií 17	6月17日
+15 Julaị	7月15日
+13 Julaị	7月13日
+12 Julaị	7月12日
+10 Julaị	7月10日
+9 Julaị	7月9日
+14 Julaị	7月14日
+8 Julaị	7月8日
+7 Julaị	7月7日
+6 Julaị	7月6日
+5 Julaị	7月5日
+2 Julaị	7月2日
+4 Julaị	7月4日
+3 Julaị	7月3日
+1 Julaị	7月1日
+11 Julaị	7月11日
+30 Julaị	7月30日
+29 Julaị	7月29日
+27 Julaị	7月27日
+19 Julaị	7月19日
+20 Julaị	7月20日
+17 Julaị	7月17日
+18 Julaị	7月18日
+16 Julaị	7月16日
+Footbọl	サッカー
+3 Ọgọọst	8月3日
+1 Ọgọọst	8月1日
+27 Disemba	12月27日
+Önwa asaa atọ 29	8月29日
+30 Ọgọọst	8月30日
+27 Ọgọọst	8月27日
+20 Ọgọọst	8月20日
+Michael Jackson	マイケル・ジャクソン
+Ịgbó	大麻
+1 Septemba	9月1日
+3 Septemba	9月3日
+29 Disemba	12月29日
+30 Septemba	9月30日
+29 Septemba	9月29日
+27 Septemba	9月27日
+20 Septemba	9月20日
+30 Disemba	12月30日
+1 Ọktoba	10月1日
+3 Ọktoba	10月3日
+30 Ọktoba	10月30日
+29 Ọktoba	10月29日
+27 Ọktoba	10月27日
+20 Ọktoba	10月20日
+11 Novemba	11月11日
+3 Novemba	11月3日
+1 Novemba	11月1日
+30 Novemba	11月30日
+29 Novemba	11月29日
+27 Novemba	11月27日
+20 Novemba	11月20日
+Göttingen	ゲッティンゲン
+Ūfie	赤
+Oshimiri Orimiri	ニジェール川
+Jack Angel	ジャック・エンジェル
+Addis Ababa	アディスアベバ
+Òtù:Templates	Category:ウィキペディアのテンプレート
+Abuja	アブジャ
+Galisa	ガリシア州
+Wikipedia:Ama Egwuregwu	Wikipedia:サンドボックス
+Ama	街
+Osasco	オザスコ (サンパウロ州)
+Curitiba	クリチバ
+Jonathan Winters	ジョナサン・ウィンタース
+Sean Connery	ショーン・コネリー
+Konfúkius	孔子
+Corbin Bleu	コービン・ブルー
+Òtù:Ọmúmú-ónúọgụgụ	Category:数学
+Efefe Kraịst	キリスト教
+Seattle	シアトル
+Oskàpà	米
+Monzón	モンソン
+Almazán	アルマサン
+Ihü Mbu	メインページ
+Vincent van Gogh	フィンセント・ファン・ゴッホ
+Frank Lloyd Wright	フランク・ロイド・ライト
+Gabriel García Márquez	ガブリエル・ガルシア＝マルケス
+Ákọ na Uche	哲学
+Òtù:Candidates for speedy deletion	Category:即時削除対象のページ
+Liberalism	自由主義
+Égwu ahiri	ギター
+Conservatism	保守
+Ọchíchí nke umunna Han	漢
+Jew	ユダヤ人
+Southern Ocean	南極海
+Ntị	耳
+Ányá	目
+Achicha	パン
+Nelson Mandela	ネルソン・マンデラ
+Martin Luther King, Jr.	マーティン・ルーサー・キング・ジュニア
+Ómárí	論理学
+Ȯgbà	社会
+Azụ	家族
+Hong Kong	香港
+Lagos	ラゴス
+Walt Disney	ウォルト・ディズニー
+José Mujica	ホセ・ムヒカ
+Taj Mahal	タージ・マハル
+Abram	アブラハム
+Judaism	ユダヤ教
+Oke Òrìmìlì	大洋
+Muhammad	ムハンマド・イブン＝アブドゥッラーフ
+Onu	口
+Ronald Reagan	ロナルド・レーガン
+Óshíshí	木
+Ńnú odẹne	砂糖
+Nka na Uzu	テクノロジー
+Ọrià Parkinson	パーキンソン病
+Electromagnetism	電磁気学
+Ndetu obodo	国の一覧
+Kevin Costner	ケビン・コスナー
+Google Maps	Google マップ
+Tutankhamun	ツタンカーメン
+Detroit	デトロイト
+Njè Ághá Jésu	十字軍
+Oche	椅子
+Queen	クイーン (バンド)
+Kanyé West	カニエ・ウェスト
+Àtụ:Link FA	Template:Link FA
+Vermont	バーモント州
+Ulo uka	教会堂
+Nupedia	Nupedia
+Itolu	9
+Nha Trang	ニャチャン
+Public domain	パブリックドメイン
+Josh Duhamel	ジョシュ・デュアメル
+Lady Gaga	レディー・ガガ
+Breinigerberg	ブライニガーベルク
+Samsung	サムスングループ
+Vung Tau	ブンタウ
+GNU Free Documentation License	GNU Free Documentation License
+Population density	人口密度
+1	1年
+Asaa	7
+Asatọ	8
+Taylor Lautner	テイラー・ロートナー
+Jeremy Renner	ジェレミー・レナー
+Chris Pine	クリス・パイン
+Isii	6
+Asụsụ obodo	公用語
+Moshchena	モシュチェナ
+George H. W. Bush	ジョージ・H・W・ブッシュ
+Paltoga	パルトガ
+Entrena	エントレナ
+Iri	10
+Andrew Garfield	アンドリュー・ガーフィールド
+Ca Mau	カマウ
+ISO 3166-1	ISO 3166-1
+Da Nang	ダナン
+Arktik	北極
+Mahadum Niccolò Cusano	ニコラウス・クザーヌス大学
+Owuwa Anyanwu Obodo Beke	東ヨーロッパ
+Mba Mmiri	ニジェール・デルタ
+Density	密度
+Nwanna	兄弟姉妹
+Ásụ̀sụ̀ Ị̀gbò	イボ語
+Áká	手
+Ndi Haụsa	ハウサ人
+Marlon Brando	マーロン・ブランド
+Latitude	緯度
+Justin Bieber	ジャスティン・ビーバー
+Mkpisi-aka	指
+Kingston	キングストン (ジャマイカ)
+Ágụ	ヒョウ
+Ílú	ことわざ
+Charles Bronson	チャールズ・ブロンソン
+Beyoncé Knowles	ビヨンセ
+Thanh Hoa	タインホア
+Longitude	経度
+Iri na abụo	12
+Toshiro Mifune	三船敏郎
+Iri na otu	11
+Iri na atọ	13
+Mmuo Nso	聖霊
+Iri na anọ	14
+Iri na ise	15
+Iri na asatọ	18
+Radio Studio 54 Network	Radio Studio 54 Network
+Iri na iteghete	19
+Iri na asaa	17
+Iri na isii	16
+Iri abụo	20
+Björk	ビョーク
+Johnny Cash	ジョニー・キャッシュ
+Omaha, Nebraska	オマハ
+Malcolm X	マルコム・X
+Nwanyi	メス (動物)
+Nwoke	オス
+The Doors	ドアーズ
+Ndi áláküba	ムスリム
+Idi Amin	イディ・アミン
+Iri abụo na atọ	23
+Ndi Afrika nke Amerika	アフリカ系アメリカ人
+Nje ọrịa Ebola	エボラ出血熱
+Goodluck Jonathan	グッドラック・ジョナサン
+Otto Sander	オットー・ザンダー
+Iri abụo na ise	25
+Iri abụo na anọ	24
+Etemete mmírí	水循環
+James Dean	ジェームズ・ディーン
+Ahà nnà	姓
+Harriet Tubman	ハリエット・タブマン
+Donald Sutherland	ドナルド・サザーランド
+Peter O'Toole	ピーター・オトゥール
+Sidney Poitier	シドニー・ポワチエ
+Umaru Yar'Adua	ウマル・ヤラドゥア
+Onye Kraịst	キリスト教徒
+Òbòdò àgwè	島国
+Joey King	ジョーイ・キング
+Malcolm McDowell	マルコム・マクダウェル
+Ȯra Anambra	アナンブラ州
+Dziecinów (no na Otwock County)	ヂェチヌフ (オトフォツク郡)
+Russell Crowe	ラッセル・クロウ
+Chinụa Achebe	チヌア・アチェベ
+Dammam	ダンマーム
+Gini coefficient	ジニ係数
+Daniel Day-Lewis	ダニエル・デイ＝ルイス
+Ahú	体
+Okpara	息子
+Bịafra	ビアフラ共和国
+Nkárí asụsụ China nke óménàlà	繁体字
+Christopher Lee	クリストファー・リー
+Philip Seymour Hoffman	フィリップ・シーモア・ホフマン
+Nnamdi Azikiwe	ンナムディ・アジキウェ
+Ta’if	ターイフ
+Asafa Powell	アサファ・パウエル
+Forest Whitaker	フォレスト・ウィテカー
+Kano	カノ
+Ndi Yoruba	ヨルバ人
+Wikipedia nke ndị Norway	ノルウェー語版ウィキペディア
+Nancy Reagan	ナンシー・レーガン
+Digimon	デジタルモンスター
+Egbughị egbu	不殺生
+Olusegun Obasanjo	オルシェグン・オバサンジョ
+Abá	アバ (ナイジェリア)
+Ọrịa ihi ụra nke ukwuu	アフリカ睡眠病
+Sani Abacha	サニ・アバチャ
+Roger Ebert	ロジャー・イーバート
+Adolfo Suárez	アドルフォ・スアレス
+David Letterman	デイヴィッド・レターマン
+Ugwu Ọcha	ポートハーコート
+Anggun	アングン
+Erykah Badu	エリカ・バドゥ
+Ruby Dee	ルビー・ディー
+Ndi ocha	白人
+Arise O Compatriots, Nigeria's Call Obey	起て同胞、ナイジェリアの呼び出しに遵って
+Ndị Igbo	イボ人
+Pete Seeger	ピート・シーガー
+Skin Diamond	スキン・ダイアモンド
+Abdulsalami Abubakar	アブドゥルサラミ・アブバカール
+Azealia Banks	アジーリア·バンクス
+Marcus Garvey	マーカス・ガーベイ
+Paul Robeson	ポール・ロブスン
+George Gaynes	ジョージ・ゲインズ
+Martin Landau	マーティン・ランドー
+Miranda Otto	ミランダ・オットー
+Kelis	ケリス
+Richard Chamberlain	リチャード・チェンバレン
+Ẹkẹlẹkbọ	雌雄同体
+Adá	娘
+James Gandolfini	ジェームズ・ギャンドルフィーニ
+Hal Holbrook	ハル・ホルブルック
+Richard Griffiths	リチャード・グリフィス
+Donald Pleasence	ドナルド・プレザンス
+Ȯra Abia	アビア州
+Richard Matheson	リチャード・マシスン
+Ibrahim Babangida	イブラヒム・ババンギダ
+Stereolab	ステレオラブ
+Fernanda Montenegro	フェルナンダ・モンテネグロ
+Ndi ojié	ネグロイド
+Richard Schiff	リチャード・シフ
+Marek Grechuta	マレク・グレフタ
+Genaral Johnson Aguiyi-Ironsi	ジョンソン・アグイイ＝イロンシ
+Chukwuemeka Odumegwu Ojukwu	チュクエメカ・オジュク
+Bob Barker	ボブ・バーカー
+Rhodocene	ロドセン
+Pope Francis	フランシスコ (ローマ教皇)
+Akwụkwọ nke Momọn	モルモン書
+Stephen Root	スティーヴン・ルート
+Enúgwu	エヌグ
+Coritiba Foot Ball Club	コリチーバFC
+Medinaceli	メディナセリ
+James Avery	ジェームズ・アヴェリー (俳優)
+Ishi ochíchì Naigeria	ナイジェリアの大統領
+Chris Pratt	クリス・プラット
+Ȯra Ebonyi	エボニ州
+Efrem Zimbalist, Jr.	エフレム・ジンバリスト・ジュニア
+Baskin-Robbins	バスキン・ロビンス
+Asaá Göttingen	ゲッティンゲン七教授事件
+Ọgụ Towton	タウトンの戦い
+Chineke	創造神
+Nkeji Ochíchííwu Kano	カノ州
+Brandy	ブランディ
+Iri abụo na otu	21
+Iri abụo na abụo	22
+Òrìmìlì uwa	世界の大洋
+Mahadum Obodo nke Yang-Ming	国立陽明大学
+Yeghishe Charents	イェギシェ・チャレンツ
+Wikipedia:Meta	Wikipedia:メタウィキメディア
+Ȯra Lagos	ラゴス州
+Ȯra Imo	イモ州
+Onịchạ	オニチャ
+VietJet Air	ベトジェットエア
+Buddy Ebsen	バディ・イブセン
+Afọ	胃
+Casey Kasem	ケイシー・ケイサム
+Àsàbà	アサバ
+Lólọ	クイーン
+RedTube	RedTube
+Agnes Monica	アグネス・モニカ
+Òtù:Jémanị	Category:ドイツ
+Òtù:Njikota Obodo Amerika	Category:アメリカ合衆国
+Òtù:Mpaghara Russia	Category:ロシア
+Òtù:Spain	Category:スペイン
+Òtù:Ndia	Category:インド
+Òtù:Ethiopia	Category:エチオピア
+Òtù:Naigeria	Category:ナイジェリア
+Òtù:Poland	Category:ポーランド
+Òtù:Yukrain	Category:ウクライナ
+Òtù:Vietnam	Category:ベトナム
+Òtù:Ákíkó mbu	Category:歴史
+Òtù:Geography	Category:地理
+Òtù:Àlà	Category:地球
+Gari	ガリ (キャッサバ)
+Political parties nile no la Nigeria	ナイジェリアの政党
+Àbànà	ダイジョ
+Òtù:Disambiguation	Category:曖昧さ回避
+Ohi	窃盗
+Conrad Bain	コンラッド・ベイン
+Òtù:Édémédé mkpu mkpu	Category:スタブ
+Òtù:Continents	Category:大陸
+Odòdo	紫
+Òtù:Wikipedia bots	Category:Wikipedia bots
+XVideos	XVideos
+Ȯra Enugu	エヌグ州
+Wikipedia:Administrators	Wikipedia:管理者
+Wikipedia:Requests for adminship	Wikipedia:管理者への立候補
+Wikipedia:Bureaucrats	Wikipedia:ビューロクラット
+Wikipedia:Oversight	Wikipedia:オーバーサイトの方針
+Àtụ:Bot	Template:Bot
+Kánada	カナダ
+Òtù:Wikipedia policies and guidelines	Category:ガイドライン
+Àtụ:Documentation	Template:Documentation
+Wikipedia:Nzọr ogbako	Wikipedia:コミュニティ・ポータル
+Wikipedia:Neutral point of view	Wikipedia:中立的な観点
+Wikipedia:Criteria for speedy deletion	Wikipedia:即時削除の方針
+Sung Jae-gi	成在基
+Àtụ:Softredirect	Template:Softredirect
+Àtụ:Delete	Template:即時削除
+Òtù:Wikipedia	Category:ウィキペディア
+Wikipedia:Attribution	Wikipedia:Attribution
+Wikipedia:General disclaimer	Wikipedia:免責事項
+Àtụ:Ngwaọtú	Template:Navbox
+Òtù:Redirects	Category:リダイレクト
+Eba	エバ
+Àtụ:!	Template:!
+Àtụ:Tnavbar	Template:Tnavbar
+Òtù:Formatting templates	Category:レイアウト用テンプレート
+Àtụ:Clear	Template:Clear
+Àtụ:Érèkọbalà	Template:Nowrap
+Òtù:Afrịka	Category:アフリカ
+Òtù:Önwa ishií	Category:6月
+Àtụ:Babel	Template:Babel
+Àtụ:References	Template:Reflist
+Àtụ:ÉdéNtạ	Template:Stub
+Àtụ:See also	Template:See also
+Àtụ:User en-0	Template:User en-0
+Àtụ:User en	Template:User en
+Àtụ:User sk	Template:User sk
+Àtụ:User ja	Template:User ja
+Àtụ:Intricate template	Template:複雑なテンプレート
+Àtụ:Mod	Template:Mod
+Òtù:Encyclopedias	Category:百科事典
+Àtụ:Íshí Nzọr Inglish	Template:Welcome
+Àtụ:NwannenwanyiWikipedia	Template:WikipediaSister
+Òtù:Coordinates templates	Category:座標関連のテンプレート
+Àtụ:Click	Template:Click
+Àtụ:Infobox dot-com company	Template:Infobox dotcom company
+Àtụ:Ala no n'ime Africa	Template:アフリカ
+Àtụ:Meta	Template:Meta
+Àtụ:Wikimedia Foundation	Template:Wikimedia Foundation
+Àtụ:Collapsible list	Template:Collapsible list
+Àtụ:Indent	Template:Indent
+Àtụ:Steady	Template:Steady
+Àtụ:Ngwómárí Obodo	Template:基礎情報 国
+Àtụ:Documentation/docname	Template:Documentation/docname
+Àtụ:Audio	Template:Audio
+Àtụ:Selfref	Template:Selfref
+Àtụ:Coor title d	Template:Coor title d
+Àtụ:Ngwómárí pharaoh	Template:Pharaoh Infobox
+Òtù:User en	Category:User en
+Àtụ:Infobox	Template:Infobox
+Àtụ:TOCright	Template:TOCright
+Àtụ:Coor URL	Template:座標URL
+Àtụ:Pp-template	Template:Pp-template
+Àtụ:IPA	Template:IPA2
+Àtụ:Birth date and age	Template:生年月日と年齢
+Àtụ:Infobox Ndi mbà	Template:Infobox 民族
+Àtụ:Border	Template:Border
+Àtụ:Infobox website	Template:Infobox Website
+Àtụ:Coor title dms	Template:Coor title dms
+Àtụ:PD-ineligible	Template:PD-ineligible
+Àtụ:Documentation subpage	Template:Documentation subpage
+Àtụ:Tlx	Template:Tlx
+Àtụ:User	Template:User
+Àtụ:Year nav 1st century CE	Template:年代ナビ
+Àtụ:Infobox Language/map	Template:Infobox Language/map
+Àtụ:Clearright	Template:Clearright
+Àtụ:GFDL-with-disclaimers	Template:GFDL
+Àtụ:Resize	Template:Resize
+Àtụ:Coor	Template:Coord
+Àtụ:Dated maintenance category	Template:DMC
+Òtù:Interwiki Templates	Category:インターウィキリンク用テンプレート
+Òtù:User sk	Category:User sk
+Àtụ:IncreaseNegative	Template:IncreaseNegative
+Òtù:Templates using ParserFunctions	Category:条件文
+Òtù:User sk-N	Category:User sk-N
+Òtù:User de	Category:User de
+Òtù:User de-N	Category:User de-N
+Òtù:User en-N	Category:User en-N
+Àtụ:Information	Template:Information
+Òtù:Typing-aid templates	Category:入力支援テンプレート
+Òtù:1960 births	Category:1960年生
+Òtù:Ala no n'ime Afrịka	Category:アフリカの国
+Àtụ:As of	Template:As of
+Òtù:Title templates	Category:タイトル表示テンプレート
+Òtù:Nebraska	Category:ネブラスカ州
+Òtù:Michigan	Category:ミシガン州
+Àtụ:Infobox Language/family-color	Template:Infobox Language/family-color
+Àtụ:DecreasePositive	Template:DecreasePositive
+Òtù:1st century	Category:1世紀
+Òtù:Jamaikạ	Category:ジャマイカ
+Òtù:Esoteric templates	Category:複雑なテンプレート
+Òtù:Template namespace templates	Category:テンプレート用テンプレート
+Òtù:Dominika	Category:ドミニカ国
+Òtù:Wikimedia Foundation	Category:ウィキメディア財団
+Òtù:Wikipedia how-to	Category:ウィキペディアの手引き書
+Òtù:Wikipedia disclaimers	Category:ウィキペディアにおける免責事項
+Òtù:Ómárí	Category:論理学
+Àtụ:Infobox Language	Template:Infobox Language
+Àtụ:FULLROOTPAGENAME	Template:FULLROOTPAGENAME
+Àtụ:Infobox Language/image	Template:Infobox Language/image
+Àtụ:H:title	Template:H:title
+Àtụ:DMCA	Template:DMCA
+Trojany (no na Wołomin County)	トロヤニ (マゾフシェ県)
+Jí	ヤム
+Òtù:Wikipedia multilingual coordination	Category:ウィキペディアの多言語連携
+Àtụ:TOCleft	Template:TOCleft
+Òtù:Göttingen	Category:ゲッティンゲン
+Òtù:Nigerian state capitals	Category:ナイジェリアの州都
+Àtụ:Infobox Language/statesregion	Template:Infobox Language/statesregion
+Àtụ:Infobox Language/IPA notice	Template:Infobox Language/IPA notice
+Wikipedia:Medical disclaimer	Wikipedia:医療に関する免責事項
+Àtụ:Start date	Template:Start date
+Nwanne	兄弟
+Wikipedia:Risk disclaimer	Wikipedia:リスクに関する免責事項
+Àtụ:Oscoor	Template:Oscoor
+Wikipedia:Legal disclaimer	Wikipedia:法律に関する免責事項
+Àtụ:Coor title dm	Template:Coor title dm
+Wikipedia:Content disclaimer	Wikipedia:内容に関する免責事項
+Àtụ:Infobox Language/genetic2	Template:Infobox Language/genetic
+Ihü kárírí:RecentChanges	特別:最近の更新

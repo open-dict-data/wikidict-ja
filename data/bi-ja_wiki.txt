@@ -1,0 +1,537 @@
+Saot Amerika	南アメリカ
+Norway	ノルウェー
+Ireland	アイルランド
+Hungary	ハンガリー
+Spain	スペイン
+Yunaeted Stet blong Amerika	アメリカ合衆国
+Belgium	ベルギー
+Luxembourg	ルクセンブルク
+Finland	フィンランド
+Sweden	スウェーデン
+Denmark	デンマーク
+Poland	ポーランド
+Litwania	リトアニア
+Itali	イタリア
+Switzerland	スイス
+Austria	オーストリア
+Greece	ギリシャ
+Turkey	トルコ
+Portugal	ポルトガル
+Yurop	ヨーロッパ
+Esia	アジア
+Wikipedia	ウィキペディア
+Netherlands	オランダ
+Berlin	ベルリン
+Barak Obama	バラク・オバマ
+Uruguay	ウルグアイ
+London	ロンドン
+Paris	パリ
+Mexico	メキシコ
+Pasifik	太平洋
+Kalifornia	カリフォルニア州
+Boston, Massachusetts	ボストン
+Franis	フランス
+Unaeted Kingdom	イギリス
+China	中華人民共和国
+Brazil	ブラジル
+Rusia	ロシア
+Alabama	アラバマ州
+Germany	ドイツ
+Belarus	ベラルーシ
+Iceland	アイスランド
+Estonia	エストニア
+David Cameron	デーヴィッド・キャメロン
+Wan	1
+Tu	2
+Tri	3
+Fo	4
+Faef	5
+Latvia	ラトビア
+Ukraine	ウクライナ
+Czechia	チェコ
+Slovakia	スロバキア
+Slovenia	スロベニア
+Vilnius	ヴィリニュス
+Moldova	モルドバ
+Romania	ルーマニア
+Bulgaria	ブルガリア
+Rome	ローマ
+Macedonia	マケドニア共和国
+Albania	アルバニア
+Croatia	クロアチア
+Bosnia and Herzegovina	ボスニア・ヘルツェゴビナ
+Azerbaijan	アゼルバイジャン
+Andorra	アンドラ
+Cyprus	キプロス
+Georgian Republic	グルジア
+Kazakhstan	カザフスタン
+Malta	マルタ
+Monaco	モナコ
+Montenegro	モンテネグロ
+Vatican Siti	バチカン
+San Marino	サンマリノ
+Indonesia	インドネシア
+Warsaw	ワルシャワ
+Wota	水
+Chile	チリ
+Jisas Kraes	イエス・キリスト
+Nicolas Sarkozy	ニコラ・サルコジ
+Singapore	シンガポール
+Saens	科学
+Liechtenstein	リヒテンシュタイン
+Spot	スポーツ
+Wol Wo Tu	第二次世界大戦
+Armenia	アルメニア
+Serbia	セルビア
+Ostrelia	オーストラリア
+Argentina	アルゼンチン
+Peru	ペルー
+Baeoloji	生物学
+Islam	イスラム教
+Boteni	植物学
+Flaoa	花
+Wikimidia Commons	ウィキメディア・コモンズ
+Moskow	モスクワ
+San-Peterburg	サンクトペテルブルク
+Niu Zilan	ニュージーランド
+India	インド
+Aean	鉄
+Ripablik blong Vanuatu	バヌアツ
+Papua New Guinea	パプアニューギニア
+Venezuela	ベネズエラ
+Maine	メイン州
+Animol	動物
+Paraguay	パラグアイ
+Colombia	コロンビア
+Budisim	仏教
+Bolivia	ボリビア
+Niu Hampshire	ニューハンプシャー州
+Massachusetts	マサチューセッツ州
+Connecticut	コネチカット州
+Hawaii	ハワイ州
+Alaska	アラスカ州
+Florida	フロリダ州
+Arizona	アリゾナ州
+Laos	ラオス
+Oregon	オレゴン州
+Yuta	ユタ州
+Burma	ミャンマー
+Vietnam	ベトナム
+Saot Koria	大韓民国
+Bangladesh	バングラデシュ
+Bhutan	ブータン
+Twitter	Twitter
+Julius Caesar	ガイウス・ユリウス・カエサル
+Yunaeted Nesen	国際連合
+Jiografi	地理学
+Bren	脳
+Prague	プラハ
+Michigan	ミシガン州
+Illinois	イリノイ州
+Not Dakota	ノースダコタ州
+Saut Dakota	サウスダコタ州
+Montana	モンタナ州
+Wyoming	ワイオミング州
+Giorgio Napolitano	ジョルジョ・ナポリターノ
+Idaho	アイダホ州
+Washington (Bundesstaat)	ワシントン州
+Nevada	ネバダ州
+Colorado	コロラド州
+Delhi	デリー
+Virginia	バージニア州
+West Virginia	ウェストバージニア州
+Niu York (Bundesstaat)	ニューヨーク州
+Rhode Island	ロードアイランド州
+Maryland	メリーランド州
+Delaware	デラウェア州
+Ohio	オハイオ州
+Pennsylvania	ペンシルベニア州
+Uetersen	ユーテルゼン
+Augustus	アウグストゥス
+Niu Yersey	ニュージャージー州
+Indiana	インディアナ州
+Georgia	ジョージア州
+Texas	テキサス州
+Not Carolina	ノースカロライナ州
+Saut Carolina	サウスカロライナ州
+Barcelona	バルセロナ
+Mississippi	ミシシッピ州
+Tennessee	テネシー州
+Niu Mexico	ニューメキシコ州
+Minnesota	ミネソタ州
+Caracas	カラカス
+Wisconsin	ウィスコンシン州
+Iowa	アイオワ州
+Nebraska	ネブラスカ州
+Kansas	カンザス州
+Hindi	ヒンディー語
+Missouri	ミズーリ州
+Louisiana	ルイジアナ州
+Kentucky	ケンタッキー州
+Arkansas	アーカンソー州
+Oklahoma	オクラホマ州
+Vienna	ウィーン
+Stockholm	ストックホルム
+Wrocław	ヴロツワフ
+Baebol	聖書
+Ho Chi Minh City	ホーチミン市
+Tru Jisas Jioj	真イエス教会
+Andorra la Vella	アンドラ・ラ・ベリャ
+Dong Hoi	ドンホイ
+Concepción	コンセプシオン (チリ)
+Końskowola	コィンスコヴォラ
+Kurów	クルフ
+Kemistri	化学
+Madrid	マドリード
+Sydney	シドニー
+Delmenhorst	デルメンホルスト
+Osasco	オザスコ (サンパウロ州)
+Curitiba	クリチバ
+Confucius	孔子
+Category:Matematikis	Category:数学
+Faroe aelan	フェロー諸島
+Kristaniti	キリスト教
+Céline Dion	セリーヌ・ディオン
+Kontinen	大陸
+Kapitol	首都
+Monzón	モンソン
+Almazán	アルマサン
+Huang Xianfan	黄現ハン
+Nambawan Pej	メインページ
+Template:Gud atikel	Template:Good article
+Category:Candidates for speedy deletion	Category:即時削除対象のページ
+Kaontri	国
+Indianapolis, Indiana	インディアナポリス
+Qin Shi Huang	始皇帝
+Ae	目
+Kamel	ラクダ
+Obesin	ナス
+Dakdak	カモ科
+Toktok Rusia	ロシア語
+Nelson Mandela	ネルソン・マンデラ
+Volkeno	火山
+Bigwin	熱帯低気圧
+Category:Franis	Category:フランス
+Kofi	コーヒー
+Seoul	ソウル特別市
+Toktok Ukraine	ウクライナ語
+Dipsi	大洋
+Buddha	釈迦
+Muhammed	ムハンマド・イブン＝アブドゥッラーフ
+Martin Luther	マルティン・ルター
+Michael Schumacher	ミハエル・シューマッハ
+Elisabet II	エリザベス2世
+Ronald Reagan	ロナルド・レーガン
+Fernando Alonso	フェルナンド・アロンソ
+Gordon Brown	ゴードン・ブラウン
+Category:Venezuela	Category:ベネズエラ
+Lugo	ルーゴ (スペイン)
+Category:Brazil	Category:ブラジル
+Oktri	オーク
+Kanal	運河
+Leji	レイシ
+Kokonas	ココナッツ
+Santiago de Compostela	サンティアゴ・デ・コンポステーラ
+Oviedo	オビエド
+Mérida	メリダ (スペイン)
+Template:Link FA	Template:Link FA
+Busan	釜山広域市
+Vermont	バーモント州
+Denver, Colorado	デンバー
+Phoenix, Arizona	フェニックス (アリゾナ州)
+Austin, Texas	オースティン
+Columbus, Ohio	コロンバス (オハイオ州)
+Flaeg blong Rusia	ロシアの国旗
+Sacramento, Kalifornia	サクラメント (カリフォルニア州)
+Honolulu, Hawaii	ホノルル
+Providence, Rhode Island	プロビデンス (ロードアイランド州)
+Naen	9
+Bien Hoa	ビエンホア
+Nha Trang	ニャチャン
+Rafael Correa	ラファエル・コレア
+Wikipedia:Gud atikel	Wikipedia:良質な記事
+Breinigerberg	ブライニガーベルク
+Moai	モアイ
+Seoul Stesen	ソウル駅
+Yongsan Stesen	龍山駅 (ソウル特別市)
+Cheongnyangni Stesen	清凉里駅
+Daejeon Stesen	大田駅
+Daejeon	大田広域市
+Sejong	世宗特別自治市
+Incheon	仁川広域市
+Nashville, Tennessee	ナッシュビル
+Sol Lek Siti	ソルトレイクシティ
+Seven	7
+Eit	8
+Lord's Prayer	主の祈り
+Galik	ニンニク
+Kukamba	キュウリ
+Sikis	6
+Moshchena	モシュチェナ
+Paltoga	パルトガ
+Santiago de los Caballeros de Mérida	メリダ (ベネズエラ)
+Atlanta, Georgia	アトランタ
+Ten	10
+Albany, Niu York	オールバニ (ニューヨーク州)
+Ca Mau	カマウ
+Harrisburg, Pennsylvania	ハリスバーグ (ペンシルベニア州)
+Da Lat	ダラット
+Phan Thiet	ファンティエット
+Hoknaet	メンフクロウ
+Antoni Gaudí	アントニ・ガウディ
+Trenton, Niu Yersey	トレントン (ニュージャージー州)
+Thai Nguyen	タイグエン
+Jefferson City, Missouri	ジェファーソンシティ (ミズーリ州)
+Jackson, Mississippi	ジャクソン (ミシシッピ州)
+Augusta, Maine	オーガスタ (メイン州)
+Baton Rouge, Louisiana	バトンルージュ
+Lansing, Michigan	ランシング (ミシガン州)
+Concord, New Hampshire	コンコード (ニューハンプシャー州)
+Lincoln, Nebraska	リンカーン (ネブラスカ州)
+Annapolis, Maryland	アナポリス (メリーランド州)
+Springfield, Illinois	スプリングフィールド (イリノイ州)
+Frankfort, Kentucky	フランクフォート (ケンタッキー州)
+Saint Paul, Minnesota	セントポール (ミネソタ州)
+Montgomery, Alabama	モンゴメリー (アラバマ州)
+Juneau, Alaska	ジュノー (アラスカ州)
+Zhengzhou	鄭州市
+Avril Lavigne	アヴリル・ラヴィーン
+Little Rock, Arkansas	リトルロック (アーカンソー州)
+Buon Ma Thuot	バンメトート
+Hartford, Connecticut	ハートフォード (コネチカット州)
+Dover, Delaware	ドーバー (デラウェア州)
+Tok Pisin	トク・ピシン
+Anastacia	アナスタシア (歌手)
+Yufreres	ユーフラテス川
+Vinh Long	ヴィンロン
+Tequixquiac	テキシキアック
+Oklahoma City, Oklahoma	オクラホマシティ
+Bislama	ビスラマ語
+Boise, Idaho	ボイシ
+Al Bayda	アルバイダ
+Bambu	竹
+Thanh Hoa	タインホア
+Port Moresby	ポートモレスビー
+Ben Tre	ベンチェ
+Arancón	アランコン
+Twelef	12
+Tallahassee, Florida	タラハシー (フロリダ州)
+Bismarck, Not Dakota	ビスマーク (ノースダコタ州)
+Leven	11
+Avoka	アボカド
+Cleveland, Ohio	クリーブランド (オハイオ州)
+John Calvin	ジャン・カルヴァン
+Sint-Truiden	シント＝トロイデン
+Port Vila	ポートビラ
+Auckland Grammar School	オークランド・グラマー・スクール
+Angers	アンジェ
+Columbia, Saut Carolina	コロンビア (サウスカロライナ州)
+Santa Fe, Niu Mexico	サンタフェ (ニューメキシコ州)
+Helena, Montana	ヘレナ (モンタナ州)
+Des Moines, Iowa	デモイン (アイオワ州)
+Ágreda	アグレダ
+Nawita	タコ
+Pierre, Saut Dakota	ピア (サウスダコタ州)
+Carson City, Nevada	カーソンシティ (ネバダ州)
+Topeka, Kansas	トピカ (カンザス州)
+Raleigh, Not Carolina	ローリー (ノースカロライナ州)
+Ulsan	蔚山広域市
+Gwangju	光州広域市
+Grepfrut	グレープフルーツ
+Julia Gillard	ジュリア・ギラード
+Hamlet	ハムレット
+Sebastian Vettel	セバスチャン・ベッテル
+Kevin Rudd	ケビン・ラッド
+Montehermoso	モンテエルモーソ
+Salem, Oregon	セイラム (オレゴン州)
+Josef Smit	ジョセフ・スミス・ジュニア
+Busan Stesen	釜山駅
+Oganaesesen blong ol Leba Raonwol	国際労働機関
+Dongdaegu Stesen	東大邱駅
+Daegu Stesen	大邱駅
+Seodaejeon Stesen	西大田駅
+Noryangjin Stesen	鷺梁津駅
+Namba	数詞
+Coronel Fabriciano	コロネル・ファブリシアーノ
+Alla Pugacheva	アーラ・プガチョワ
+Flaeg blong Azerbaijan	アゼルバイジャンの国旗
+Sompiniong	キノコ
+Polanbol	ポーランドボール
+Dziecinów	ヂェチヌフ (オトフォツク郡)
+Gdov	グドフ
+Namyoung Stesen	南営駅
+Daebang Stesen	大方駅
+Singil Stesen	新吉駅
+François Arago	フランソワ・アラゴ
+Memba Kaontri blong Unaeted Neisen	国際連合加盟国
+Natanggura	ソテツ
+St Peter's College (Auckland)	セント・ピーターズ・カレッジ (オークランド)
+Alan García	アラン・ガルシア
+John Wycliffe	ジョン・ウィクリフ
+God	神性
+Napoleong	メガネモチノウオ
+Flaeg blong Vanuatu	バヌアツの国旗
+Chang Myon	張勉
+Daejeon Swijyad Stesen	大田操車場
+Lou Reed	ルー・リード
+Yun Chi-ho	尹致昊
+Robert Gates	ロバート・ゲーツ
+William Tyndale	ウィリアム・ティンダル
+Apaxco	アパスコ
+Efate	エファテ島
+Yumi, Yumi, Yumi	我等、我等、我等
+Kalkot Mataskelekele	カルコット・マタスケレケレ
+Michael Somare	マイケル・ソマレ
+Lluís Domènech i Montaner	リュイス・ドメネク・イ・ムンタネー
+Derek Sikua	デリック・シクア
+Buk Blong Momon	モルモン書
+Gupo Stesen	亀浦駅
+Coritiba Foot Ball Club	コリチーバFC
+Blufis	ブダイ科
+Tafea	タフェア州
+Shefa	シェファ州
+Ivan Zaytsev	イバン・ザイツェフ
+Sanma	サンマ州
+Malampa	マランパ州
+Yonawa	ヨナヴァ
+Waeldakdak	マミジロカルガモ
+Sigal	ギンカモメ
+Pigazzano	ピガッツァーノ
+Torba	トルバ州
+Almarza	アルマルサ
+Aldealices	アルデアリセス
+Aldealafuente	アルデアラフエンテ
+Alentisque	アレンティスケ
+Adradas	アドラーダス
+Abejar	アベハール
+Aldealpozo	アルデアルポソ
+Alcubilla de Avellaneda	アルクビージャ・デ・アベジャネーダ
+Penama	ペナマ州
+List blong provens blong Vanuatu	バヌアツの行政区画
+Luganville	ルーガンビル
+Solan Stesen	ソラン信号場
+Praem Minista blong Vanuatu	バヌアツの首相
+Kakao	ココアパウダー
+Isangel	イサンゲル
+Oganaesesen blong Givhan long Ikonomi mo Sosaeti blong ol Kantri blong Esia mo Pasifik	アジア太平洋経済社会委員会
+Pijin blong hariken	オナガミズナギドリ
+Category:Germany	Category:ドイツ
+Category:Itali	Category:イタリア
+Category:Yunaeted Stet blong Amerika	Category:アメリカ合衆国
+Category:Rusia	Category:ロシア
+Category:Kanada	Category:カナダ
+Category:United Kingdom	Category:イギリス
+Category:Spain	Category:スペイン
+Category:China	Category:中国
+Category:India	Category:インド
+Category:Niu Zilan	Category:ニュージーランド
+Category:Bangladesh	Category:バングラデシュ
+Category:Poland	Category:ポーランド
+Category:Saot Koria	Category:大韓民国
+Category:Ukraine	Category:ウクライナ
+Category:Vietnam	Category:ベトナム
+Category:Pijin	Category:鳥類
+Category:Baeoloji	Category:生物学
+Category:Histri	Category:歴史
+Category:Jiografi	Category:地理
+Category:Sosaeti	Category:社会
+Category:Rilijin	Category:宗教
+Category:Saens	Category:科学
+Category:Yunaeted Nesen	Category:国際連合
+Category:Budisim	Category:仏教
+Category:Kristaniti	Category:キリスト教
+Category:Islam	Category:イスラム教
+Bochotnica	ボホトニツァ
+Benedicta Boccoli	ベネディクタ・ボッコーリ
+Category:Wikipedia Manejmen	Category:プロジェクト関連文書
+Category:Kultur	Category:文化
+Category:Kontinen	Category:大陸
+Category:Pipol blong Yunaeted Stet blong Amerika	Category:アメリカ合衆国の人物
+Sergio Mattarella	セルジョ・マッタレッラ
+Category:Kaontri	Category:国
+Category:Pipol	Category:人物
+Category:Intanet	Category:インターネット
+Template:Bot	Template:Bot
+Kanada	カナダ
+Category:Hungary	Category:ハンガリー
+Category:Czechia	Category:チェコ
+Category:Litwania	Category:リトアニア
+Category:Slovakia	Category:スロバキア
+Category:Yurop	Category:ヨーロッパ
+Template:Documentation	Template:Documentation
+Category:Wikipedians by language	Category:言語別の利用者
+Sung Jae-ki	成在基
+Template:Softredirect	Template:Softredirect
+Template:Delete	Template:即時削除
+Category:Toktok	Category:諸言語
+Category:Wikipedia	Category:ウィキペディア
+Category:Pages with broken file links	Category:壊れたファイルへのリンクがあるページ
+Wikipedia:Statistics	Wikipedia:統計
+Template:!	Template:!
+Category:Buk	Category:書物
+Template:Babel	Template:Babel
+Template:Commons	Template:Commons
+Template:Link GA	Template:Link GA
+Template:User eo-1	Template:User eo-1
+Template:User en-2	Template:User en-2
+Template:User es-1	Template:User es-1
+Template:User sk	Template:User sk
+Template:User fr-2	Template:User fr-2
+Category:Azerbaijan	Category:アゼルバイジャン
+Category:Esia	Category:アジア
+Template:Mod	Template:Mod
+Template:User it	Template:User it
+Template:States blog United States	Template:アメリカ合衆国の州
+Template:Quotation	Template:Quotation
+Category:User en	Category:User en
+Category:Croatia	Category:クロアチア
+Category:User en-2	Category:User en-2
+Template:Documentation/start box	Template:Documentation/start box
+Template:Documentation/end box2	Template:Documentation/end box2
+Template:Documentation/start box2	Template:Documentation/start box2
+Template:Template other	Template:Template other
+Template:Pp-template	Template:Pp-template
+Category:Namba	Category:数字
+Category:Hed blong Stet	Category:元首
+Template:Purge	Template:Purge
+Template:Interwiki	Template:Wikipedia
+Category:Galicia	Category:ガリシア州
+Category:User sk	Category:User sk
+Category:User eo	Category:User eo
+Category:User fr	Category:User fr
+Category:User fr-2	Category:User fr-2
+Category:User it-N	Category:User it-N
+Category:User sk-N	Category:User sk-N
+Category:User de	Category:User de
+Category:User eo-1	Category:User eo-1
+Category:User es	Category:User es
+Category:User es-1	Category:User es-1
+Category:User it	Category:User it
+Category:Praem Minista	Category:首相
+Category:Saens blong Pipol	Category:社会科学
+Category:1969 births	Category:1969年生
+Category:Not Dakota	Category:ノースダコタ州
+Category:Louisiana	Category:ルイジアナ州
+Category:Arizona	Category:アリゾナ州
+Category:Kentucky	Category:ケンタッキー州
+Category:Armenia	Category:アルメニア
+Category:Vanuatu	Category:バヌアツ
+Category:Pipol blong Vanuatu	Category:バヌアツの人物
+Category:Hed blong Stet blong Yunaeted Stet blong Amerika	Category:アメリカ合衆国の大統領
+Category:Paraguay	Category:パラグアイ
+Category:Papua Nui Guini	Category:パプアニューギニア
+Category:Andorra	Category:アンドラ
+Category:Peru	Category:ペルー
+Category:Albania	Category:アルバニア
+Category:Fis	Category:魚類
+Category:Dipsi	Category:大洋
+Category:Animol	Category:動物
+Category:Asturias	Category:アストゥリアス州
+Category:Jos blong Jisas Kraes blong ol Lata-dei Sent	Category:末日聖徒イエス・キリスト教会
+Category:Catalonia	Category:カタルーニャ州
+Trojany	トロヤニ (マゾフシェ県)
+Category:Stesen blong Saot Koria	Category:韓国の鉄道駅
+Category:Aragón	Category:アラゴン州
+Wikipedia:Deletion log	Wikipedia:削除記録
+Template:Gyeongbu laen blong Saot Koria	Template:京釜線
+Special:RecentChanges	特別:最近の更新

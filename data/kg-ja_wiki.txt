@@ -1,0 +1,708 @@
+Afelika	アフリカ
+Japan	日本
+Norge	ノルウェー
+Hongrie	ハンガリー
+Espania	スペイン
+Belezi	ベルギー
+Luxembourg	ルクセンブルク
+Ntoto	地球
+Muntu	ヒト
+Finlandi	フィンランド
+Suedi	スウェーデン
+Danemark	デンマーク
+Pologne	ポーランド
+Lietuva	リトアニア
+Italia	イタリア
+Suisi	スイス
+Autriche	オーストリア
+Gelesi	ギリシャ
+Turki	トルコ
+Mputulukesi	ポルトガル
+Mputu	ヨーロッパ
+Azia	アジア
+Pays-Bas	オランダ
+Berlin	ベルリン
+Ludinatelo	コンピュータ
+Paris	パリ
+Kenya	ケニア
+Itiopia	エチオピア
+Gana	ガーナ
+Nkosi	ライオン
+Fwalansa	フランス
+Royaume-Uni	イギリス
+Nyawu	ネコ
+Sina	中華人民共和国
+Kifalanse	フランス語
+Brazil	ブラジル
+François Hollande	フランソワ・オランド
+Rusia	ロシア
+Kalunga	海
+Alemanyi	ドイツ
+Belarusia	ベラルーシ
+Kidoitce	ドイツ語
+Islande	アイスランド
+Estonia	エストニア
+Ndèke	飛行機
+Vita	戦争
+4 (ntalu)	4
+Latvia	ラトビア
+Uklenyi	ウクライナ
+République tchèque	チェコ
+Slovakia	スロバキア
+Slovenia	スロベニア
+Vilnius	ヴィリニュス
+Moldova	モルドバ
+Romania	ルーマニア
+Balgaria	ブルガリア
+Roma	ローマ
+Makedonia	マケドニア共和国
+Albania	アルバニア
+Kroatia	クロアチア
+Bosna	ボスニア・ヘルツェゴビナ
+Azerbaidjan	アゼルバイジャン
+Andora	アンドラ
+Kipros	キプロス
+Kazakhstan	カザフスタン
+Malta	マルタ
+Monako	モナコ
+Monte Negro	モンテネグロ
+Vatican	バチカン
+Saint-Marin	サンマリノ
+Repubilika ya Afelika ya Sudi	南アフリカ共和国
+Algeria	アルジェリア
+Uzbekistan	ウズベキスタン
+Maza	水
+Chile	チリ
+Yesu	イエス・キリスト
+Ndinga	言語
+Kizabu	科学
+Liechtenstein	リヒテンシュタイン
+Ubuntu	Ubuntu
+Skopje	スコピエ
+Kilatini	ラテン語
+Bahrain	バーレーン
+Armenia	アルメニア
+Serbie	セルビア
+Australia	オーストラリア
+Fizika	物理学
+Kisilamu	イスラム教
+Dinu	歯
+Mweta	惑星
+Moskva	モスクワ
+Saint Petersburg	サンクトペテルブルク
+Tasadi	チャド
+Nôde	北
+India	インド
+Kibende	鉄
+Kibulu	動物
+Mutako	銅
+Ayiti	ハイチ
+Iran	イラン
+Israel	イスラエル
+Jordan	ヨルダン
+Kuwait	クウェート
+Amelika	アメリカ州
+Oman	オマーン
+Qatar	カタール
+Lukalu	列車
+Vietnam	ベトナム
+Wolo	金
+Mali	マリ共和国
+Ngola	アンゴラ
+Tanzania	タンザニア
+Repubilika ya Afelika ya Kati	中央アフリカ共和国
+Togo	トーゴ
+Tunisia	チュニジア
+Zambia	ザンビア
+Zimbabwe	ジンバブエ
+Beijing (kizunga)	北京市
+Sudan ya Sudi	南スーダン
+Benin	ベナン
+Botswana	ボツワナ
+Burkina Faso	ブルキナファソ
+Burundi	ブルンジ
+Komoro	コモロ
+Repubilika ya Kôngo	コンゴ共和国
+Repubilika ya Kôngo ya Dimokalasi	コンゴ民主共和国
+Djibuti	ジブチ
+Bavaria	バイエルン州
+Ginea ya Ekwatelo	赤道ギニア
+Baden-Württemberg	バーデン＝ヴュルテンベルク州
+Eritrea	エリトリア
+Ngabu	ガボン
+Gambia	ガンビア
+Ginea	ギニア
+Ginea-Bisau	ギニアビサウ
+Côte d'Ivoire	コートジボワール
+Kamerun	カメルーン
+Kap Verde	カーボベルデ
+Lesotho	レソト
+Liberia	リベリア
+Libia	リビア
+Malagasi	マダガスカル
+Malawi	マラウイ
+Stuttgart	シュトゥットガルト
+Moritania	モーリタニア
+Mauritius	モーリシャス
+Maroko	モロッコ
+Musambiki	モザンビーク
+Namibia	ナミビア
+Nijer	ニジェール
+Nizeria	ナイジェリア
+Uganda	ウガンダ
+Rwanda	ルワンダ
+Santu Tome na Prinsipe	サントメ・プリンシペ
+Senangale	セネガル
+Seychell	セーシェル
+Sierra Leone	シエラレオネ
+Sômâlia	ソマリア
+Sudan	スーダン
+Swati	スワジランド
+Hamburg	ハンブルク
+Langi	色
+Prague	プラハ
+Bule	青
+Schleswig-Holstein	シュレースヴィヒ＝ホルシュタイン州
+Mecklenburg-Vorpommern	メクレンブルク＝フォアポンメルン州
+Niedersachsen	ニーダーザクセン州
+Nordrhein-Westfalen	ノルトライン＝ヴェストファーレン州
+Hessen	ヘッセン州
+Rheinland-Pfalz	ラインラント＝プファルツ州
+Saarland	ザールラント州
+Sachsen	ザクセン州
+Thüringen	テューリンゲン州
+Sachsen-Anhalt	ザクセン＝アンハルト州
+Brandenburg	ブランデンブルク州
+Bremen (kizunga)	ブレーメン州
+Kalasi:Categories	Category:主要カテゴリ
+Kispanya	スペイン語
+Mbuma	果実
+Uetersen	ユーテルゼン
+Tomabîlu	自動車
+Bordo	ボルドー
+Barcelona	バルセロナ
+Nanasi	パイナップル
+Kihindi	ヒンディー語
+Potsdam	ポツダム
+Munich	ミュンヘン
+Stockholm	ストックホルム
+Vaduz	ファドゥーツ
+Biblia	聖書
+Ho Chi Minh City	ホーチミン市
+Dibundu ya Kieleka ya Yesu	真イエス教会
+Kingelezi	英語
+Đồng Hới	ドンホイ
+Concepción	コンセプシオン (チリ)
+Końskowola	コィンスコヴォラ
+1917	1917年
+Kurów	クルフ
+1971	1971年
+1969	1969年
+Santiago de Chile	サンティアゴ (チリ)
+Loire-Atlantique	ロワール＝アトランティック県
+Ain (kizunga)	アン県
+Aisne (kizunga)	エーヌ県
+Vosges (kizunga)	ヴォージュ県
+Allier (kizunga)	アリエ県
+Jura (kizunga)	ジュラ県
+Hautes-Alpes	オート＝アルプ県
+Alpes-de-Haute-Provence	アルプ＝ド＝オート＝プロヴァンス県
+Alpes-Maritimes	アルプ＝マリティーム県
+Ardèche (kizunga)	アルデシュ県
+Ardennes (kizunga)	アルデンヌ県
+Ariège (kizunga)	アリエージュ県
+Aube (kizunga)	オーブ県
+Aude (kizunga)	オード県
+Aveyron (kizunga)	アヴェロン県
+Bouches-du-Rhône	ブーシュ＝デュ＝ローヌ県
+Calvados (kizunga)	カルヴァドス県
+Cantal (kizunga)	カンタル県
+Charente (kizunga)	シャラント県
+Charente-Maritime	シャラント＝マリティーム県
+Cher (kizunga)	シェール県
+Corrèze (kizunga)	コレーズ県
+Haute-Corse	オート＝コルス県
+Corse-du-Sud	コルス＝デュ＝シュド県
+Côte-d'Or	コート＝ドール県
+Côtes-d'Armor	コート＝ダルモール県
+Creuse (kizunga)	クルーズ県
+Dordogne (kizunga)	ドルドーニュ県
+Doubs (kizunga)	ドゥー県
+Drôme (kizunga)	ドローム県
+Essonne (kizunga)	エソンヌ県
+Eure (kizunga)	ウール県
+Eure-et-Loir	ウール＝エ＝ロワール県
+Finistère	フィニステール県
+Nilo	ナイル川
+Nzâdi Kôngo	コンゴ川
+Adis Abeba	アディスアベバ
+Ndjamena	ンジャメナ
+Bamako	バマコ
+Chiguayante	チグアヤンテ
+Guyane	フランス領ギアナ
+Chillán	チヤン
+Abuja	アブジャ
+Tübingen	テュービンゲン
+Libreville	リーブルヴィル
+Kinsasa	キンシャサ
+Balazavile	ブラザヴィル
+Dodoma	ドドマ
+Lwanda	ルアンダ
+Windhoek	ウィントフック
+Mubu	川
+Osasko	オザスコ (サンパウロ州)
+Kuritiba	クリチバ
+Afelika ya Lumonso	西アフリカ
+Georgia (country)	ジョージア
+Kiyesu	キリスト教
+Kontina	大陸
+Mbanza ya kimfumu	首都
+Monzón	モンソン
+Kimputulukesi	ポルトガル語
+Ngonda (manaka)	月 (暦)
+Almazán	アルマサン
+Mukânda ya ngudi	メインページ
+Saratov	サラトフ
+Troyes	トロワ
+Kalasi:Candidates for speedy deletion	Category:即時削除対象のページ
+Montpellier	モンペリエ
+Carcassonne	カルカソンヌ
+Poitiers	ポワチエ
+Agen	アジャン
+Kimvuka ya Afelika	アフリカ連合
+Dimokalasi	民主主義
+Bayuda	ユダヤ人
+Nyama ya mabele	哺乳類
+Nzau	ゾウ
+Kiswahili	スワヒリ語
+Kitsunkwo	中国語
+Kalasi:Falanse	Category:フランス
+Kalasi:Musique	Category:音楽
+Bumpika	奴隷
+Shanghai (kizunga)	上海市
+Málaga	マラガ
+Lukwikilu	宗教
+Kibang'la	ベンガル語
+Ronald Reagan	ロナルド・レーガン
+Kizulu	ズールー語
+Sasa	ザザキ語
+Kutanga	算術
+Dikâlu (velo)	自転車
+Chongqing (kizunga)	重慶市
+Tianjin (kizunga)	天津市
+Yinsi	国の一覧
+Mukaba ya ntangu	時間帯 (標準時)
+Sida	後天性免疫不全症候群
+Gard	ガール県
+Gers (kizunga)	ジェール県
+Gironde (kizunga)	ジロンド県
+Haute-Garonne	オート＝ガロンヌ県
+Hauts-de-Seine	オー＝ド＝セーヌ県
+Hérault (kizunga)	エロー県
+Ille-et-Vilaine	イル＝エ＝ヴィレーヌ県
+Indre (kizunga)	アンドル県
+Indre-et-Loire	アンドル＝エ＝ロワール県
+Isère (kizunga)	イゼール県
+Landes (kizunga)	ランド県
+Loir-et-Cher	ロワール＝エ＝シェール県
+Loire (kizunga)	ロワール県
+Haute-Loire	オート＝ロワール県
+Loiret (kizunga)	ロワレ県
+Lot (kizunga)	ロット県
+Lot-et-Garonne	ロット＝エ＝ガロンヌ県
+Lozère (kizunga)	ロゼール県
+Maine-et-Loire	メーヌ＝エ＝ロワール県
+Manche (kizunga)	マンシュ県
+Marne (kizunga)	マルヌ県
+Haute-Marne	オート＝マルヌ県
+Mayenne (kizunga)	マイエンヌ県
+Meurthe-et-Moselle	ムルト＝エ＝モゼル県
+Meuse (kizunga)	ムーズ県
+Morbihan	モルビアン県
+Moselle (kizunga)	モゼル県
+Nièvre (kizunga)	ニエーヴル県
+Nord (kizunga)	ノール県
+Oise (kizunga)	オワーズ県
+Orne (kizunga)	オルヌ県
+Pas-de-Calais	パ＝ド＝カレー県
+Puy-de-Dôme	ピュイ＝ド＝ドーム県
+Hautes-Pyrénées	オート＝ピレネー県
+Pyrénées-Atlantiques	ピレネー＝アトランティック県
+Pyrénées-Orientales	ピレネー＝オリアンタル県
+Bas-Rhin	バ＝ラン県
+Haut-Rhin	オー＝ラン県
+Haute-Saône	オート＝ソーヌ県
+Saône-et-Loire	ソーヌ＝エ＝ロワール県
+Sarthe (kizunga)	サルト県
+Savoie (kizunga)	サヴォワ県
+Haute-Savoie	オート＝サヴォワ県
+Seine-et-Marne	セーヌ＝エ＝マルヌ県
+Seine-Maritime	セーヌ＝マリティーム県
+Seine-Saint-Denis	セーヌ＝サン＝ドニ県
+Deux-Sèvres	ドゥー＝セーヴル県
+Somme (kizunga)	ソンム県
+Tarn (kizunga)	タルヌ県
+Tarn-et-Garonne	タルヌ＝エ＝ガロンヌ県
+Territoire de Belfort	テリトワール・ド・ベルフォール県
+Val-d'Oise	ヴァル＝ドワーズ県
+Val-de-Marne	ヴァル＝ド＝マルヌ県
+Var (kizunga)	ヴァール県
+Vaucluse (kizunga)	ヴォクリューズ県
+Vendée (kizunga)	ヴァンデ県
+Vienne (kizunga)	ヴィエンヌ県
+Haute-Vienne	オート＝ヴィエンヌ県
+Yonne (kizunga)	ヨンヌ県
+Yvelines	イヴリーヌ県
+Nerja	ネルハ
+Ronda	ロンダ (スペイン)
+Kixhosa	コサ語
+Kilabu	アラビア語
+Kapoti	コンドーム
+Kiunsita	オック語
+Guangdong	広東省
+Guangxi Zhuang	広西チワン族自治区
+Template:Link FA	Template:Link FA
+Los Ángeles (Chile)	ロス・アンヘレス
+Jiangsu	江蘇省
+Zhejiang	浙江省
+Guadeloupe	グアドループ
+Madinina	マルティニーク
+Mayota	マヨット
+La Réunion	レユニオン
+Xizang	チベット自治区
+Heilongjiang	黒竜江省
+San Pedro de la Paz	サン・ペドロ・デ・ラ・パス
+Nha Trang	ニャチャン
+Rafael Correa	ラファエル・コレア
+Motorhead	モーターヘッド
+Mbuluku	ロバ
+Sichuan	四川省
+Juan Carlos I	フアン・カルロス1世 (スペイン王)
+Vung Tau	ブンタウ
+API	国際音声記号
+Hebei	河北省
+Kibaha	バハーイー教
+Irlande	アイルランド島
+Mposo	週
+Lordi	ローディ (バンド)
+Marseille	マルセイユ
+Moshchena	モシュチェナ
+Paltoga	パルトガ
+Entrena	エントレナ
+Podgorica	ポドゴリツァ
+Ntu	頭
+Muyimbu ya nsi	国歌
+Nzila ya busula	方位
+Rammstein	ラムシュタイン
+Ca Mau	カマウ
+Da Lat	ダラット
+Da Nang	ダナン
+Racibórz	ラチブシュ
+Phan Thiet	ファンティエット
+Université Niccolò Cusano	ニコラウス・クザーヌス大学
+Afelika ya Node	北アフリカ
+Afelika ya Sudi	南部アフリカ
+Afelika ya Lunene	東アフリカ
+Modern Talking	モダン・トーキング
+Afelika ya Kati	中部アフリカ
+Magribia	マグリブ
+Nyosi	セイヨウミツバチ
+Mbele	ナイフ
+Bandinga ya kibantu	バントゥー語群
+Patua	方言
+Kisikôngo	コンゴ語
+Nice	ニース
+Kishona	ショナ語
+Nsangu ya mbote	福音書
+Yingo	ヒョウ
+Kifalu	サイ
+Busula	方位磁針
+Bambangi ya Yehowa	エホバの証人
+Kigasuku	ガスコーニュ語
+Kikôngo	キトゥバ語
+Kimbundu	キンブンド語
+Kongo	コンゴ (曖昧さ回避)
+Kiluba	ルバ・カタンガ語
+Dingala	リンガラ語
+Kibubu	ゴリラ
+Arancón	アランコン
+Zandu	市場
+Tosa Inu	土佐闘犬
+Soka	斧
+Radio Studio 54 Network	Radio Studio 54 Network
+Ágreda	アグレダ
+.cg	.cg
+Sizo	はさみ
+Anhui	安徽省
+Nei Mongol	内モンゴル自治区
+Świnoujście	シフィノウイシチェ
+Fujian	福建省
+Talcahuano	タルカワノ
+Clermont-Ferrand	クレルモン＝フェラン
+Hainan	海南省
+Gansu	甘粛省
+Dikûmbi	乗り物
+Mafuta	油
+Yunnan	雲南省
+Shandong	山東省
+Henan	河南省
+Liaoning	遼寧省
+Dikongo	槍
+Jilin	吉林省
+Hunan	湖南省
+Qinghai	青海省
+Rhône (kizunga)	ローヌ県
+Hubei	湖北省
+Shanxi	山西省
+Guizhou	貴州省
+Charleville-Mézières	シャルルヴィル＝メジエール
+Shaanxi	陝西省
+Template:Commonscat	Template:Commonscat
+Jiangxi	江西省
+Joseph Kabila	ジョゼフ・カビラ
+Deni Sasu Ngeso	ドニ・サスヌゲソ
+Ningxia Hui	寧夏回族自治区
+Kimpenzi	チンパンジー属
+Nzeniele	技術者
+La Rochelle	ラ・ロシェル
+Mandioko	キャッサバ
+Dalapo ya Ngabu	ガボンの国旗
+Kuvete ya Wesete	西キュヴェト地方
+Maniema	マニエマ州
+Kôngo ya Kati	コンゴ中央州
+Kivu ya Node	北キヴ州
+Nkwezo	ゴム
+Bourges	ブールジュ
+Albi	アルビ
+Bourg-en-Bresse	ブール＝ガン＝ブレス
+Angoulême	アングレーム
+Bansi ya balabu	アラブ世界
+Tulle	チュール
+Nzila ya lukalu	線路 (鉄道)
+Dalapo ya Repubilika ya Kôngo	コンゴ共和国の国旗
+Dalapo ya Repubilika ya Kongo Demokratiki	コンゴ民主共和国の国旗
+Laon	ラン (フランス)
+Kabinda (kizunga)	カビンダ
+Bambenga	ピグミー
+Babantu	バントゥー系民族
+Châteauroux	シャトールー
+Villa Alemana	ビジャ・アレマーナ
+Gap	ギャップ (フランス)
+Vodu	ブードゥー教
+Digne	ディーニュ＝レ＝バン
+Saint-Lô	サン＝ロー
+Foix	フォワ
+Moulins	ムーラン
+Mont-de-Marsan	モン＝ド＝マルサン
+Guéret	ゲレ
+Berat (kizunga)	ベラト州
+La Roche-sur-Yon	ラ・ロッシュ＝シュル＝ヨン
+Bengo	ベンゴ州
+Mende	マンド
+Vlorë (kizunga)	ヴロラ州
+Durrës (kizunga)	ドゥラス州
+Dibër	ディブラ州
+Privas	プリヴァ
+Lezhë (kizunga)	レジャ州
+Shkodër (kizunga)	シュコドラ州
+Gjirokastër (kizunga)	ジロカストラ州
+Korçë (kizunga)	コルチャ州
+Elbasan (kizunga)	エルバサン州
+Kizûnga Nzâdi	ザイーレ州
+Goma	ゴマ (コンゴ)
+Joseph Kasa Vubu	ジョセフ・カサブブ
+Bandinga ya Afrika	アフリカの言語
+Bidimbu ya Repubilika ya Kongo Demokratiki	コンゴ民主共和国の国章
+Gaitana	ハイタナ
+Mbandaka	ムバンダカ
+Matadi	マタディ
+Kizûnga Wizi	ウイジェ州
+Telama besi Kongo	起てコンゴ人よ
+Lubitu	ロビト
+Mboma	ボーマ
+Ndindi	ポワントノワール
+Angola Avante	進めアンゴラ
+Tirana (kizunga)	ティラナ州
+Muamba	パーム油
+Kukës (kizunga)	クケス州
+Fier (kizunga)	フィエル州
+Wanzio	天使
+Kimpubensawu	プロヴァンス語
+Mobilisa	動員
+Dolizi	ドリシー
+Bambanza ya Kongo-Kinsasa	コンゴ民主共和国の都市の一覧
+Kikwit	キクウィト
+Antoine Gizenga	アントワーヌ・ギゼンガ
+Serebro	セレブロ
+La Congolaise	コンゴの歌
+Bizunga ya Ngola	アンゴラの行政区画
+Pascal Lisuba	パスカル・リスバ
+Marien Nguabi	マリアン・ングアビ
+Tsiowa	カビンダ (都市)
+Masuku	フランスヴィル
+Bambundu	キンブンド人
+Kaudai	カオダイ教
+Paramore	パラモア
+Medinaceli	メディナセリ
+Marbella	マルベーリャ
+Burgo de Osma-Ciudad de Osma	エル・ブルゴ・デ・オスマ
+Kivu ya Sudi	南キヴ州
+Vélez-Málaga	ベレス＝マラガ
+Mijas	ミハス
+Estepona	エステポナ
+Mbânza Kôngo	ンバンザ＝コンゴ
+Fulbert Yulu	フルベール・ユールー
+Repubilika ya Kongo ya Kati	コンゴ共和国 (レオポルドヴィル)
+Bakôngo	コンゴ人
+Arenas	アレナス・クルブ・デ・ゲチョ
+Bandundu	バンドゥンドゥ
+Joachim Yhombi-Opango	ジョアキム・ヨンビ＝オパンゴ
+Dizanga Malebo	マレボ湖
+CAKE	ケイク
+Kuvete	キュヴェト地方
+Kôngo ya Ntotila	コンゴ王国
+Baluba	ルバ族
+Banana	バナナ (コンゴ民主共和国)
+Kisinto	神道
+Buenza	ブエンザ地方
+Almarza	アルマルサ
+Aldealices	アルデアリセス
+Aldealafuente	アルデアラフエンテ
+Alentisque	アレンティスケ
+Adradas	アドラーダス
+Abejar	アベハール
+Aldealpozo	アルデアルポソ
+Alcubilla de Avellaneda	アルクビージャ・デ・アベジャネーダ
+Maján	マハン (スペイン)
+Castillejo de Robledo	カスティリェホ・デ・ロブレド
+Ilebo	イレボ
+Kuilu (Repubilika ya Kongo)	クイル地方
+Mbanza-Ngungu	ムバンザ・ヌグング
+Pool	プール地方
+Niari	ニアリ地方
+Muanda (Ngabu)	モアンダ
+Owando	オワンド
+Kalasi:Alemanyi	Category:ドイツ
+Kalasi:Italia	Category:イタリア
+Kalasi:Rusia	Category:ロシア
+Kalasi:Espania	Category:スペイン
+Kalasi:Sina	Category:中国
+Kalasi:Australia	Category:オーストラリア
+Kalasi:Repubilika ya Kongo ya Dimokalasi	Category:コンゴ民主共和国
+Kalasi:Republika ya Itiopia	Category:エチオピア
+Kalasi:Repubilika ya Tanzania	Category:タンザニア
+Kalasi:Vietnam	Category:ベトナム
+Kalasi:Lukwikilu	Category:宗教
+Kalasi:Bizabu	Category:科学
+Kalasi:Ntoto	Category:地球
+Nzinga Nkuwu	ジョアン1世 (コンゴ王)
+Iznate	イスナーテ
+Madingu	マディング
+Kalasi:Kikristo	Category:キリスト教
+Template:Tl	Template:Tl
+Template:Userbox	Template:Userbox
+Wikipedia:Administrators	Wikipedia:管理者
+Misiri	エジプト
+Template:Bot	Template:Bot
+Kalasi:Hongrie	Category:ハンガリー
+Kalasi:Bansi ya Mputu	Category:ヨーロッパの国
+Kalasi:Mputu	Category:ヨーロッパ
+Template:Documentation	Template:Documentation
+Wikipedia:Community Portal	Wikipedia:コミュニティ・ポータル
+Kalasi:Users by language	Category:言語別の利用者
+Sung Jae-ki	成在基
+Template:Softredirect	Template:Softredirect
+Template:Delete	Template:即時削除
+Kalasi:Ndinga	Category:諸言語
+Kalasi:Wikipedia	Category:ウィキペディア
+Template:!	Template:!
+Template:!-	Template:!-
+Template:E	Template:E
+Template:Clear	Template:Clear
+Wikipedia:Vital articles	Wikipedia:すべての言語版にあるべき項目の一覧
+Kalasi:Afelika	Category:アフリカ
+Kalasi:Bantalu	Category:数
+Template:Babel	Template:Babel
+Template:Babel de	Template:User de
+Template:Babel en-2	Template:User en-2
+Template:Babel en-4	Template:User en-4
+Template:Babel en-0	Template:User en-0
+Template:Babel fr-1	Template:User fr-1
+Template:Babel it-3	Template:User it-3
+Template:User sk	Template:User sk
+Template:Babel tr	Template:User tr
+Kalasi:Azia	Category:アジア
+Kalasi:Castilla y León	Category:カスティーリャ・レオン州
+Template:Mod	Template:Mod
+Template:Afrika	Template:アフリカ
+Template:Music	Template:Infobox Musician
+Kalasi:User en-4	Category:User en-4
+Kalasi:User en	Category:User en
+Kalasi:User en-2	Category:User en-2
+Template:Documentation/start box	Template:Documentation/start box
+Template:Documentation/end box2	Template:Documentation/end box2
+Template:Documentation/start box2	Template:Documentation/start box2
+Template:Template other	Template:Template other
+Template:Pp-template	Template:Pp-template
+Template:·	Template:·
+Kalasi:Amelika	Category:アメリカ
+Template:Kanda	Template:Infobox 民族
+Template:Fmbox	Template:Fmbox
+Template:Babel oc-4	Template:User oc-4
+Template:Pp-meta	Template:Pp-meta
+Template:Bisongidila	Template:Aimai
+Template:Mputu	Template:ヨーロッパ
+Kalasi:Bapolitiki ya Repubilika ya Kongo ya Dimokalasi	Category:コンゴ民主共和国の政治家
+Kalasi:User sk	Category:User sk
+Kalasi:User fr	Category:User fr
+Kalasi:User la	Category:User la
+Kalasi:User oc	Category:User oc
+Kalasi:User sh	Category:User sh
+Kalasi:User cs-3	Category:User cs-3
+Kalasi:User it-3	Category:User it-3
+Kalasi:User oc-4	Category:User oc-4
+Kalasi:User sk-2	Category:User sk-2
+Kalasi:User sh-2	Category:User sh-2
+Kalasi:User fr-N	Category:User fr-N
+Kalasi:User ca	Category:User ca
+Kalasi:User ca-3	Category:User ca-3
+Kalasi:User cs	Category:User cs
+Kalasi:User sk-N	Category:User sk-N
+Kalasi:User de	Category:User de
+Kalasi:User es	Category:User es
+Kalasi:User es-3	Category:User es-3
+Template:Babel la-3	Template:User la-3
+Kalasi:User it	Category:User it
+Kalasi:User kg	Category:User kg
+Kalasi:User la-3	Category:User la-3
+Kalasi:Babwala ya Falansa	Category:フランスの都市
+Kalasi:La Rioja	Category:ラ・リオハ州
+Kalasi:Bansi ya Afelika	Category:アフリカの国
+Template:Babel es-3	Template:User es-3
+Kalasi:User tr	Category:User tr
+Kalasi:User tr-N	Category:User tr-N
+Kalasi:Kizunga ya Alemanyi	Category:ドイツの州
+Kalasi:Repubilika ya Ngola	Category:アンゴラ
+Kalasi:Ngabu	Category:ガボン
+Kalasi:Namibia	Category:ナミビア
+Kalasi:Repubilika ya Kongo	Category:コンゴ共和国
+Template:Babel ca-3	Template:User ca-3
+Template:Babel cs-3	Template:User cs-3
+Kalasi:Bapolitiki ya Espania	Category:スペインの政治家
+Kalasi:Bapolitiki ya Repubilika ya Kongo	Category:コンゴ共和国の政治家
+Kalasi:Bapolitiki ya Fwalansa	Category:フランスの政治家
+Kalasi:Albania	Category:アルバニア
+Kalasi:Université en Italia	Category:イタリアの大学
+Kalasi:Andalucía	Category:アンダルシア州
+Kalasi:Dalapo	Category:旗
+Kalasi:Babwala ya Ngabu	Category:ガボンの都市
+The Prodigy	プロディジー
+Kalasi:Babwala ya Namibia	Category:ナミビアの都市
+Kalasi:Babwala ya Repubilika ya Kongo	Category:コンゴ共和国の都市
+Mwela	空気
+Kalasi:Málaga	Category:マラガ
+Trojany	トロヤニ (マゾフシェ県)
+Kalasi:Kizunga ya Albania	Category:アルバニアの州
+Kalasi:Babantu	Category:都市
+Kipele-pele	チョウ
+Special:RecentChanges	特別:最近の更新

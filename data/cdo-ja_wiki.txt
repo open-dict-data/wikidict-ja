@@ -1,0 +1,2551 @@
+Hĭ-ciŭ	アフリカ
+Nĭk-buōng	日本
+Nàng Mī-ciŭ	南アメリカ
+Nò̤-ŭi	ノルウェー
+Ĭng-gáik-làng	イングランド
+Sŭ-gáik-làng	スコットランド
+Ŭi-ī-sê̤ṳ	ウェールズ
+Báe̤k Ái-ī-làng	北アイルランド
+Ái-ī-làng	アイルランド
+Hungary	ハンガリー
+Să̤-băng-ngà	スペイン
+Mī-guók	アメリカ合衆国
+Bī-lé-sì	ベルギー
+Luxembourg	ルクセンブルク
+Ṳ̄-dêu	宇宙
+Dê-giù	地球
+Sĕng-mêng	生命
+Sī	死
+Nè̤ng	ヒト
+Huăng-hī	幸福
+George Washington	ジョージ・ワシントン
+Wikidata	ウィキデータ
+Hŭng-làng	フィンランド
+Sôi-diēng	スウェーデン
+Dăng-măk	デンマーク
+Pŏ̤-làng	ポーランド
+Lithuania	リトアニア
+É-dâi-lé	イタリア
+Sô̤i-sê̤ṳ	スイス
+Ó̤-dê-lé	オーストリア
+Hĭ-lé-nà̤	ギリシャ
+Tū-ī-gì	トルコ
+Bì-ciū	ビール
+Può-dò̤-ngà	ポルトガル
+Ĕu-ciŭ	ヨーロッパ
+Ā-ciŭ	アジア
+Báe̤k Mī-ciŭ	北アメリカ
+Nàng-gĭk-ciŭ	南極大陸
+Wikipedia	ウィキペディア
+Hò̤-làng	オランダ
+Ĭng-gĕng	陰茎
+PHP	PHP: Hypertext Preprocessor
+Niū-iók-chê	ニューヨーク
+Washington, D.C.	ワシントンD.C.
+Gô-gĭng-săng	サンフランシスコ
+Báik-lìng	ベルリン
+Los Angeles	ロサンゼルス
+Diêng-nō̤	コンピュータ
+Sŭ-là̤-sié	チューリッヒ
+Barack Obama	バラク・オバマ
+Uruguay	ウルグアイ
+MediaWiki	MediaWiki
+Lùng-dŭng	ロンドン
+Bìng-guō	リンゴ
+Bă-là̤	パリ
+Mĕ̤k-să̤-gŏ̤	メキシコ
+Dâi-să̤-iòng	大西洋
+Tái-bìng-iòng	太平洋
+California	カリフォルニア州
+Boston	ボストン
+Lā̤-bái-ék	月曜日
+Huōi-sĭng	火星
+Kenya	ケニア
+Ethiopia	エチオピア
+Gŭng-ciō (nguòng-siū)	君主
+Ghana	ガーナ
+Lā̤-bái-nê	火曜日
+Lā̤-bái-săng	水曜日
+Lā̤-bái-sé	木曜日
+Lā̤-bái-ngô	金曜日
+Lā̤-bái-lĕ̤k	土曜日
+Lā̤-bái-nĭk	日曜日
+Săi (mà-kuŏ dông-ŭk)	ライオン
+Huák-guók	フランス
+Kēng	イヌ
+Ĭng-guók	イギリス
+Mà	ネコ
+Dṳ̆ng-huà Ìng-mìng Gê̤ṳng-huò-guók	中華人民共和国
+Huák-ngṳ̄	フランス語
+Wiktionary	ウィクショナリー
+Ngṳ̀	魚類
+Ciū	酒
+Bă-să̤	ブラジル
+Ngò̤-lò̤-sṳ̆	ロシア
+Hāi	海
+Alabama	アラバマ州
+Wikimedia	ウィキメディア財団
+Jimmy Wales	ジミー・ウェールズ
+Dáik-guók	ドイツ
+Belarus	ベラルーシ
+Dáik-ngṳ̄	ドイツ語
+Bĭng-dō̤	アイスランド
+Estonia	エストニア
+Tū-sĭng	土星
+Hĭ-gĭ	飛行機
+Ciéng-cĕng	戦争
+1	1
+2	2
+3	3
+4	4
+5	5
+0	0
+George W. Bush	ジョージ・W・ブッシュ
+Latvia	ラトビア
+Ukraine	ウクライナ
+Ciék-káik	チェコ
+Slovakia	スロバキア
+Slovenia	スロベニア
+Moldova	モルドバ
+Romania	ルーマニア
+Bulgaria	ブルガリア
+Lò̤-mā	ローマ
+Macedonia Gê̤ṳng-huò-guók	マケドニア共和国
+Albania	アルバニア
+Croatia	クロアチア
+Bosnia gâe̤ng Herzegovina	ボスニア・ヘルツェゴビナ
+Azerbaijan	アゼルバイジャン
+Andorra	アンドラ
+Cyprus	キプロス
+Georgia (guók-gă)	グルジア
+Kazakhstan	カザフスタン
+Malta	マルタ
+Monaco	モナコ
+Montenegro	モンテネグロ
+Vaticano	バチカン
+San Marino	サンマリノ
+Gū-bă	キューバ
+Belize	ベリーズ
+Barbados	バルバドス
+Java	Java
+Éng-dô-nà̤-să̤-ā	インドネシア
+Tū-ī-gì-ngṳ̄	トルコ語
+Nàng-hĭ	南アフリカ共和国
+Algeria	アルジェリア
+Wiki Dù-cṳ̆-guāng	ウィキソース
+Uzbekistan	ウズベキスタン
+Huà-să	ワルシャワ
+Può-dò̤-ciū	ワイン
+Cūi	水
+Chà	木材
+Diêng-sê	テレビ
+Chile	チリ
+Ià-sŭ	イエス・キリスト
+Galileo Galilei	ガリレオ・ガリレイ
+Cūi-sĭng	水星
+Lĭk-sṳ̄	歴史
+Gĭng-sĭng	金星
+Ngṳ̄-ngiòng	言語
+Ái	愛
+Mŭk-sĭng	木星
+Ngṳ̀ng-ò̤	銀河系
+Tiĕng-uòng-sĭng	天王星
+Hāi-uòng-sĭng	海王星
+Tiĕng-ùng	天文学
+Sĭng-gă-pŏ̤	シンガポール
+Kuŏ-hŏk	科学
+Mìng-uòng-sĭng	冥王星
+Ciŏng-lài	未来
+Séng-mū Mā-lé-ā	イエスの母マリア
+Liechtenstein	リヒテンシュタイン
+Adolf Hitler	アドルフ・ヒトラー
+Dâ̤-nê-ché̤ṳ Sié-gái Dâi-ciéng	第二次世界大戦
+Wiki Gáu-kuŏ-cṳ̆	ウィキブックス
+Wiki Ngṳ̄-liŏh	ウィキクォート
+Wiki Dâi-hŏk	ウィキバーシティ
+Cṳ̆ng	時計
+Ubuntu	Ubuntu
+Linux	Linux
+Só-hŏk	数学
+Lá-dĭng-ngṳ̄	ラテン語
+Bahrain	バーレーン
+Armenia	アルメニア
+Serbia	セルビア
+Nguŏk-giù	月
+Istanbul	イスタンブル
+Ó̤-ciŭ	オーストラリア
+Ŭk-lī	物理学
+Argentina	アルゼンチン
+Peru	ペルー
+Dièu-siēng Mìng-ciō-ciō-ngiê Ìng-mìng Gê̤ṳng-huò-guók	朝鮮民主主義人民共和国
+Gāng-puŏ-câi	カンボジア
+Gū-làng-gĭng	クルアーン
+Kṳ̄ng-lṳ̀ng	恐竜
+Ĭ-sṳ̆-làng-gáu	イスラム教
+Lì	ナシ属
+Lùng-lùng	車輪
+Huò-bìng	平和
+Nṳ̄-gái	女性
+Gū-chiŏng-kĕ̤ng	肛門
+Nìng-mùng	レモン
+Bă-ciĕu	バナナ
+Huă	花
+Napoléon Bonaparte	ナポレオン・ボナパルト
+Sĕng-lī	生理学
+Hèng-sĭng	恒星
+Nĭk-tàu	太陽
+Victor Hugo	ヴィクトル・ユーゴー
+Dâi-iòng-ciŭ	オセアニア
+Tái-iòng-hiê	太陽系
+Ngāi	歯
+Kĭng	水素
+Wiki Gê̤ṳng-hiōng	ウィキメディア・コモンズ
+Cṳ̆	本
+Nĭk	日
+Dĕ̤ng Timor	東ティモール
+Màng-buŏ	夜
+Nièng	年
+Ó̤-sṳ̆-lṳ̆k	オスロ
+Lī-sṳ̆-buōng	リスボン
+Táng	炭素
+Dâng	窒素
+Iōng	酸素
+Giàng-sĭng	惑星
+Kleopatra 7-sié	クレオパトラ7世
+Ĭng-ngŏk	音楽
+É-dâi-lé-ngṳ̄	イタリア語
+Séng Peterburg	サンクトペテルブルク
+Chad	チャド
+Lé̤ṳ	アルミニウム
+Sĭng-să̤-làng	ニュージーランド
+Éng-dô	インド
+Tuvalu	ツバル
+Tiék	鉄
+Tonga	トンガ
+Samoa	サモア
+Solomon Gùng-dō̤	ソロモン諸島
+Vanuatu	バヌアツ
+Papua New Guinea	パプアニューギニア
+William Shakespeare	ウィリアム・シェイクスピア
+Palau	パラオ
+Nauru	ナウル
+Micronesia Lièng-băng	ミクロネシア連邦
+Iòng (gĭng-sṳ̆k)	鉛
+Marshall Gùng-dō̤	マーシャル諸島
+Kiribati	キリバス
+Mūng-gū	モンゴル国
+Fiji	フィジー
+Venezuela	ベネズエラ
+Guók-cié chiông-gì	チェス
+Genghis Khan	チンギス・カン
+Maine	メイン州
+Mā	ウマ
+Ū-ké	武器
+Dông-ŭk	動物
+Suriname	スリナム
+Paraguay	パラグアイ
+Guyana	ガイアナ
+Ecuador	エクアドル
+Colombia	コロンビア
+Hŭk-gáu	仏教
+Bolivia	ボリビア
+Dè̤ng	銅
+Trinidad gâe̤ng Tobago	トリニダード・トバゴ
+Sĭk-ŭk	植物
+Séng Vincent gâe̤ng Grenadines	セントビンセント・グレナディーン
+New Hampshire	ニューハンプシャー州
+Séng Lucia	セントルシア
+Séng Kitts gâe̤ng Nevis	セントクリストファー・ネイビス
+Cĭng-kṳ̄ng	菌類
+Jamaica	ジャマイカ
+Grenada	グレナダ
+Massachusetts	マサチューセッツ州
+Guatemala	グアテマラ
+Bahamas	バハマ
+Connecticut	コネチカット州
+Giĕ	ニワトリ
+Antigua gâe̤ng Barbuda	アンティグア・バーブーダ
+Hawaii	ハワイ州
+Honduras	ホンジュラス
+Dominica	ドミニカ国
+Dominica Gê̤ṳng-huò-guók	ドミニカ共和国
+Dṳ̆	ブタ
+Báe̤k-bĭng-iòng	北極海
+Haiti	ハイチ
+El Salvador	エルサルバドル
+Ĭ-lāng	イラン
+Iraq	イラク
+Alaska	アラスカ州
+Costa Rica	コスタリカ
+Ī-sáik-liĕk	イスラエル
+Panama	パナマ
+Yemen	イエメン
+Bâng-dŭk	ウイルス
+Pŏ̤-làng-ngṳ̄	ポーランド語
+Jordan	ヨルダン
+Nicaragua	ニカラグア
+Florida	フロリダ州
+Kyrgyzstan	キルギス
+Arizona	アリゾナ州
+Kuwait	クウェート
+Lō̤-kuŏ	ラオス
+Lebanon	レバノン
+Oregon	オレゴン州
+Maldives	モルディブ
+Mī-ciŭ	アメリカ州
+Utah	ユタ州
+Ngù	ウシ
+Mā-lài-să̤-ā	マレーシア
+Miēng-diêng	ミャンマー
+Nepal	ネパール
+Oman	オマーン
+Pakistan	パキスタン
+Qatar	カタール
+Saudi Ā-lá-báik	サウジアラビア
+Sri Lanka	スリランカ
+Joseph Stalin	ヨシフ・スターリン
+Syria	シリア
+Platon	プラトン
+Tajikistan	タジキスタン
+Dṳ̆ng-huà Mìng-guók	中華民国
+Aristoteles	アリストテレス
+Tái-guók	タイ王国
+Huōi-chiă	列車
+Turkmenistan	トルクメニスタン
+Ā-lá-báik Lièng-hăk Dâi-gŭng-guók	アラブ首長国連邦
+Băh-gĭng	白金
+Uŏk-nàng	ベトナム
+Dâi-hàng Mìng-guók	大韓民国
+Afghanistan	アフガニスタン
+Gĭng	金
+Suez Ông-ò̤	スエズ運河
+Bangladesh	バングラデシュ
+Mali	マリ共和国
+Sokrates	ソクラテス
+Angola	アンゴラ
+Bhutan	ブータン
+Ùng-lài	ブルネイ
+Tanzania	タンザニア
+Cūi-ngṳ̀ng	水銀
+Hĭ-lĭ-pĭng	フィリピン
+Dṳ̆ng-hĭ Gê̤ṳng-huò-guók	中央アフリカ共和国
+Isaac Newton	アイザック・ニュートン
+Albert Einstein	アルベルト・アインシュタイン
+Uòng-sáik	黄色
+Togo	トーゴ
+Tunisia	チュニジア
+Zambia	ザンビア
+Zimbabwe	ジンバブエ
+Báe̤k-gĭng	北京市
+Nàng Sudan	南スーダン
+Benin	ベナン
+Botswana	ボツワナ
+Wiki Sĭng-ùng	ウィキニュース
+Burkina Faso	ブルキナファソ
+Burundi	ブルンジ
+Comoros	コモロ
+Congo Gê̤ṳng-huò-guók	コンゴ共和国
+Congo Mìng-ciō Gê̤ṳng-huò-guók	コンゴ民主共和国
+Djibouti	ジブチ
+Chiáh-dô̤ Guinea	赤道ギニア
+Eritrea	エリトリア
+Gabon	ガボン
+Gambia	ガンビア
+Guinea	ギニア
+Guinea-Bissau	ギニアビサウ
+Côte d'Ivoire	コートジボワール
+Cameroon	カメルーン
+Cabo Verde	カーボベルデ
+Lesotho	レソト
+Liberia	リベリア
+Libya	リビア
+Madagascar	マダガスカル
+Malawi	マラウイ
+Mauritania	モーリタニア
+Mauritius	モーリシャス
+Morocco	モロッコ
+Mozambique	モザンビーク
+Namibia	ナミビア
+Niger	ニジェール
+Nigeria	ナイジェリア
+Charles Darwin	チャールズ・ダーウィン
+Uganda	ウガンダ
+Rwanda	ルワンダ
+Séng Tomé gâe̤ng Príncipe	サントメ・プリンシペ
+Senegal	セネガル
+Seychelles	セーシェル
+Carl Linnaeus	カール・フォン・リンネ
+Sierra Leone	シエラレオネ
+Somalia	ソマリア
+Julius Caesar	ガイウス・ユリウス・カエサル
+Sudan	スーダン
+Swaziland	スワジランド
+Kê̤ṳng	虹
+Lièng-hăk-guók	国際連合
+Dê-cék	地質学
+Dê-lī	地理学
+Sĭng-câung	心臓
+Puòi-hŭ	皮膚
+Ngàng-sáik	色
+Làng-sáik	青
+Ngṳ̀ng	銀
+Sék	スズ
+Michigan	ミシガン州
+Illinois	イリノイ州
+North Dakota	ノースダコタ州
+South Dakota	サウスダコタ州
+Montana	モンタナ州
+Wyoming	ワイオミング州
+Idaho	アイダホ州
+Washington	ワシントン州
+Nevada	ネバダ州
+Éng-dô-iòng	インド洋
+Kosovo	コソボ
+Colorado	コロラド州
+分類:Hŭng-lôi	Category:主要カテゴリ
+Chicago	シカゴ
+Dĕ̤ng-tiĕng	冬
+Chŭng-tiĕng	春
+Hâ-tiĕng	夏
+Chiŭ-tiĕng	秋
+Saddam Hussein	サッダーム・フセイン
+Osama bin Laden	ウサーマ・ビン・ラーディン
+Să̤-băng-ngà-ngṳ̄	スペイン語
+Philadelphia	フィラデルフィア
+Tĭ-tṳ̆	クモ
+Guō-sĭk	果実
+Gàu	サル
+Cièng	貨幣
+Virginia	バージニア州
+West Virginia	ウェストバージニア州
+Huăng-ciĕu	トウガラシ
+Niū-iók-ciŭ	ニューヨーク州
+Rhode Island	ロードアイランド州
+Kŏng-tṳ̀ng	昆虫
+Maryland	メリーランド州
+Delaware	デラウェア州
+Vladimir Lenin	ウラジーミル・レーニン
+Ohio	オハイオ州
+Pennsylvania	ペンシルベニア州
+Augustus	アウグストゥス
+Microsoft Windows	Microsoft Windows
+New Jersey	ニュージャージー州
+Hŭng-làng-ngṳ̄	フィンランド語
+Indiana	インディアナ州
+Ké-chiă	自動車
+Georgia	ジョージア州
+Texas	テキサス州
+North Carolina	ノースカロライナ州
+South Carolina	サウスカロライナ州
+Manila	マニラ
+Dĕ̤ng-gĭng	東京都
+Uòng-lì	パイナップル
+Mississippi	ミシシッピ州
+Tennessee	テネシー州
+New Mexico	ニューメキシコ州
+Ngà-diēng	アテネ
+Minnesota	ミネソタ州
+Baghdad	バグダード
+Wisconsin	ウィスコンシン州
+Iowa	アイオワ州
+Nebraska	ネブラスカ州
+Kansas	カンザス州
+Hŏng-giāng	紙巻きたばこ
+Missouri	ミズーリ州
+Louisiana	ルイジアナ州
+Kentucky	ケンタッキー州
+Arkansas	アーカンソー州
+Oklahoma	オクラホマ州
+Madonna	マドンナ (歌手)
+Aceh	アチェ州
+Séng-gĭng	聖書
+Phnom Penh	プノンペン
+Hù Cé-mìng Chê	ホーチミン市
+Ò̤-nô̤i	ハノイ
+Cĭng Ià-sŭ Gáu-huôi	真イエス教会
+Ĭng-ngṳ̄	英語
+Màng-gók	バンコク
+Kuala Lumpur	クアラルンプール
+Bangka Belitung Gùng-dō̤	バンカ・ブリトゥン州
+Dài-báe̤k	台北市
+Concepción	コンセプシオン (チリ)
+Bengkulu	ブンクル州
+Końskowola	コィンスコヴォラ
+Nê-iōng-huá-táng	二酸化炭素
+Jambi	ジャンビ州
+Siè	ヘビ
+Lampung	ランプン州
+Guŏng-sók	光速
+Riau	リアウ州
+Riau Gùng-dō̤	リアウ諸島州
+Nàng Sumatra	南スマトラ州
+Lò̤-mā Dá̤-guók	ローマ帝国
+Mì-niōng	マイクロソフト
+Kó-lū-hŭ	クルフ
+Huá-hŏk	化学
+Sièng-sŏng	塩酸
+Ôi-sĭng	衛星
+Kă-giù	サッカー
+Să̤ Sumatra	西スマトラ州
+Mā-dáik-lī	マドリード
+Michael Jackson	マイケル・ジャクソン
+Cê̤ṳ-iù	自由
+Cṳ̆-niòng-giāng	少女
+Sék-nà̤	シドニー
+Liŏh-sáik	緑
+È̤ng-sáik	赤
+Huōi	火
+Sĭng Nàng Wales	ニューサウスウェールズ州
+Nile Ò̤	ナイル川
+Banten	バンテン州
+Dṳ̆ng Jawa	中部ジャワ州
+Chēng-chiū-sĭng	彗星
+Dĕ̤ng Jawa	東ジャワ州
+Jakarta	ジャカルタ
+Ăng-kā-lá	アンカラ
+Să̤ Jawa	西ジャワ州
+Yogyakarta	ジョグジャカルタ特別州
+Dṳ̆ng Kalimantan	中部カリマンタン州
+Dĕ̤ng Kalimantan	東カリマンタン州
+Báe̤k Kalimantan	北カリマンタン州
+Nàng Kalimantan	南カリマンタン州
+Hŏk-hâu	学校
+Să̤ Kalimantan	西カリマンタン州
+Dâi-hŏk	大学
+Wikipedia:Să-buàng	Wikipedia:サンドボックス
+Chió	家屋
+Dê-dù	地図
+Ò̤	川
+Osasco	オザスコ (サンパウロ州)
+Chiĕng-lī-giáng	望遠鏡
+分類:Dài-uăng lĭk-sṳ̄	Category:台湾の歴史
+Curitiba	クリチバ
+Sĕng-lìng	森林
+分類:Uŏk-nàng lĭk-sṳ̄	Category:ベトナムの歴史
+Iók-báik-cṳ̆	ヨブ記
+Cĭng-ngiòng	箴言
+Kūng-cṳ̄	孔子
+Hà	十脚目
+分類:Só-hŏk	Category:数学
+Bali	バリ島
+Ĕu-nguòng	ユーロ
+Mī-gĭng	アメリカ合衆国ドル
+Dâi-lièu	遼
+Hòng-ciŭ	杭州市
+Gĭ-dók-gáu	キリスト教
+Dĕ̤ng Nusa Tenggara	東ヌサ・トゥンガラ州
+Să̤ Nusa Tenggara	西ヌサ・トゥンガラ州
+Dṳ̆ng Sulawesi	中部スラウェシ州
+Gĭng-guók	金 (王朝)
+Gorontalo	ゴロンタロ州
+Báe̤k Sulawesi	北スラウェシ州
+Dĕ̤ng-nàng Sulawesi	南東スラウェシ州
+Nàng Sulawesi	南スラウェシ州
+Să̤ Sulawesi	西スラウェシ州
+Seattle	シアトル
+Dêu	米
+Maluku	マルク州
+Báe̤k Maluku	北マルク州
+Papua	パプア州
+Să̤ Papua	西パプア州
+Cēu	鳥類
+Siū-dŭ	首都
+Può-dò̤-ngà-ngṳ̄	ポルトガル語
+Nguŏk	月 (暦)
+Uòng Hiêng-huàng	黄現ハン
+Cōng	ダイヤモンド
+Nĭk-buōng-ngṳ̄	日本語
+Báik-kuŏ-ciòng-cṳ̆	百科事典
+Tàu Hiĕk	メインページ
+模板:Ô-lī-kó̤	Template:Good article
+Saratov	サラトフ
+Làng-giù	バスケットボール
+Olympic Ông-dông-huôi	近代オリンピック
+Diòng-gĕ̤ng	長江
+Che Guevara	チェ・ゲバラ
+Mò̤ Dĕk-dŭng	毛沢東
+Să̤-ăng	西安市
+Lá-sák	ラサ市
+Séng-gău	性行為
+Ĭng-dô̤	膣
+Diék-hŏk	哲学
+分類:Ché̤ṳk-káik chēng-dṳ̀	Category:即時削除対象のページ
+Gáung-kìng	ピアノ
+Dà	茶
+Marco Polo	マルコ・ポーロ
+Hebe Camargo	ヘーペ・カマルゴ
+Gê̤ṳng-sāng-ciō-ngiê	共産主義
+Cṳ̆-buōng-ciō-ngiê	資本主義
+Guók-gă	国
+Mìng-cŭk	国民
+Carthago	カルタゴ
+Uōng-hiĕk liù-lāng-ké	ウェブブラウザ
+Siù-cūi	水泳
+分類:Tiĕng-ùng	Category:天文学
+Hŭk	仏陀
+Lī Bĕk	李白
+Dù-cṳ̆-guāng	図書館
+Sĕng-tái	生態学
+Céng-dê	政治
+Mìng-ciō	民主主義
+Cìng-dièu	秦朝
+Nobel Ciōng	ノーベル賞
+Cìng Sṳ̄-huòng	始皇帝
+Dṳ̆ng-dĕ̤ng	中東
+Háng-dièu	漢
+Làu Băng	劉邦
+Háng Ùng-dá̤	文帝 (漢)
+Háng Gīng-dá̤	景帝 (漢)
+Háng Ū-dá̤	武帝 (漢)
+Sĕng-ŭk	生物
+Rabindranath Tagore	ラビンドラナート・タゴール
+Háng Guŏng-ū-dá̤	光武帝
+Gŭng-ciō-cié-dô	君主制
+Siâ-huôi-ciō-ngiê	社会主義
+Cṳ̆ng-chói	接吻
+Nguòng-dièu	元 (王朝)
+Háng Hióng-dá̤	献帝 (漢)
+Nazi Dáik-guók	ナチス・ドイツ
+Christopher Columbus	クリストファー・コロンブス
+Dâng Huò	鄭和
+Panama Ông-ò̤	パナマ運河
+Céng-dièu	晋 (王朝)
+Nàng-bĭng-iòng	南極海
+Uòng-ò̤	黄河
+Sṳ̆-mā Ièng	司馬炎
+Ngê	耳
+Pé	鼻
+Mĕ̤k-ciŭ	目
+Hŭng-muòng	カ
+Săi-ngṳ̀	サメ
+Lŏk-dò̤	ラクダ
+Chiông	ゾウ
+Mā-ngiê	アリ
+Sùi-dièu	隋
+Hò̤-làng-ngṳ̄	オランダ語
+Sùi Ùng-dá̤	楊堅
+Sùi Iòng-dá̤	煬帝
+Să̤-hâ	西夏
+Sóng-dièu	宋 (王朝)
+Diêu Kuŏng-êng	趙匡胤
+Sóng Tái-cŭng	太宗 (宋)
+Sóng Cĭng-cŭng	真宗 (宋)
+Sóng Ìng-cŭng	仁宗 (宋)
+Sóng Sìng-cŭng	神宗 (宋)
+Sóng Hŭi-cŭng	徽宗
+Sóng Gŏ̤-cŭng	高宗 (宋)
+Sóng Lī-cŭng	理宗
+Sóng Duăng-cŭng	端宗 (宋)
+Ögedei	オゴデイ
+Güyük	グユク
+Möngke	モンケ
+Kublai	クビライ
+Huă-chái	カリフラワー
+Giò (sĭk-ŭk)	ナス
+Siók	雪
+Niè-giāng	子供
+Cā-tàu	朝
+Hŭng-cṳ̆ng	分
+Ngò̤-lò̤-sṳ̆-ngṳ̄	ロシア語
+Huák-lŭk	法 (法学)
+Hièng-huák	コンスティチューション (法学)
+Háng-ngṳ̄	中国語
+Sá̤-bàu	細胞
+Háik	血液
+Hié (ké-guăng)	肺
+Romania-ngṳ̄	ルーマニア語
+Bulgaria-ngṳ̄	ブルガリア語
+Ṳ̄	雨
+Dê-cīng	地震
+Cūi-căi	洪水
+Hāi-lâung	津波
+Hùng	雲
+Hŭng-tăi	熱帯低気圧
+Hŭng	風
+Georgia-ngṳ̄	グルジア語
+Háng-cê	漢字
+Dièu-siēng-cê	ハングル
+Lá-dĭng cê-mō̤	ラテン文字
+Ùng-hŏk	文学
+分類:Ĭng-ngŏk	Category:音楽
+分類:Ùng-hŏk	Category:文学
+È̤ng-làu-máe̤ng	紅楼夢
+Hù-lì	キツネ
+Harry Potter	ハリー・ポッターシリーズ
+Chiū-ìng	オナニー
+Siâ-huôi	社会
+Gáu-ṳ̆k	教育
+Nàng-gái	男性
+Ìng-guòng	人権
+Temür	テムル
+Gŭng-sê̤ṳ	軍事
+Gă-pĭ	コーヒー
+Săng	山
+Khayisan	カイシャン
+Ayurbarwada	アユルバルワダ
+Shidibala	シデバラ
+Yesün Temür	イェスン・テムル
+Sŏng Dṳ̆ng-săng	孫文
+Hiŏng-gē̤ng	香港
+Miami	マイアミ
+Ragibagh	アリギバ
+Tugh Temür	トク・テムル
+Kuśala	コシラ
+Hàng Ciéng	朝鮮戦争
+Rinchinbal	イリンジバル
+Toghon Temür	トゴン・テムル
+Siū-ék	ソウル特別市
+Siông-hāi	上海市
+Ùng-huá Dâi-gáik-mêng	文化大革命
+Chĭng-dièu	清
+Uŏk-nàng Ciéng-cĕng	ベトナム戦争
+Thomas Edison	トーマス・エジソン
+Armenia-ngṳ̄	アルメニア語
+Ukraine-ngṳ̄	ウクライナ語
+HTML	HyperText Markup Language
+Steven Spielberg	スティーヴン・スピルバーグ
+Mŏ̤h-ngiòng	莫言
+Sôi-diēng-ngṳ̄	スウェーデン語
+Dăng-măk-ngṳ̄	デンマーク語
+Nò̤-ŭi-ngṳ̄	ノルウェー語
+Luxembourg-ngṳ̄	ルクセンブルク語
+Ciék-káik-ngṳ̄	チェコ語
+Karl Marx	カール・マルクス
+Nĕng-nĕng	乳房
+Guŏng	光
+Hĭ-lé-nà̤-ngṳ̄	ギリシア語
+Ái-ī-làng-ngṳ̄	アイルランド語
+Kié-ngò̤	ペンギン
+Pŏ̤-sṳ̆-ngṳ̄	ペルシア語
+Cŭng-gáu	宗教
+Hàng-guók-ngṳ̄	朝鮮語
+Cháung-sié-gé	創世記
+Chók-Ăi-gĭk-gé	出エジプト記
+Háng-ngṳ̄ Guăng-uâ	官話
+Uŏk-nàng-ngṳ̄	ベトナム語
+Sigmund Freud	ジークムント・フロイト
+Tái-guók-ngṳ̄	タイ語
+Mā-lài-ngṳ̄	マレー語
+Mūng-gū-ngṳ̄	モンゴル語
+Bandar Seri Begawan	バンダルスリブガワン
+Hĭ-báik-lài-ngṳ̄	ヘブライ語
+Ŭi-ī-sê̤ṳ-ngṳ̄	ウェールズ語
+Sŭ-gáik-làng-ngṳ̄	スコットランド・ゲール語
+Vientiane	ヴィエンチャン
+Lō̤-cṳ̄	老子
+Găng-câung	肝臓
+Sṳ̆-mā Chiĕng	司馬遷
+Tó	ウサギ
+Ciŏ Hĭ	朱子
+Cìng-gāng	感情
+Dâi-iòng	大洋
+Victoria Nṳ̄-uòng	ヴィクトリア (イギリス女王)
+Sék-giă-mèu-nà̤	釈迦
+Mŭk-hâng-mĕk-dáik	ムハンマド・イブン＝アブドゥッラーフ
+Hŭ-ngék	呼吸
+Ṳ̀-gă	儒教
+Bók-lō̤	腹
+Dô̤-gáu	道教
+Chói-siĕk	舌
+Dâiu-gáuk	首
+Chói	口
+Elizabeth 2-sié	エリザベス2世
+Dòng-dièu	唐
+Dòng Gŏ̤-cū	李淵
+Dòng Tái-cŭng	太宗 (唐)
+Dòng Gŏ̤-cŭng	高宗 (唐)
+Dòng Dṳ̆ng-cŭng	中宗 (唐)
+Dòng Iô-cŭng	睿宗 (唐)
+Ū Cáik-tiĕng	武則天
+Dòng Hièng-cŭng	玄宗 (唐)
+Dòng Sé̤ṳk-cŭng	粛宗 (唐)
+Dòng Dâi-cŭng	代宗 (唐)
+Dòng Dáik-cŭng	徳宗 (唐)
+Siēu-hŏk	小学校
+Mìng-dièu	明
+Ciŏ Nguòng-ciŏng	朱元璋
+Ronald Reagan	ロナルド・レーガン
+Gióng-ùng Huòng-dá̤	建文帝
+Īng-lŏk Huòng-dá̤	永楽帝
+Hùng-hĭ Huòng-dá̤	洪熙帝
+Sŏng-dáik Huòng-dá̤	宣徳帝
+Mìng Ĭng-cŭng	英宗 (明)
+Gīng-tái Huòng-dá̤	景泰帝
+Sìng-huá Huòng-dá̤	成化帝
+Hùng-dé Huòng-dá̤	弘治帝
+Céng-dáik Huòng-dá̤	正徳帝
+Gă-cêng Huòng-dá̤	嘉靖帝
+Lè̤ng-kéng Huòng-dá̤	隆慶帝
+Uâng-lĭk Huòng-dá̤	万暦帝
+Tái-chiŏng Huòng-dá̤	泰昌帝
+Tiĕng-kiē Huòng-dá̤	天啓帝
+Sùng-dĭng Huòng-dá̤	崇禎帝
+Gĭng Céng-nĭk	金正日
+Nguòng-só ciŭ-gĭ-biēu	周期表
+Chăng-màng	失明
+Sá̤-kṳ̄ng	真正細菌
+Chéu	木
+Può-dò̤	ブドウ
+Huăng-giāng-sṳ̀	ジャガイモ
+Tòng	砂糖
+Uòng-dâu	ダイズ
+Séng-sék	情報
+Bó̤-cāi	新聞
+Diêng-uâ	電話機
+Ùng-huá	文化
+Huáng-ngṳ̄	サンスクリット
+Dâi-diòng	大腸
+Siēu-diòng	小腸
+Ĭ-hŏk	医学
+Sièng	塩
+Huá-hŏk nguòng-só	元素
+Unix	UNIX
+Ùi-gì	囲碁
+Káh-dièu-nó̤h	玩具
+Diêng-īng	映画
+Gĭng-sṳ̆k	金属
+Kă-dăk-chiă	自転車
+Mièng-huă	木綿
+Sók-dô	速度
+Sì-găng	時間
+Cāi	紙
+Só-lâiu	合成樹脂
+Miêng-cék	面積
+Gŭng-chióh	メートル
+Iù-diĕng-bău	トウモロコシ
+Duâi-măk	オオムギ
+Dĕ̤ng-nàng-ā	東南アジア
+Sīng-iòng	瀋陽市
+Tṳ̀ng-kéng	重慶市
+Tiĕng-cĭng	天津市
+Ū-háng	武漢市
+Gū Ăi-gĭk	古代エジプト
+Gū Hĭ-lé-nà̤	古代ギリシア
+Hṳ̀ng	クマ
+Britney Spears	ブリトニー・スピアーズ
+Ngàng	悪性腫瘍
+Măk	コムギ
+Cié-sē̤	モロコシ属
+Pó̤-sióng	障害者
+Lĭk-huák	暦
+Sìng-gĭng-bâng	精神障害
+Gregorius Lĭk-huák	グレゴリオ暦
+Tutankhamun	ツタンカーメン
+Nguŏk-gĭng	月経
+Mà-chiók	麻雀
+Ông-ò̤	運河
+Detroit	デトロイト
+Diòng-siàng	万里の長城
+Gĭng-cê-ták	ピラミッド
+Osman Dá̤-guók	オスマン帝国
+Guók-nô̤i sĕng-sāng cūng-dĭk	国内総生産
+Diêng	電気
+Ché̤ṳng	銃
+Lòng-gĭ-ché̤ṳng	機関銃
+Sáung-buàng	アバカス
+Tāng-káik	戦車
+Chāu-muòi	イチゴ
+Liĕk-chiĕ	レイシ
+Ià-cī	ココナッツ
+Tò̤	モモ
+Cáung-ngṳ̄	チワン語
+Siŏng-ngṳ̄	湘語
+Mì-ngù-ī-ngṳ̄	ウイグル語
+Lâung-gŏ̤	ケーキ
+Wiki Ŭk-cṳ̄ng	ウィキスピーシーズ
+Nĕng-dáe̤k	ブラジャー
+Ā-lá-báik-ngṳ̄	アラビア語
+Cūng-lī	首相
+Dièu-siēng Tái-cŭng	太宗 (朝鮮王)
+Lù Ū-hièng	盧武鉉
+Páuk Céng-hĭ	朴正煕
+Siĕng-ìng-ciōng	サボテン
+Iòng-bék	鉛筆
+Gă-sĭ	家具
+Dó̤h	テーブル (家具)
+Ó̤-muòng	マカオ
+Liòng Cīng-ĭng	梁振英
+Iē-giāng	椅子
+Hù Gīng-dò̤	胡錦濤
+Sĭk Gê̤ṳng-bìng	習近平
+Dòng-gêng-lĕ̤k	キリン
+Chĭng-dáung	深セン市
+Guōng-dĕ̤ng	広東省
+Guōng-să̤	広西チワン族自治区
+Sŭ-lièng	ソビエト連邦
+Kiák-sióng-gĭ	カメラ
+Kagoshima-gâing	鹿児島県
+C ngṳ̄-ngiòng	C言語
+Kă	足
+Ciēng	ヤモリ科
+Dô-dâing	トカゲ
+Giĕng-tàu	肩
+Wikipedia:Bō̤-ciéng hō̤ ùng	Wikipedia:秀逸な記事
+模板:Link FA	Template:Link FA
+Sié-gái	世界
+Wikipedia:Duâi chéu â	Wikipedia:井戸端
+Busan	釜山広域市
+Lèng-huă	ハス
+Vermont	バーモント州
+Denver	デンバー
+Guōng-ciŭ	広州市
+Ciōng Gái-sĭk	蒋介石
+Gŏng Dĕk-mìng	江沢民
+Ŭng Gă-bō̤	温家宝
+Nàng-gĭng	南京市
+Làu Dáik-huà	アンディ・ラウ
+Diŏng Hŏk-iū	ジャッキー・チュン
+Báe̤k-gĭng Dâi-hŏk	北京大学
+Chĭng-huà Dâi-hŏk	清華大学
+Ŭ-lū-mŭk-cà̤	ウルムチ市
+Gŏng-sŭ	江蘇省
+Ciék-gŏng	浙江省
+Dâing Siēu-bìng	トウ小平
+Lò̤-mā Gê̤ṳng-huò-guók	共和政ローマ
+Câung-kṳ̆	チベット
+Să̤-câung	チベット自治区
+Ciŭ Ŏng-lài	周恩来
+Dṳ̆ng-guók Gê̤ṳng-sāng-dōng	中国共産党
+Chiū-gĭ	携帯電話
+Dò̤-nēu	ダチョウ
+Kŏng-hĭ Huòng-dá̤	康熙帝
+Dièu-siēng	朝鮮
+Lī Káik-giòng	李克強
+Gŏ̤ Hèng-giông	高行健
+Ciŏ Ṳ̀ng-gĭ	朱鎔基
+Lī Bèng	李鵬
+Lòng	オオカミ
+Bìng-iōng	平壌
+Sĭng-iók Séng-gĭng	新約聖書
+9	9
+Kiék	サソリ
+Gièng-lè̤ng Huòng-dá̤	乾隆帝
+Dṳ̆ng-guók Dâi-lṳ̆k	中国大陸
+Háik-lṳ̀ng-gĕ̤ng-sēng	黒竜江省
+Mā Ĭng-gāu	馬英九
+Lè̤	ロバ
+Wikipedia:Cék-liông ô-lī-kó̤ gì ùng-ciŏng	Wikipedia:良質な記事
+Sé-chiŏng	四川省
+Gô-iók Séng-gĭng	旧約聖書
+Séng-dáng-cáik	クリスマス
+Săng-gáe̤k-hìng	三角形
+Muammar Gaddafi	ムアンマル・アル＝カッザーフィー
+Lâu-hū	トラ
+Daejeon	大田広域市
+Daegu	大邱広域市
+Sié-cŭng Dĕk-biék Cê̤ṳ-dé-chê	世宗特別自治市
+Incheon	仁川広域市
+Gyeonggi Dô̤	京畿道
+Bô-uăk-cáik	復活祭
+Ò̤-báe̤k	河北省
+Bŏk Hĭ-lài	薄熙来
+GNU Cê̤ṳ-iù Ùng-dáung Hṳ̄-kō̤-céng	GNU Free Documentation License
+Uŏng Cĭng-ôi	汪兆銘
+Dìng Cūi-biēng	陳水扁
+Dài-uăng	台湾
+À̤	靴
+Ngṳ̀ng-hòng	銀行
+Lū Séng	魯迅
+7	7
+8	8
+Lĕ̤k	シカ
+Hù	湖
+Sáung-tàu	ニンニク
+Chái-guă	キュウリ
+Dō̤	島
+Băh-sáik	白
+Ŭ-sáik	黒
+6	6
+Moshchena	モシュチェナ
+Huăng-kê	トマト
+George H. W. Bush	ジョージ・H・W・ブッシュ
+Paltoga	パルトガ
+Quảng Bình	クアンビン省
+Atlanta	アトランタ
+Benito Mussolini	ベニート・ムッソリーニ
+Sṳ̀-diēng	辞典
+Tàu	頭
+Hiê-lìng-dóng	ウェリントン
+Dâi Bók-liĕk-diĕng Dō̤	グレートブリテン島
+Las Vegas	ラスベガス
+10	10
+Alfred Nobel	アルフレッド・ノーベル
+Tàu-sĕ̤	櫛
+Guòng-lĭk	権力
+Mà-hùng-cēu	フクロウ目
+Dēng-cṳ̆ng	時間 (単位)
+Ké-chiông	気象学
+Đà Nẵng	ダナン
+Káh-chiók	カササギ
+Làng-huă	ラン科
+Gă-săk	ゴキブリ
+Ngáuk-ngṳ̀	ワニ
+Lā-lì	センザンコウ
+Nàng-muōi-sĭng	ホタル
+Holocene	完新世
+Hāi-báu	アザラシ
+Bà̤-bá-cēu	ミソサザイ
+Ciáh-giāng	スズメ
+Niccolò Cusano Dâi-hŏk	ニコラウス・クザーヌス大学
+Long An	ロンアン省
+Thái Nguyên	タイグエン省
+Herodotus	ヘロドトス
+Othello	オセロ (シェイクスピア)
+Nĭk-buōng-hāi	日本海
+Dĕ̤ng-ā	東アジア
+Dĕ̤ng-ĕu	東ヨーロッパ
+Vĩnh Phúc	ヴィンフック省
+Chĕ̤ng	ネギ
+Liù-giù-guók	琉球王国
+Dièu-siēng uòng-dièu	李氏朝鮮
+Gŏ̤-là̤	高麗
+Dâi-hàng Dá̤-guók	大韓帝国
+Buŏk-hāi-guók	渤海 (国)
+Gŏ̤-gău-là̤	高句麗
+Bì-bà-dâu-giék	コウモリ
+Báik-cá̤	百済
+Sĭng-lò̤	新羅
+Tàu-huók	毛 (動物)
+Hàng Hĭ	韓非
+Uòng-dá̤	黄帝
+Diéu-ngṳ̀-dài Liĕk-dō̤	尖閣諸島
+Gê̤ṳng-huò-dōng (Mī-guók)	共和党 (アメリカ)
+Dṳ̆ng-guók	中国
+Mìng-ciō-dōng (Mī-guók)	民主党 (アメリカ)
+Cūi-tiák	ユーラシアカワウソ
+Sìng-dŭ	成都市
+Buò-gŭng-ĭng	タンポポ
+Tá	クラゲ
+Dâng-ciŭ	鄭州市
+Cūng-tūng	大統領
+Muāng-ciŭ-guók	満州国
+Só̤h	ロープ
+Dṳ̆ng-guók Guók-mìng-dōng	中国国民党
+Hiăng-diê ciā-muói	兄弟姉妹
+Ngâng	サカツラガン
+Ĕng-gŏ̤	オウム目
+Gŏ̤-giāng-hié	歌仔戯
+Gă-huák	加法
+Dài-uăng-sēng	台湾省
+Dŏ̤	ナイフ
+Băng-mā	シマウマ
+Guók-cié biĕu-cūng cṳ̆-hô̤	ISBN
+Đồng Nai	ドンナイ省
+Sóc Trăng	ソクチャン省
+Quảng Ngãi	クアンガイ省
+Hà Tĩnh	ハティン省
+Cà Mau	カマウ省
+Quảng Nam	クアンナム省
+Bến Tre	ベンチェ省
+Khánh Hòa	カインホア省
+Káh-gă-ngṳ̄	客家語
+Sơn La	ソンラ省
+Huŏng-ngiòng	方言
+Lev Trotsky	レフ・トロツキー
+Quảng Ninh	クアンニン省
+Lạng Sơn	ランソン省
+Bắc Ninh	バクニン省
+Gáng-ngṳ̄	カン語
+Sṳ̆-mā Guŏng	司馬光
+Mà-hṳ̀ng	ジャイアントパンダ
+Muāng-ngṳ̄	満州語
+Chiū	手
+Dô Hū	杜甫
+Gùng-dō̤	多島海
+Niŏh-niŏh	葉腋
+Bŭk-buó	滝
+Yasser Arafat	ヤーセル・アラファート
+Chṳ̆ng-sìng-ngṳ̄	沖縄方言
+Câung-ngṳ̄	チベット語
+Ngù-ngṳ̄	呉語
+Tasmania	タスマニア州
+Ì-cô̤	石鹸
+Hŭk-săng	仏山市
+Ciĕu-huò Tiĕng-huòng	昭和天皇
+Al-Qaeda	アルカーイダ
+Mò̤-táuk-chiă	オートバイ
+Ò̤-mā	カバ
+Anastacia	アナスタシア (歌手)
+Sĕk Gái	モーセの十戒
+Huă-báu	ヒョウ
+Să̤-ngiù	サイ
+Lò̤-buàng	方位磁針
+Buáng-dō̤	半島
+Sĭng-giŏng	新疆ウイグル自治区
+Mŭk-guă	パパイア
+Mì-sĕng-só	ビタミン
+Gái-làng-chái	キャベツ
+Giáng	鏡
+Ciŭ-dièu	周
+Kāng-muòng-giāng	窓
+Băh Gṳ̆ng	ホワイトハウス
+Gīng-chák	警察
+Hók-ciŭ-uâ	福州語
+Báe̤k-hāi-dô̤	北海道
+Giŏng	ショウガ
+Nobel Huò-bìng Ciōng	ノーベル平和賞
+Sáu	咳嗽
+Hák-chê	くしゃみ
+Káung-mìng	睡眠
+Gèng-hāi	アラル海
+Dé̤ṳk	竹
+Hù Cé-mìng	ホー・チ・ミン
+Hòa Bình	ホアビン省
+Sŭ Sék	蘇軾
+Queensland	クイーンズランド州
+Tù	土壌
+Ù-huă-guō	イチジク
+Hưng Yên	フンイエン省
+Dòng-dô	長さ
+Kon Tum	コントゥム省
+Hậu Giang	ハウザン省
+Máe̤ng	夢
+Yên Bái	イエンバイ省
+Bắc Giang	バクザン省
+Thừa Thiên-Huế	トゥアティエン＝フエ省
+Bắc Kạn	バックカン省
+Lai Châu	ライチャウ省
+Hà Nam	ハナム省
+Lào Cai	ラオカイ省
+Mìng-dĕ̤ng-ngṳ̄	ビン東語
+Hannibal	ハンニバル
+Mìng-báe̤k-ngṳ̄	ビン北語
+Mìng-nàng-ngṳ̄	ビン南語
+Thanh Hóa	タインホア省
+Kiên Giang	キエンザン省
+Quảng Trị	クアンチ省
+Nghệ An	ゲアン省
+An Giang	アンザン省
+Tây Ninh	タイニン省
+Phú Thọ	フート省
+Duâi-sĭng-sĭng	ゴリラ
+Trà Vinh	チャーヴィン省
+Bạc Liêu	バクリエウ省
+Gia Lai	ザライ省
+Tiền Giang	ティエンザン省
+Bình Phước	ビンフオック省
+Đồng Tháp	ドンタップ省
+Thái Bình	タイビン省
+Hà Giang	ハザン省
+Đắk Lắk	ダクラク省
+Cáung-cŭk	チワン族
+Bình Định	ビンディン省
+Lâm Đồng	ラムドン省
+Đắk Nông	ダクノン省
+Phú Yên	フーイエン省
+Hải Dương	ハイズオン省
+Dièu-ciŭ-uâ	潮州語
+Iók-hâng Hók Ĭng	ヨハネによる福音書
+Dài-uăng-uâ	台湾語
+Muòng	扉
+Chiēng-gák	爪
+Cao Bằng	カオバン省
+Bình Dương	ビンズオン省
+Bình Thuận	ビントゥアン省
+Bà Rịa-Vũng Tàu	バリア＝ブンタウ省
+Ninh Bình	ニンビン省
+Ninh Thuận	ニントゥアン省
+Nam Định	ナムディン省
+Điện Biên	ディエンビエン省
+Sìng-lṳ̀ng	ジャッキー・チェン
+Méng	顔
+Ùng-ngiòng-ùng	漢文
+Gāng-lāng	オリーブ
+Săng-ôi-ék-tā̤	三位一体
+Sŏng-cṳ̄	孫武
+Sĭng-săng	教員
+Cleveland	クリーブランド (オハイオ州)
+Dăk-lâi Lā-mà	ダライ・ラマ
+Huă-sĕng	ラッカセイ
+100	100
+Kă-kók-tàu	膝
+Hâing	アンズ
+Ngāng-giáng	眼鏡
+Cê̤ṳ-lài-huōi	マッチ
+Chê-diòng	市場
+Nàng Dṳ̆ng-guók Hāi	南シナ海
+Dièu-siēng Sié-cŭng	世宗 (朝鮮王)
+Hăk-gĭng	合金
+Bĭng-siŏng	冷蔵庫
+Nobel Ùng-hŏk Ciōng	ノーベル文学賞
+Huăng-sṳ̀	サツマイモ
+Uòng-hāi	黄海
+Akihito	明仁
+Newton ông-dông-hŏk dêng-lŭk	ニュートン力学
+Să̤-guă	スイカ
+Biobío Dâi-hŏk	ビオ＝ビオ大学
+Huòng-dá̤	皇帝
+Ìng-mìng-bê	人民元
+Tā̤-cék	体積
+Cèng-sáik	オレンジ色
+Gă-sĭ-huă	道具
+Ĭ-sĕng	医師
+Iéng (cēu)	ツバメ科
+Kó	ズボン
+Lô-gă Hók Ĭng	ルカによる福音書
+Mìng-ciō-dōng	民主党
+Ciŏng-tàu	煉瓦
+Tiō-uòng	楕円
+Sìng-huák	乗法
+Sé̤ṳ-dù Hèng-diông	使徒言行録
+Uòng-dô̤ Sĕk-nê Sĭng-cô̤	黄道十二星座
+Huá-siŏh	化石
+Gēng-huák	減法
+Cī-cī	種子
+Chiĕk	カニ
+Gă-dŏ̤	はさみ
+Niêu	尿
+Ăng-hŭi	安徽省
+Ngiăh	額
+Sĭ-piĕng	詩篇
+Chungcheong Báe̤k-dô̤	忠清北道
+Chungcheong Nàng-dô̤	忠清南道
+Gangwon Dô̤ (Dâi-hàng Mìng-guók)	江原道 (南)
+Nô̤i Mūng-gū	内モンゴル自治区
+Gĭng Nĭk-sìng	金日成
+Gyeongsang Nàng-dô̤	慶尚南道
+Gyeongsang Báe̤k-dô̤	慶尚北道
+Jeolla Báe̤k-dô̤	全羅北道
+Jeolla Nàng-dô̤	全羅南道
+Jeju Dĕk-biék Cê̤ṳ-dé-dô̤	済州特別自治道
+Huăng-cièng-giāng	硬貨
+Bă-biĕk-ták	バベルの塔
+Ulsan	蔚山広域市
+Gwangju	光州広域市
+Chó	酢
+Kangwŏn Dô̤ (Dièu-siēng Mìng-ciō-ciō-ngiê Ìng-mìng Gê̤ṳng-huò-guók)	江原道 (北)
+Michael Jordan	マイケル・ジョーダン
+Lé-ê-gé	レビ記
+Gṳ̆ng-gṳ̆ng	根
+Bì-bà (cūi-guō)	ビワ
+Hamlet	ハムレット
+Huà Guók-hŭng	華国鋒
+Sāng	傘
+Làu Hiēu-pŏ̤	劉暁波
+Hók-gióng	福建省
+Mūng-gū-cŭk	モンゴル系民族
+Mĕk-sê Liŏh	ヨハネの黙示録
+Hièng-câung	玄奘三蔵
+Gū-chiŏng	尻
+Mìng-chòng	ベッド
+Hāi-nàng	海南省
+Háng-ngṳ̄ Pĭng-ĭng	ピン音
+Uōng-dĕ̤ng	極東
+Băh-gák	カワラバト
+Găng-sé̤ṳk	甘粛省
+Taliban	ターリバーン
+Huŏi-sáik	灰色
+Sĭng-mêng-gé	申命記
+Sŭ-ciŭ	蘇州市
+Ŭng-ciŭ	温州市
+Háng-cŭk	漢民族
+Nìng-pŏ̤	寧波市
+Chói-chiŭ	髭
+Cāi-iêu	凧
+Hăk-ī-bĭng	ハルビン市
+Mā-kì	ヒル (動物)
+1000	1000
+Mìng-só-gé	民数記
+Cáu-sèng	台所
+Hùng-nàng	雲南省
+Lō̤-uă	カラス属
+Guók-lĭk Gău-tŭng Dâi-hŏk	国立交通大学
+Guók-lĭk Chĭng-huà Dâi-hŏk	国立清華大学
+Săng-dĕ̤ng	山東省
+È̤ng-ĕ̤ng	ムカデ
+Ò̤-nàng	河南省
+Mì-mò̤	眉毛
+Bók-sài	へそ
+Lièu-nìng	遼寧省
+Hióng-liông	空間ベクトル
+Cretaceous	白亜紀
+Tochigi-gâing	栃木県
+Chói-mò̤-cēu	カワセミ亜目
+Dàu	サイコロ
+Cūi-nà̤	セメント
+Gék-lìng	吉林省
+Dĕ̤ng Dṳ̆ng-guók Hāi	東シナ海
+Hāi-chĕk	海賊
+Gūi	亡霊
+Lè̤ng-ū Huòng-dá̤	隆武帝
+Bóng-dó̤	廃棄物
+Hù-nàng	湖南省
+Jurassic	ジュラ紀
+Chĭng-hāi	青海省
+Mì-ngù-ī-cŭk	ウイグル
+Ă-piéng	アヘン
+Chiū-cī	指輪
+Hù-báe̤k	湖北省
+Săng-să̤	山西省
+Cĕ̤ng-sáik	茶色
+Giòng-găng	強姦
+Gói-ciŭ	貴州省
+Triassic	三畳紀
+Sék-sáuk	コオロギ
+Cāi-piéu	紙幣
+SQL	SQL
+Hù Sék	胡適
+Iók-cṳ̆-ā-gé	ヨシュア記
+Cŏng-cṳ̄	荘子
+Cṳ̀-hĭ Tái-hâiu	西太后
+Kan Naoto	菅直人
+Miyagi-gâing	宮城県
+模板:Commons category	Template:Commonscat
+Lò̤-mā Cṳ̆	ローマの信徒への手紙
+Pău-ŭk-siáng	放物線
+Dô̤-dáik	道徳
+Iwate-gâing	岩手県
+Ĭ-siòng-chiă	ミシン
+Dièu-siēng Lò̤-dông-dōng	朝鮮労働党
+Nàng-báe̤k-dièu	南北朝時代 (中国)
+Chái Ĭ-lìng	蔡依林
+Pì-lĭk-bī Cṳ̆	フィリピの信徒への手紙
+Ngā-gŏ-cṳ̆	雅歌
+Mā-lăk-gĭ-cṳ̆	マラキ書
+模板:Taxobox	Template:生物分類表
+分類:Gŭng-ciō	Category:君主
+Diŏng Ngiê-mèu	張芸謀
+模板:Dṳ̆ng-guók lĭk-sṳ̄	Template:中国の歴史
+Gĭng Céng-ŏng	金正恩
+Liù-giù-ngṳ̄	琉球語
+Mìng-dṳ̆ng-ngṳ̄	ビン中語
+Céng-ngṳ̄	晋語
+Mìng-ngṳ̄	ビン語
+Buò-siĕng-ngṳ̄	ホ仙語
+Gŏng-să̤	江西省
+Dài-uăng-sēng (Dṳ̆ng-huà Ìng-mìng Gê̤ṳng-huò-guók)	台湾省 (中華人民共和国)
+Nìng-hâ	寧夏回族自治区
+Lùng-sùng	ドラゴンボート
+Noda Yoshihiko	野田佳彦
+Yingluck Shinawatra	インラック・シナワトラ
+Siŏh-gă-cŏng	石家荘市
+Chṳ̄	ネズミ上科
+Ciŏ-hāi	珠海市
+Sáng-tàu	汕頭市
+Dâng-gŏng	湛江市
+Mùi-ciŭ	梅州市
+Chĭng-uōng	清遠市
+Dĕ̤ng-uāng	東莞市
+Dṳ̆ng-săng-chê	中山市
+Dièu-ciŭ	潮州市
+Tàng-táik	ナマズ目
+Gé̤ṳk-huă	キク属
+Mĕ̤k-lê-huă-dà	ジャスミン茶
+Sofie gì Sié-gái	ソフィーの世界
+Ordovician	オルドビス紀
+Silurian	シルル紀
+Hók-gióng-sēng (Dṳ̆ng-huà Mìng-guók)	福建省 (中華民国)
+Mièu-lĭk	苗栗県
+Dāng-nòng	胆嚢
+Devonian	デボン紀
+Hók-ciŭ	福州市
+Nàng-bìng	南平市
+Buò-dièng	ホ田市
+Săng-mìng	三明市
+Ciòng-ciŭ	泉州市
+Â-muòng	廈門市
+Ciŏng-ciŭ	ショウ州市
+Lṳ̀ng-ngàng	竜岩市
+Nìng-dáik	寧徳市
+Să̤-nìng	西寧市
+Să̤-iù-gé	西遊記
+Săng-guók Iēng-ngiê	三国志演義
+Cūi-hū	水滸伝
+Ā-dŏng	アダム
+Aomori-gâing	青森県
+Fukushima-gâing	福島県
+Tái-nguòng	太原市
+Hải Phòng	ハイフォン
+Sĭng-dé̤ṳk (gâing)	新竹県
+Dâi-lièng	大連市
+Hĭ-Pŏ̤ Ciéng-cĕng	ペルシア戦争
+Permian	ペルム紀
+Biēu-chĭng	いとこ
+Cambrian	カンブリア紀
+Iòng-ciók	ろうそく
+Chiba-gâing	千葉県
+Pău	ブンタン
+Lô-dáik-gé	ルツ記
+Mà-hù	トンボ亜目
+Dáng-ī-lī	ダニエル書
+Páuk-káik	ポーカー
+Mô̤	帽子
+Gŏ̤-lìng-dŏ̤ Cièng Cṳ̆	コリントの信徒への手紙一
+Aichi-gâing	愛知県
+Lī-ngṳ̀	コイ
+Muāng-ciŭ	満州
+Sê̤ṳ-sṳ-gé	士師記
+Pŏ̤-lìng-chái	ホウレンソウ
+Akita-gâing	秋田県
+Pièu-gĕng	スプーン
+Dê̤ṳ	箸
+Mĕ̤k-lê	ジャスミン
+Nàng-dàu	南投県
+Gié-tiàng-chiă	タクシー
+Â-hài	おとがい
+Gŭ	キノコ
+Ibaraki-gâing	茨城県
+Siĕu-sŏng	硝酸
+Ngù-giāng-kó	ジーンズ
+Bō̤-siŏh	宝石
+Lièu-că̤ Cé-ê	聊斎志異
+Gáu-kuŏ-cṳ̆	教科書
+Chāu-māng	バッタ
+Dâng Gĭng	鄭経
+Diòng-chŭng	長春市
+Milan Kundera	ミラン・クンデラ
+Ū-ì-săng-chê	武夷山市
+Lĕ̤k-sé Sê̤ṳ-giông	六四天安門事件
+Diêu Ciē-iòng	趙紫陽
+Hù Iêu-băng	胡耀邦
+Fukuda Yasuo	福田康夫
+Sṳ̀ng-chéu (Sṳ̀ng-báh)	マツ科
+Gī-hò̤-chiă	コンパス
+Táng-sŏng	炭酸
+Liòng-chióh	定規
+Chăng-màng-chṳ̄	モグラ
+Dṳ̆ng-hâ Iâ cĭ Máe̤ng	夏の夜の夢
+Tié-tàu-să-hô	理容師
+Mā-kō̤ Hók Ĭng	マルコによる福音書
+Diê (dông-ŭk)	カキ (貝)
+Kaesŏng	開城市
+Hwanghae Báe̤k-dô̤	黄海北道
+P'yŏng'an Báe̤k-dô̤	平安北道
+Hamgyŏng Báe̤k-dô̤	咸鏡北道
+Hamgyŏng Nàng-dô̤	咸鏡南道
+P'yŏng'an Nàng-dô̤	平安南道
+Namp'o	南浦特別市
+Ryanggang Dô̤	両江道
+Tò̤-huòng	桃園市
+Sŭk-mī	もち米
+Gĭng-dŭ	京都府
+Ōsaka-hū	大阪府
+Cék-ngṳ̀	キンギョ
+Fukuoka-gâing	福岡県
+Ehime-gâing	愛媛県
+Gŏ̤-lìng-dŏ̤, Hâiu Cṳ̆	コリントの信徒への手紙二
+Gàu-ūng	ミミズ
+Sā̤-ĭ-gĭ	洗濯機
+Gék	マンダリンオレンジ
+Gé̤ṳ	鋸
+Yamagata-gâing	山形県
+Éu-dê-huòng	幼稚園
+Dài-uăng Hāi-hiĕk	台湾海峡
+Lù-guói	アロエ
+Yamaguchi-gâing	山口県
+Kanagawa-gâing	神奈川県
+Nagano-gâing	長野県
+Iĕng-huă	花火
+Mì-pŏ̤-lù	電子レンジ
+Saitama-gâing	埼玉県
+Mie-gâing	三重県
+Hĭ-báik-lài Cṳ̆	ヘブライ人への手紙
+Gă-lăk-tái Cṳ̆	ガラテヤの信徒への手紙
+Muàng-ngṳ̀	ウナギ目
+Céng-gŏng	晋江市
+Siŏng-dièu	殷
+Gunma-gâing	群馬県
+Hyōgo-gâing	兵庫県
+Miyazaki-gâing	宮崎県
+Kumamoto-gâing	熊本県
+Ă-cì	セミ
+Koizumi Jun'ichirō	小泉純一郎
+Ī-sê̤ṳ-táik-cṳ̆	エステル記
+Diòng-dô-cṳ̆	コヘレトの言葉
+Hatoyama Yukio	鳩山由紀夫
+Gŏ̤-lò̤-să̤ Cṳ̆	コロサイの信徒への手紙
+Ngā-gáuk Cṳ̆	ヤコブの手紙
+Iók-hâng Ék Cṳ̆	ヨハネの手紙一
+Pì-lé-muòng Cṳ̆	フィレモンへの手紙
+Táik-sák-lò̤-nà̤-giă, Hâiu Cṳ̆	テサロニケの信徒への手紙二
+Táik-sák-lò̤-nà̤-giă Cièng Cṳ̆	テサロニケの信徒への手紙一
+Bī-dáik Cièng Cṳ̆	ペトロの手紙一
+Bī-dáik Hâiu Cṳ̆	ペトロの手紙二
+Tì-mò̤-tái Cièng Cṳ̆	テモテへの手紙一
+Dòng-lòng	カマキリ
+Gifu-gâing	岐阜県
+Ishikawa-gâing	石川県
+Nara-gâing	奈良県
+Wakayama-gâing	和歌山県
+Shizuoka-gâing	静岡県
+Shiga-gâing	滋賀県
+Iók-hâng Nê Cṳ̆	ヨハネの手紙二
+Ī-suói-ā-cṳ̆	イザヤ書
+Iók-hâng Săng Cṳ̆	ヨハネの手紙三
+Iù-dâi Cṳ̆	ユダの手紙
+Tì-mò̤-tái Hâiu Cṳ̆	テモテへの手紙二
+Tì-dŏ̤ Cṳ̆	テトスへの手紙
+Nùng-mìng	農家
+Ià-lé-mī-cṳ̆	エレミヤ書
+Ī-sê̤ṳ-lá-cṳ̆	エズラ記
+Nà̤-hĭ-mī-cṳ̆	ネヘミヤ記
+Iók-ngī-cṳ̆	ヨエル書
+Băh-lô	コサギ
+Chŭng-cáik	春節
+Sō-siè	鍵
+Abe Shinzō	安倍晋三
+Asō Tarō	麻生太郎
+Séng-cṳ̆-tā̤	ヒエログリフ
+Niigata-gâing	新潟県
+Yamanashi-gâing	山梨県
+Shimane-gâing	島根県
+Toyama-gâing	富山県
+Okayama-gâing	岡山県
+Kă-tōi	脚
+Piăng	背中
+Piĕ	手紙
+Sáik-màng	色覚異常
+Carboniferous	石炭紀
+Ciŏng-huá	彰化県
+Fukui-gâing	福井県
+Ōita-gâing	大分県
+Tottori-gâing	鳥取県
+Nùng-lĭk	中国暦
+Kōchi-gâing	高知県
+Uâng-iū īng-lĭk dêng-lŭk	万有引力
+Chèng-gēng	カイコ
+Dài-uăng Nĭk-buōng Sì-dâi	日本統治時代 (台湾)
+Páuk Gê̤ṳng-hiê	朴槿恵
+Dài-nàng	台南市
+Cĕng	針
+Muāng-cŭk	満州民族
+Kìng-giāng	プライヤ
+Anna Karenina	アンナ・カレーニナ
+Gáung-gṳ̆ng	異形鉄筋
+Swadesh hŏk-sĭng-sṳ̀ liĕk-biēu	スワデシュ・リスト
+Dŭng-nìng-guók	鄭氏政権 (台湾)
+Hùng-lìng	雲林県
+Diāng	鍋
+Kă-cāi	爪先
+Lāng	唾液
+Diò-să-hô	調理師
+Bĭng-lòng	ビンロウ
+Dâi-céng Tiĕng-huòng	大正天皇
+Băng-sièng Lā-mà	パンチェン・ラマ
+Mŭk-gê̤ṳng	ムクゲ
+Muòi-huă	ウメ
+Muòi-kṳ̄ng	カビ
+Gĭng-cá̤	経済
+Sĕ̤ng-săng-giāng	双生児
+Mĕ̤k-tiák	まつげ
+Nguòng-cṳ̄-bék	ボールペン
+Norodom Sihanouk	ノロドム・シハヌーク
+Saga-gâing	佐賀県
+Tokushima-gâing	徳島県
+Lòng-dâung	ヒヨス
+Lòi-sĭ-gā	ドライバー (工具)
+Kēng-muōi-dăi	アワ
+Sĭk-sĭk	翼
+Kagawa-gâing	香川県
+Mū-dăng	ボタン (植物)
+Thaksin Shinawatra	タクシン・チナワット
+Uòng-dăi	キビ
+Kê	カキノキ属
+Săng-guók (Dièu-siēng)	三国時代 (朝鮮半島)
+Bék	ペン
+Ŭng-dìng	粉塵
+Huăng-siŏh-liù	グアバ
+Duâi-tàu-giáng	拡大鏡
+Gă-ngiê (gâing)	嘉義県
+Puái-dáu	正午
+Huōi-căi	火災
+Chiū-ló̤h	手袋
+Nagasaki-gâing	長崎県
+Hâ-dièu	夏 (三代)
+Cá̤-nàng	済南市
+Dṳ̆ng-guók Káung-nĭk Ciéng-cĕng	日中戦争
+Sarawak	サラワク州
+Hŭng-cūi	風水
+Chiéu	笑い
+Ngô̤-mâng gâe̤ng Piĕng-giéng	高慢と偏見
+Oda Nobunaga	織田信長
+Dăng-hù	サンゴ
+Lī Sìng-uāng	李承晩
+Iòng-bék-chó̤	消しゴム
+Nàng-chiŏng	南昌市
+Tokugawa Ieyasu	徳川家康
+Bók-séu-gáung	ステンレス鋼
+Sáu-chiū	箒
+Dŭk-cài	専制政治
+Kŭng-dièu	空気調和
+Diòng-să	長沙市
+Pèng	塗料
+Mìng-dê Tiĕng-huòng	明治天皇
+Kă-âu-dăng	かかと
+Ā-mò̤-sê̤ṳ-cṳ̆	アモス書
+Ŏ̤-bă-dī-ā-cṳ̆	オバデヤ書
+Itō Hirobumi	伊藤博文
+Nguŏh	ヒスイ
+Só-gé̤ṳ-kó guāng-lī hiê-tūng	データベース管理システム
+Dâu-hô	豆腐
+Mì-hèu	マカク属
+Mī-giă-cṳ̆	ミカ書
+Bù-sák	菩薩
+Hăk-gĭ-cṳ̆	ハガイ書
+Ī-să̤-giék	エゼキエル書
+Chiū-biēu	腕時計
+ASP.NET	ASP.NET
+Iók-nā-cṳ̆	ヨナ書
+Sabah	サバ州
+Ià-lé-mī-ăi-gŏ̤	哀歌
+Tái-gáng	宦官
+Nàng-nìng	南寧市
+Ê-só	グルタミン酸ナトリウム
+Nā-ŭng-cṳ̆	ナホム書
+Hăk-bă-gók-cṳ̆	ハバクク書
+Sák-gā-lé-ă-cṳ̆	ゼカリヤ書
+Guók-gê̤ṳng Nô̤i-ciéng	国共内戦
+Uŏk-nàng Gê̤ṳng-huò-guók	ベトナム共和国
+Chiĕu-chê	スーパーマーケット
+Ciŏng Cṳ̄-ì	章子怡
+Lák-tàu	脱毛症
+Gulliver Lṳ̄-hèng-gé	ガリヴァー旅行記
+Gŏ̤-hṳ̀ng	高雄市
+Naha-chê	那覇市
+Buŏk-hāi	渤海 (海域)
+Báh-chói	あくび
+Hâung Ṳ̄	項籍
+Putrajaya	プトラジャヤ
+Kŏng-mìng	昆明市
+Nĭk-guŏng-dĕng	蛍光灯
+Jane Eyre	ジェーン・エア
+Johor	ジョホール州
+Ngâung	知的障害
+Huòi-cŭk	回族
+Làng-ciŭ	蘭州市
+Hŏ̤-să̤-cṳ̆	ホセア書
+Tiék-cĭng	錆
+Dĕ̤ng-kiĕ	コウイカ目
+Lìng Cáik-sṳ̀	林則徐
+Săng-guók	三国時代 (中国)
+Chŭng-chiŭ Sì-dâi	春秋時代
+Ciéng-guók Sì-dâi	戦国時代 (中国)
+Puō-ngì	愛新覚羅溥儀
+Mā-lăk-gă	ムラカ州
+Oracle	Oracle Database
+Hăk-bùi	合肥市
+Huák-lùng-gŭng	法輪功
+Kelantan	クランタン州
+Lŏk-iòng	洛陽市
+Toyotomi Hideyoshi	豊臣秀吉
+Kana	仮名 (文字)
+Câung-cŭk	チベット系民族
+Pulau Pinang	ペナン州
+Hamasaki Ayumi	浜崎あゆみ
+Să̤-huăng-ngā-cṳ̆	ゼファニヤ書
+Dâi-nĭk-buōng Dá̤-guók	大日本帝国
+Hṳ̆ng-nù	匈奴
+Mâing-cṳ̄	孟子
+Kedah	ケダ州
+Perak	ペラ州
+Hŏk-ôi	学位
+Gié-lìng	桂林市
+Terengganu	トレンガヌ州
+Selangor	セランゴール州
+Iòng (dông-ŭk)	ヤギ亜科
+Hāi-kāu	海口市
+Chāu-buōng sĭk-ŭk	草本植物
+Pahang	パハン州
+Bă-là̤ Séng-mū-iêng (Siēu-siók)	ノートルダム・ド・パリ
+Chiông-gì	シャンチー
+Yun Chi-ho	尹致昊
+Gói-iòng	貴陽市
+Gáung-bék	万年筆
+Ngù Dìng-iēng	ゴ・ディン・ジエム
+Gô-dā̤	過去
+Dĭng-hiŏng-kó̤	カタクチイワシ科
+Miêng	麺
+Hiêng-câi	現在
+Lèng-gēng	リュウガン
+Mì-lĕk-hŭk	弥勒菩薩
+Guăng-ĭng	聖観音
+Bìng-dĕ̤ng	屏東県
+Gēu-gī	クコ
+Lĕ̤k-dèu-gáuk	肋骨
+Ciŏng-bìng	ショウ平市
+Ciŏng-puō	ショウ浦県
+Ciéu-ăng	詔安県
+Dâng Sìng-gŭng	鄭成功
+Céng-huò	政和県
+Ciá-ìng	柘栄県
+Nguŏk-biāng	月餅
+Ciŭ Īng-kŏng	周永康
+Ciŭ-nìng	周寧県
+Cṳ̆-gák Liông	諸葛亮
+Ció-ĭng Hù-hô̤	注音符号
+Pàng-hù-gâing	澎湖県
+Tù-kēng	ケラ
+Dṳ̆ng-guók Ìng-mìng Gāi-huóng-gŭng	中国人民解放軍
+Sìng-ū Tiĕng-huòng	神武天皇
+Kūng-chiók	クジャク
+Ciē-chái	海苔
+Dennis Rodman	デニス・ロッドマン
+È̤ng-dà	紅茶
+Cò̤ Chó̤	曹操
+Lièng-gŏng	連江県 (中華人民共和国)
+Tài-tàu	斬首刑
+Cūi-ngù	カミキリムシ
+Hiŏng-siàng	キョウ城区
+Buŏi	飛翔
+Ŭi-nà̤-sṳ̆ Sĕng-lī-nè̤ng	ヴェニスの商人
+Ū-ì-săng	武夷山
+Ŭ-sŭ-lī-gĕ̤ng	ウスリー川
+Dĕ̤ng-cé	冬至
+Tiĕng-huòng	天皇
+Kăi-hŭng	開封市
+Sĭng-dài-bê	ニュー台湾ドル
+Nguòng Sié-kāi	袁世凱
+Gă-lṳ̀ng Huòng-dá̤	嘉隆帝
+John Wesley	ジョン・ウェスレー
+Perlis	プルリス州
+Negeri Sembilan	ヌグリ・スンビラン州
+Labuan	ラブアン
+Lṳ̀ng	竜
+Cần Thơ	カントー
+Gĭng-cŭk	キン族
+Ciĕng-bò̤	チャンパ王国
+Diòng-gáu-sê̤ṳ	宣教師
+Uōng-dâi Cièng-tiàng	大いなる遺産
+Niōng-bēng	天井
+Rasŏn	羅先特別市
+Guăng Ṳ̄	関羽
+Ŭ-gŭi	カメ
+Tá̤	引き出し
+Gê̤ṳng-huò-dōng	共和党
+Bō̤-dâi Huòng-dá̤	バオ・ダイ
+Siê-iù	醤油
+Ŭ-lṳ̀ng-dà	烏龍茶
+Huōi-lṳ̀ng-guō	ドラゴンフルーツ
+Gê̤ṳng-sāng-dōng	共産党
+Chái Ĭng-ùng	蔡英文
+Băh-cṳ̄ng-nè̤ng	白人
+Ŏ̤-mì-tò̤-hŭk	阿弥陀如来
+Ngiè-làng	宜蘭県
+Ciŭ Giĕk-lùng	周杰倫
+Orhan Pamuk	オルハン・パムク
+Hà-puō	霞浦県
+Carpineto Romano	カルピネート・ロマーノ
+Ngū-dâi Sĕk-guók	五代十国時代
+Cō̤	ナツメ
+Tā̤-ṳ̆k	体育
+Sĭng-báe̤k	新北市
+Dài-dṳ̆ng	台中市
+Làu Bê	劉備
+Huă-lièng	花蓮県
+Gĭng-muòng	金門県
+Lièng-gŏng-gâing (Dṳ̆ng-huà Mìng-guók)	連江県 (中華民国)
+Dài-dĕ̤ng	台東県
+Sĭng-dé̤ṳk (chê)	新竹市
+Gă-ngiê (chê)	嘉義市
+Giĕ-lè̤ng	基隆市
+Jun Ji-hyun	チョン・ジヒョン
+Ngiè	ガチョウ
+Dièu-siēng Gŏ̤-cŭng	高宗 (朝鮮王)
+Hók-chiăng	福清市
+Gáuk-gáuk	骨
+Amuro Namie	安室奈美恵
+Diêng-tù	電池
+Gê̤ṳ-gê̤ṳ	松葉杖
+Nakashima Mika	中島美嘉
+Hù-lì-mà	チョウセンイタチ
+Gŏ̤-ák-guŏ	圧力鍋
+Chagang Dô̤	慈江道
+Óng-chái	ヨウサイ
+Ké̤ṳk-siăh	乞食
+Sŏng-ngù	呉 (三国)
+Băh-cŭk	ペー族
+Siông Cĭng	尚真王
+Mùi-liĕk	梅列区
+Huòng Tái-gĭk	ホンタイジ
+Guŏng-sê̤ṳ Huòng-dá̤	光緒帝
+Alan Dawa Dolma	Alan
+Ngù-mō̤-ngù-giāng	カタツムリ
+Takeshi Kaneshiro	金城武
+Sông-dê Huòng-dá̤	順治帝
+Nū-ī-hăk-cà̤	ヌルハチ
+Iòng-muòi	ヤマモモ
+Sŏng Guòng	孫権
+Cò̤ Pī	曹丕
+Ciōng Gĭng-guók	蒋経国
+Uòng Mì	王維
+Lī Dĕng-hŭi	李登輝
+Ṳ̆ng-céng Huòng-dá̤	雍正帝
+Dùng-dê Huòng-dá̤	同治帝
+Dŭng-huòng	敦煌市
+Să-mŏk	砂砂漠
+Hiŏng-iòng-guă	ハヤトウリ
+Uòng Ăng-sĭk	王安石
+Tokugawa Yoshimune	徳川吉宗
+Săng-ā	三亜市
+Dài-uăng Mìng-ciō-guók	台湾民主国
+Seo Jae-pil	徐載弼
+Guók-ngṳ̄	国語
+Sṳ̆k-háng	蜀漢
+Cò̤-ngôi	魏 (三国)
+Hiŏng-gŭ	シイタケ
+Mŭk-ngī	キクラゲ
+Sā̤-tŏng	入浴
+Gă-kéng Huòng-dá̤	嘉慶帝
+Páuk Hièng-īng	朴憲永
+Dièu-siēng Sié-cū	世祖 (朝鮮王)
+Dô̤-guŏng Huòng-dá̤	道光帝
+Hièng-hŭng Huòng-dá̤	咸豊帝
+Hùng Séu-ciòng	洪秀全
+Gĭng-kiŏk	京劇
+Bău Cīng	包拯
+Duâi-siók	大雪
+Báik-guá	八卦
+Sṳ̆-mā Hé	司馬懿
+Áng-pŭng	エメラルドゴキブリバチ
+Hŭng-sṳ̆k	風習
+Ièu-cŭk	ヤオ族
+Biék	スッポン科
+Dièu-siēng Tái-cū	李成桂
+Báik-nguŏk-cáik	月見
+Guŏng-Dṳ̆ng Huòng-dá̤	阮恵
+Ngà̤ Táuk-sĭng	ウォッチマン・ニー
+Liŏh-chiông-gĭ	ビデオテープレコーダ
+Dâng-chái	イガイ科
+Gā-cō̤	ノミ
+Dài-uăng Muāng-chĭng Sì-dâi	清朝統治時代 (台湾)
+Mā-tái Hók Ĭng	マタイによる福音書
+Sĕk-cê-gá	十字架
+Tè̤ng-chō̤	冬虫夏草
+Ī-hók-sū Cṳ̆	エフェソの信徒への手紙
+Mā-cū (Sìng)	媽祖
+Uŏk-nàng Gê̤ṳng-sāng-dōng	ベトナム共産党
+10000	10000
+Kū-guă	ツルレイシ
+Mìng-miâng Huòng-dá̤	明命帝
+Chék Gié-guŏng	戚継光
+Dĭk Ìng-giĕk	狄仁傑
+Dṳ̆ng-huà Mìng-guók Guók-gŭng	中華民国国軍
+Ì-cŭk	イ族
+Gāu-nguŏk-gāu	重陽
+Dâing Lâ̤-gŭng	テレサ・テン
+Mìng-sìng Huòng-hâiu	閔妃
+Natsukawa Rimi	夏川りみ
+Lṳ̄ Séu-lièng	呂秀蓮
+Sê̤ṳ-dáik Huòng-dá̤	嗣徳帝
+Lìng Hŭi-ĭng	林徽因
+Cṳ̀-ciŏng	タイル
+Ngù Săng-gié	呉三桂
+Hĭng-sŏng Dâi-iêng-gŭng	興宣大院君
+Gŏ̤ Dé-sêng	高智晟
+Dêu-uòng	帝辛
+Hàng Hàng	韓寒
+Huăng-giāng	外国人
+Tiăng-dŏng	居間
+Ók-dāu	アイロン
+Liŏh-dà	緑茶
+Liŏh-dâu	リョクトウ
+Dièu-siēng-cŭk	朝鮮民族
+Yu Kil-chun	兪吉濬
+Mò̤-bék	筆
+Páuk Hông-ciŏ	朴奉珠
+Hŭk-dáng Dâi-hŏk	復旦大学
+Kŭmgang-săng Guăng-guŏng Dê-kṳ̆	金剛山観光地区
+Páuk Dṳ̀ng-iòng	朴重陽
+Lêng Gié-hĕk	令計劃
+Hòng-ciŭ Să̤-hù	西湖 (杭州市)
+Gă-săk-giāng	Aセグメント
+Gái-chái	カラシナ
+Siông-hāi Gău-tŭng Dâi-hŏk	上海交通大学
+Bù-sìng	イエバエ科
+Ciū-ciòng	酒泉市
+Hŭ-huò-hô̤-dĕk	フフホト市
+Ngù Chĭng-nguòng	呉清源
+Hà-iù	魚醤
+Băh-ngiê	シロアリ
+Băh-uâ-cê	白話字
+Ngièng Hók	厳復
+Páu-diông	爆竹
+Mā-cū (Dō̤)	馬祖島
+Ăng-kă̤	安渓県
+Să̤-cŏng	背広
+Hiroshima-gâing	広島県
+Hwanghae Nàng-dô̤	黄海南道
+Hók-tīng	福鼎市
+Siĕu-ciū	白酒 (中国酒)
+Dùng-cé	同志
+Hŭng-tiŭ	空気入れ
+Gióng-iòng	建陽市
+Dáng-mìng	蛋民
+Mìng-kă̤	明渓県
+Guōng-guă	トウガン
+Sīng Bō̤-dĭng	沈葆テイ
+Hùng-siĕu	雲霄県
+Káh-gă	客家
+Bâng-ā	発話障害
+Nàng-gĭng Dâi-hŏk	南京大学
+Gìng-ièu	瓊瑤
+Chék-nguŏk-buáng	盂蘭盆
+Uòng Sĭng-lìng	王心凌
+Hù-siŭ	ドジョウ
+Cò̤ Sĭk	曹植
+Ciŭ Ùng-uòng	文王 (周)
+Huò-sĭng	和シン
+Siĕ Lòng	施琅
+Giŏng Tái-gŭng	呂尚
+Dìng Bō̤-tĭng	陳宝チン
+Tái-sông	泰順県
+Diêu Dò̤	趙佗
+Dâng Dùng	謝名利山
+Chŏng-nàng	蒼南県
+Mìng-nàng-nè̤ng	閩南民系
+Lī Siòng-sêu	ウィットネス・リー
+Ngṳ̀-uòng	つみれ
+Lìng Sĕng	林森
+Lī Còng-hé̤ṳk	李存勗
+Siĕ Mìng-dáik	施明徳
+Uòng Sīng-dĭ	王審知
+Dìng Gēng	陳太宗
+Dièu-siēng Buáng-dō̤ lĭk-sṳ̄	朝鮮の歴史
+Cáe̤ng	ちまき
+Iù-cák-guōi	油条
+Sinŭiju Dĕk-biék Hèng-céng-kṳ̆	新義州特別行政区
+Guók-lĭk Dṳ̆ng-iŏng Dâi-hŏk	国立中央大学
+Sák Déng-bĭng	薩鎮氷
+Dìng Gīng-ê̤ṳng	陳景潤
+ISO 639-1	ISO 639-1
+Huá-huá	ハッカチョウ
+Mī-hūng	ビーフン
+Háng-cê Ùng-huá-kuŏng	漢字文化圏
+Lī Gŭng-ūng	李公蘊
+Hók-gióng tū-làu	福建土楼
+Dṳ̆ng-huà Dâi-hŏk	中華大学
+Chĭng-mìng	清明
+Nê-hù	二胡
+Pū-tŭng-uâ	普通話
+Siă-cŭk	シェ族
+Mē̤ng-giāng	チョウバエ
+Okinawa-gâing	沖縄県
+Diòng-lŏ̤h	長楽市
+Nàng-ā	南アジア
+Báh-uŏk	百越
+Guòng-lé	権利
+Gióng-nìng	建寧県
+Gŭng-sĭ	会社
+Tŏng-diè-dáing	公衆浴場
+Tì-kŭ	マサバ
+Ŭ-cṳ̄ng-nè̤ng	黒人
+Nàng-uŏk-guók	南越国
+Hâ-uă	イヴ
+Gă-ngiê	嘉義
+Chèng-chṳ̄	ハタネズミ亜科
+Kiŏng-cŭk	チャン族
+Chèng	農地
+Wiki Bô-lâung-diòng	ウィキメディア・インキュベーター
+Chái Ŭng	蔡温
+Nà̤-gŭ	尼
+Guŏng-biāng	クンペン
+Bĭng-dê̤ṳ	アイスキャンディー
+Wikipedia:Sū-iū ngṳ̄-ngiòng bēng-buōng gì Wikipedia	Wikipedia:全言語版の統計
+Ngṳ̆k-huòng-dâi-dá̤	玉皇大帝
+Ngù-sāi-gŭi	糞虫
+Chiók	飲む
+À̤-liák	スリッパ
+Lī-dièu	李朝 (ベトナム)
+Cé̤ṳk	粥
+Mìng-ciō Céng-buô-dōng	民主進歩党
+Siông Mŭk	尚穆王
+Siông Dáik	尚徳王
+Siông Nguòng	尚元王
+Siông Ṳ̆k	尚育王
+Siông Nìng	尚寧王
+Ì-cô̤-hūng	合成洗剤
+Tĕng	マテガイ科
+Pàng-hù Gùng-dō̤	澎湖諸島
+Hāi-chŏng	海滄区
+Muōi-sì	シログワイ
+Hāi-nàng-ngṳ̄	海南語
+Dĕ̤ng-săng	東山県
+Cĭk-mī	集美区
+Mìng-gĕ̤ng	ビン江
+Dùng-ăng	同安区
+Dài-gĕ̤ng	台江区
+Lṳ̀ng-hāi	竜海市
+Siŏh-săi	石獅市
+Siòng-ăng	翔安区
+Mìng-âu	ビン侯県
+Siêu-ū	邵武市
+Ôi	胃
+Chŏng-săng	倉山区
+Măh Lé-huò	ロバート・S・マクレイ
+Siông Géng	尚敬王
+Hāi-gēu	オットセイ
+Sibu	シブ
+Siông Ŭng	尚温王
+Lū-bék	シロガシラ
+Ciŭ Ū-uòng	武王 (周)
+Diòng-tái	長泰県
+Diòng-tĭng	長汀県
+Cṳ̆-dó̤h	机
+Siàng-siŏng	城廂区
+Chèng-lòi	タニシ
+Nàng-hāi	南海
+Siông Ièng	尚円王
+Lī-siàng	鯉城区
+Ciòng-gē̤ng	泉港区
+Siông Hô̤	尚コウ王
+Niŏh-hâ-ciŏ	コミカンソウ
+Chiă-ngò̤	ハマグリ
+Aragaki Yui	新垣結衣
+Siông Chĭng	尚清王
+Siông Tái-giū	尚泰久王
+Sô̤i	座法
+Siĕu	笛子
+Lĭk-chiŭ	立秋
+Mā-lái-iè	アシダカグモ
+Duâi-sṳ̄	大暑
+Sŏng-gáung	霜降
+Chṳ̄-sṳ̄	処暑
+Mòng-cṳ̄ng	芒種
+Sêu-nìng	寿寧県
+Káh-dièu	遊び
+Lŏk-gŏng	洛江区
+Â-muòng Dâi-hŏk	厦門大学
+Dô̤-sê̤ṳ	道士
+Kŭ-chèng	古田県
+Dâi-dièng	大田県
+Dáik-huá	徳化県
+Siŏh-màng	昨日
+Siēu-sṳ̄	小暑
+Siēu-siók (cáik-ké)	小雪
+Siēu-hàng	小寒
+Cáik-ké	二十四節気
+Siēu-muāng	小満
+Băh-ló	白露
+Lĭk-hâ	立夏
+Lĭk-dĕ̤ng	立冬
+Mìng (Sĕk-guók)	ビン (十国)
+Hàng-ló	寒露
+Hà-mà-chāu	オオバコ
+Là̤ Lé	黎利
+Găng-chō̤	ウラルカンゾウ
+Huà-ăng	華安県
+Nìng-huá	寧化県
+Iù-kă̤	尤渓県
+Chĭng-liù	清流県
+Să-gâing	沙県
+Chiŭ-hŭng	秋分
+Gāi-gáik Kăi-huóng	改革開放
+Lièng-siàng	連城県
+Sông-chiŏng-gâing	順昌県
+Lò̤-nguòng	羅源県
+Bìng-nàng	屏南県
+Bìng-tàng	平潭県
+Nàng-ăng	南安市
+Mìng-dáng	明日
+Dṳ̀-huák	除法
+Hù-lù	ヒョウタン
+Ciŏng-lŏk	将楽県
+Sĭng-dé̤ṳk	新竹
+Gĭng-dĭk	啓蟄
+Diêng-dĕng	ランプ (光源)
+Gók-ṳ̄	穀雨
+Duâi-hàng	大寒
+Īng-lĭk Huòng-dá̤	永暦帝
+Tiék-guăng-ĭng	鉄観音
+Hù-lī	湖里区
+Īng-dêng	永定県
+Sṳ̀ Cài-hâiu	徐才厚
+Céng-ăng	晋安区
+Gū-làu	鼓楼区 (福州市)
+Séu-sê̤ṳ	秀嶼区
+Īng-chŭng	永春県
+Ciĕu-siàng	蕉城区
+Siĕng-iù	仙游県
+Iòng-bìng-kṳ̆	延平区
+Sĭng-lò̤-kṳ̆	新羅区
+Puō-siàng	浦城県
+Săng-nguòng	三元区
+Hàng-gŏng	涵江区
+Hŭng-dĕk	豊沢区
+Lié-siàng	茘城区
+Siông-hòng-gâing	上杭県
+Sṳ̀ng-kă̤-gâing	松渓県
+Ū-bìng	武平県
+Nàng-cêng	南靖県
+Chŭng-hŭng	春分
+Lĭk-chŭng	立春
+Ṳ̄-cūi	雨水
+Siông Bă-cé	尚巴志王
+Siông Tái	尚泰王
+Hók-ăng	福安市
+Mìng-chiăng	ビン清県
+Gióng-ĕu	建甌市
+Mā-muōi	馬尾区
+Īng-tái	永泰県
+Lṳ̀ng-ùng	竜文区
+Sṳ̆-mìng	思明区
+Hiê-ăng	恵安県
+Bìng-huò	平和県
+Tái-nìng	泰寧県
+Guŏng-dĕk	光沢県
+Īng-ăng	永安市
+Ùng-dé̤ṳk	オオミドリボウキ
+分類:Dáik-guók	Category:ドイツ
+分類:É-dâi-lé	Category:イタリア
+分類:Mī-guók	Category:アメリカ合衆国
+分類:Ngò̤-lò̤-sṳ̆	Category:ロシア
+分類:Dṳ̆ng-guók	Category:中国
+分類:Nĭk-buōng	Category:日本
+分類:Ó̤-ciŭ	Category:オーストラリア
+Iĕk-cūi-ké	給湯器
+分類:Éng-nà̤	Category:インドネシア
+分類:Hàng-guók	Category:大韓民国
+分類:Tái-guók	Category:タイ王国
+分類:Uŏk-nàng	Category:ベトナム
+分類:Buô-ṳ̄ dông-ŭk	Category:哺乳類
+分類:Bà-hèng dông-ŭk	Category:爬虫類
+分類:Cēu	Category:鳥類
+分類:Cĭng-kṳ̄ng	Category:菌類
+分類:Sĭk-ŭk	Category:植物
+分類:Ŭk-lī	Category:物理学
+分類:Huá-hŏk	Category:化学
+分類:Lĭk-sṳ̄	Category:歴史
+分類:Dê-lī	Category:地理
+分類:Siâ-huôi	Category:社会
+分類:Cŭng-gáu	Category:宗教
+分類:Tā̤-ṳ̆k	Category:スポーツ
+分類:Kuŏ-hŏk	Category:科学
+分類:Gióng-dé̤ṳk-ŭk	Category:建築物
+Gū Lò̤-mā	古代ローマ
+Liù-giāng	シジミ
+Chŭng-lièng	春聯
+Mìng-uŏk	ビン越
+Cūi-kì	ナメクジ
+分類:Sĕng-tái	Category:生態学
+分類:Disambig	Category:曖昧さ回避
+分類:Diék-hŏk	Category:哲学
+分類:Sĭng-lī	Category:心理学
+分類:Hŭk-gáu	Category:仏教
+分類:Gĭ-dók-gáu	Category:キリスト教
+分類:Ĭ-sṳ̆-làng-gáu	Category:イスラム教
+分類:Iù-tái-gáu	Category:ユダヤ教
+Tiĕng-cĭng Dâi-hŏk	天津大学
+Mā-cū	松 (曖昧さ回避)
+Dĭ-dă	チャルメラ
+Uòng Iòng-hâng	王延翰
+Uòng Gié-bèng	王継鵬
+Uòng Iòng-gĭng	王延鈞
+Hô-dê̤ṳ	ゆば
+Gùng	スカート
+Uòng Iòng-hĭ	王延羲
+Cháe̤	ヘチマ
+Tuyên Quang	トゥエンクアン省
+Lìng Sié-gŭng	林世功
+Dák-huói-cièng	お年玉
+Iraq gâe̤ng Levant Ĭ-sṳ̆-làng-guók	ISIL
+Dâu-mò̤-chái	モヤシ
+Giū-mī-chŏng	久米 (那覇市)
+Ì-ngṳ̄	彝語
+Cièng-cāi	冥銭
+Lìng Gáuk-mìng	林覚民
+Tău-dò̤-nó̤h	窃盗
+Ciĕ-muài	ゴマ
+Abu Bakr al-Baghdadi	アブー・バクル・アル＝バグダーディー
+Nṳ̆k-ṳ̀ng	田麩
+Sé-sáik-bà̤	四色牌
+分類:Ùng-huá	Category:文化
+分類:Dê-cék	Category:地質学
+Dìng-dièu	陳朝
+Wikipedia:Dŏng-nièng gĭng-dáng	Wikipedia:今日は何の日
+模板:Tái-iòng-hiê	Template:太陽系
+Holopedia	ビン南語版ウィキペディア
+Gì-chái	ハゲイトウ
+Ciē-sáik	紫
+Gŏ̤-gák-hié	高甲劇
+Kī-mā-sŭ	シャーチーマー
+Káh-dièu-bŏng	親友
+Gâng	汗
+Sók-lŭk	速さ
+Ák	カモ
+Duâi-tàu-chái	カブ
+Huăng-siông	マンゴー
+分類:Dáik-guók ìng-ŭk	Category:ドイツの人物
+分類:Mī-guók ìng-ŭk	Category:アメリカ合衆国の人物
+分類:Iēng-uòng	Category:俳優
+分類:Ĭng-guók ìng-ŭk	Category:イギリスの人物
+分類:Huák-guók ìng-ŭk	Category:フランスの人物
+模板:Chess diagram	Template:Chess diagram
+模板:Tl	Template:Tl
+分類:Guók-gă	Category:国
+Wikipedia:Hèng-céng Ìng-uòng	Wikipedia:管理者
+分類:Dṳ̆ng-guók mìng-cŭk	Category:中華人民共和国の民族
+分類:Ìng-ŭk	Category:人物
+分類:Cék-ngiĕk	Category:職業
+Wikipedia:Gĭ-ké-nè̤ng	Wikipedia:Bot
+分類:Sì-găng	Category:時間
+分類:Gĕ̤ng-tiàng	Category:工学
+分類:Cài-lâiu	Category:材料
+分類:Ĭ-hŏk	Category:医学
+分類:Céng-dê	Category:政治
+分類:Gáu-ṳ̆k	Category:教育
+Ăi-gĭk	エジプト
+模板:Bot	Template:Bot
+Gă-nā-dâi	カナダ
+分類:Iù-hié	Category:ゲーム
+分類:Ĕu-ciŭ guók-gă	Category:ヨーロッパの国
+分類:Ĕu-ciŭ	Category:ヨーロッパ
+模板:Documentation	Template:Documentation
+分類:Ê̤ṳng-hô	Category:言語別の利用者
+Sìng Câi-gĭ	成在基
+模板:Softredirect	Template:Softredirect
+Wikipedia:維基數據	Wikipedia:ウィキデータ
+模板:Chēng	Template:即時削除
+分類:Ngṳ̄-ngiòng	Category:諸言語
+分類:Lĭk-huák	Category:暦法
+分類:Wikipedia	Category:ウィキペディア
+Wikipedia:Mò̤ hô-cáik sĭng-mìng	Wikipedia:免責事項
+分類:未索引其頁面	Category:検索エンジンに収集されないページ
+模板:!	Template:!
+模板:!-	Template:!-
+模板:Smallcaps	Template:Smallcaps
+模板:Nowrap	Template:Nowrap
+Wikipedia:Ék-chiék Wikipedia dŭ găi-dŏng ô gì ùng	Wikipedia:すべての言語版にあるべき項目の一覧
+分類:Hĭ-ciŭ	Category:アフリカ
+模板:Wikisource	Template:Wikisource
+模板:Babel	Template:Babel
+模板:Commons	Template:Commons
+模板:Reflist	Template:Reflist
+Hók-ciŭ-huòng	福州園
+Wikipedia:列明來源	Wikipedia:出典を明記する
+模板:Stub	Template:Stub
+Gēng Cĭng-dṳ̆ng	耿精忠
+模板:User eo-1	Template:User eo-1
+模板:User eo-3	Template:User eo-3
+模板:User de	Template:User de
+模板:User de-1	Template:User de-1
+模板:User es	Template:User es
+模板:User de-3	Template:User de-3
+模板:User en-3	Template:User en-3
+模板:User en-1	Template:User en-1
+模板:User en-2	Template:User en-2
+模板:User eo-2	Template:User eo-2
+模板:User en-4	Template:User en-4
+模板:User en	Template:User en
+模板:User de-2	Template:User de-2
+模板:User es-1	Template:User es-1
+模板:User fr-1	Template:User fr-1
+模板:User it-3	Template:User it-3
+模板:User fr-2	Template:User fr-2
+模板:User ja	Template:User ja
+模板:User ja-1	Template:User ja-1
+模板:User it-1	Template:User it-1
+模板:User fr	Template:User fr
+分類:Ā-ciŭ	Category:アジア
+分類:Nàng Mī-ciŭ	Category:南アメリカ
+分類:Mā-lài-să̤-ā	Category:マレーシア
+模板:Mod	Template:Mod
+模板:SIL	Template:Infobox Language/codelist
+模板:User it	Template:User it
+模板:User es-2	Template:User es-2
+模板:Huăng-ngìng	Template:Welcome
+分類:Dièu-lâiu	Category:調味料
+模板:Click	Template:Click
+分類:User fr-1	Category:User fr-1
+模板:Image label	Template:Image label
+模板:Category handler	Template:Category handler
+模板:Wiki gĕ̤ng-tiàng	Template:Wikimedia Foundation
+模板:Niék-sé cáik-ké	Template:節気
+模板:Steady	Template:Steady
+模板:Guók-gă	Template:基礎情報 国
+模板:Documentation/docname	Template:Documentation/docname
+模板:Cite journal	Template:Cite journal
+模板:Infobox 公司	Template:Infobox Company
+模板:Wikibooks	Template:Wikibooks
+模板:Dablink	Template:Dablink
+模板:Hō̤ gì ùng-ciŏng	Template:Featured article
+分類:User en-4	Category:User en-4
+分類:User en	Category:User en
+分類:User zh	Category:User zh
+分類:User zh-M	Category:User zh-N
+分類:User en-2	Category:User en-2
+模板:Infobox	Template:Infobox
+模板:User eo	Template:User eo
+模板:User zh	Template:User zh
+分類:Gáuk-guók gì lĭk-sṳ̄	Category:各国の歴史
+模板:Legend	Template:Legend
+模板:Cite web	Template:Cite web
+模板:Ombox	Template:Ombox
+模板:Country data	Template:Country data
+分類:Īng-sĭk	Category:飲食
+模板:MongolUnicode	Template:MongolUnicode
+分類:Săng	Category:山
+模板:IPA	Template:IPA2
+分類:Céng-dê-gă	Category:政治家
+分類:Mī-ciŭ	Category:アメリカ
+Tàng	痰
+分類:Gáuk-guók gì ìng-ŭk	Category:各国の人物
+模板:Wiki-huá	Template:Wikify
+分類:Gŭng-sê̤ṳ	Category:軍事
+模板:Increase	Template:Increase
+模板:Ciŭ-gĭ-biēu	Template:元素周期表
+模板:User nl	Template:User nl
+模板:Infobox 網站	Template:Infobox Website
+模板:Decrease	Template:Decrease
+模板:User no-2	Template:User no-2
+模板:Image label end	Template:Image label end
+模板:Documentation subpage	Template:Documentation subpage
+模板:Purge	Template:Purge
+模板:Lang-la	Template:Lang-la
+分類:Cìng-gāng	Category:感情
+模板:Dṳ̆ng-huà Ìng-mìng Gê̤ṳng-huò-guók Hèng-céng-kṳ̆	Template:中華人民共和国の行政区画
+模板:Userpage	Template:Userpage
+模板:User	Template:User
+模板:Image label small	Template:Image label small
+模板:Ĕu-ciŭ	Template:ヨーロッパ地図
+模板:User fr-3	Template:User fr-3
+模板:Allcaps	Template:Allcaps
+模板:Gô-dā̤ gì guók-gă	Template:基礎情報 過去の国
+Wikipedia:Tiăng-dŏng	Wikipedia:Help for Non-Japanese Speakers
+分類:User ja-M	Category:User ja-N
+模板:Gì-ngiê	Template:Aimai
+分類:Dièu-siēng lĭk-sṳ̄	Category:朝鮮の歴史
+模板:User no-3	Template:User no-3
+模板:User nan	Template:User zh-min-nan
+模板:User nan-1	Template:User zh-min-nan-1
+模板:Lang-grc	Template:Lang-grc
+模板:User yue-3	Template:User zh-yue-3
+模板:AUS	Template:AUS
+模板:User yue-1	Template:User zh-yue-1
+模板:Lifetime	Template:Lifetime
+模板:Lang-en	Template:Lang-en
+分類:Sĕng-ŭk	Category:生物
+Wikipedia:Dŏng-nièng gĭng-dáng/9 nguŏk	Wikipedia:今日は何の日 9月
+Wikipedia:Dŏng-nièng gĭng-dáng/10 nguŏk	Wikipedia:今日は何の日 10月
+分類:User vi-3	Category:User vi-3
+模板:User la-1	Template:User la-1
+分類:User wuu	Category:User zh-wuu
+分類:User fr	Category:User fr
+分類:User ja	Category:User ja
+分類:User la	Category:User la
+分類:User fr-3	Category:User fr-3
+分類:User it-3	Category:User it-3
+分類:User ja-3	Category:User ja-3
+分類:User fr-2	Category:User fr-2
+分類:User it-2	Category:User it-2
+分類:User ja-2	Category:User ja-2
+分類:User la-2	Category:User la-2
+分類:User wuu-M	Category:User zh-wuu-N
+分類:User ko-M	Category:User ko-N
+分類:User fr-M	Category:User fr-N
+分類:User it-M	Category:User it-N
+分類:User nl-M	Category:User nl-N
+模板:User yue	Template:User zh-yue
+分類:Ùng-cê	Category:文字
+分類:Dô̤-gáu	Category:道教
+分類:Dō̤	Category:島
+分類:User de	Category:User de
+分類:User de-2	Category:User de-2
+分類:User de-3	Category:User de-3
+分類:User de-M	Category:User de-N
+分類:User en-3	Category:User en-3
+分類:User en-M	Category:User en-N
+分類:User es	Category:User es
+分類:User es-1	Category:User es-1
+分類:User es-2	Category:User es-2
+分類:User es-3	Category:User es-3
+分類:User es-M	Category:User es-N
+分類:User it	Category:User it
+分類:User it-1	Category:User it-1
+分類:User ja-1	Category:User ja-1
+分類:User ko	Category:User ko
+分類:Mī-guók gì ciŭ	Category:アメリカ合衆国の州
+分類:User ko-1	Category:User ko-1
+分類:User ko-2	Category:User ko-2
+分類:User ko-3	Category:User ko-3
+分類:User ksh	Category:User ksh
+分類:User la-1	Category:User la-1
+分類:User la-3	Category:User la-3
+分類:User la-M	Category:User la-N
+模板:Distinguish	Template:混同
+模板:Internal link helper	Template:Internal link helper
+模板:Information	Template:Information
+分類:Huâng-cô̤i	Category:犯罪
+分類:Dièu-siēng ìng-ŭk	Category:朝鮮の人物
+分類:Séng-sék	Category:情報学
+分類:Hāi	Category:海
+Hŭng-siéng	扇風機
+分類:Guōng-dĕ̤ng	Category:広東省
+分類:Hók-gióng	Category:福建省
+分類:Gĭng-cá̤	Category:経済
+分類:Ciék-ciĕ dông-ŭk	Category:節足動物
+分類:User nan	Category:User zh-min-nan
+分類:User nan-1	Category:User zh-min-nan-1
+分類:User nan-2	Category:User zh-min-nan-2
+分類:User nan-3	Category:User zh-min-nan-3
+分類:User nan-M	Category:User zh-min-nan-N
+分類:Hĭ-ciŭ guók-gă	Category:アフリカの国
+分類:Gáuk-guók gì gáu-ṳ̆k	Category:各国の教育
+Wikipedia:Dŏng-nièng gĭng-dáng/11 nguŏk	Wikipedia:今日は何の日 11月
+模板:User ja-2	Template:User ja-2
+模板:User ja-3	Template:User ja-3
+分類:User vi	Category:User vi
+分類:User vi-1	Category:User vi-1
+分類:User vi-2	Category:User vi-2
+分類:User vi-M	Category:User vi-N
+分類:Ciék-gŏng	Category:浙江省
+分類:Ĭng-ngŏk-gă	Category:音楽家
+模板:Lang	Template:Lang
+分類:Hŏk-sŭk	Category:学問
+分類:Wikimedia gĕ̤ng-tiàng	Category:ウィキメディア・プロジェクト
+分類:Gì-lôi	Category:抽象戦略ゲーム
+分類:Hŭng-sṳ̆k	Category:習俗
+模板:Infobox Language/family-color	Template:Infobox Language/family-color
+分類:Ò̤	Category:河川
+模板:User la-2	Template:User la-2
+模板:User no-1	Template:User no-1
+模板:User zh-1	Template:User zh-1
+模板:User zh-2	Template:User zh-2
+模板:User zh-3	Template:User zh-3
+Nùng-mìng-gĕ̤ng	民工
+分類:Dâi-hàng Mìng-guók ìng-ŭk	Category:韓国の人物
+分類:Sôi-diēng ìng-ŭk	Category:スウェーデンの人物
+分類:Nĭk-buōng ìng-ŭk	Category:日本の人物
+分類:Dài-uăng ìng-ŭk	Category:台湾の人物
+分類:User nl	Category:User nl
+分類:User zh-1	Category:User zh-1
+分類:User zh-3	Category:User zh-3
+分類:User zh-2	Category:User zh-2
+分類:Cāi	Category:紙
+分類:Cáik-ké	Category:節気
+分類:Ông-ò̤	Category:運河
+分類:Uŏk-nàng ìng-ŭk	Category:ベトナムの人物
+分類:Sùi-dièu huòng-dá̤	Category:隋の皇帝
+分類:Sóng-dièu huòng-dá̤	Category:宋の皇帝
+分類:Dòng-dièu huòng-dá̤	Category:唐の皇帝
+分類:Mìng-dièu huòng-dá̤	Category:明の皇帝
+分類:Săng-guók huòng-dá̤	Category:三国時代の皇帝
+分類:Ngò̤-lò̤-sṳ̆ ìng-ŭk	Category:ロシアの人物
+分類:Hiŏng-gē̤ng ìng-ŭk	Category:香港の人物
+分類:Ciĕk-káik ìng-ŭk	Category:チェコの人物
+分類:Tái-guók ìng-ŭk	Category:タイの人物
+分類:Sáng	Category:姓
+分類:Dièu-siēng Mìng-ciō-ciō-ngiê Ìng-mìng Gê̤ṳng-huò-guók	Category:朝鮮民主主義人民共和国
+分類:Dṳ̆ng-guók ìng-ŭk	Category:中国の人物
+分類:Dièu-siēng	Category:朝鮮
+分類:Dài-uăng	Category:台湾
+分類:Dièu-siēng Mìng-ciō-ciō-ngiê Ìng-mìng Gê̤ṳng-huò-guók ìng-ŭk	Category:北朝鮮の人物
+分類:Liù-giù-guók	Category:琉球王国
+分類:Hók-gióng-nè̤ng	Category:福建省出身の人物
+分類:Dâi-iòng-ciŭ guók-gă	Category:オセアニアの国
+分類:Báe̤k Mī-ciŭ guók-gă	Category:北アメリカの国
+分類:Ngṳ̀	Category:魚類
+分類:Cūi-guō	Category:果物
+分類:Niōng-tā̤ dông-ŭk	Category:軟体動物
+分類:Só-cê	Category:数の表現
+分類:Gióng-dé̤ṳk cài-lâiu	Category:建築材料
+分類:Dông-ŭk	Category:動物
+分類:Ciáh-tùi dông-ŭk	Category:脊椎動物
+分類:Guòng-lé	Category:権利
+分類:Ìng-guòng	Category:人権
+分類:Ū-ké	Category:武器
+分類:Nàng Mī-ciŭ guók-gă	Category:南アメリカの国
+分類:Gă-sĭ	Category:家具
+分類:Ké-chiông	Category:気象学
+分類:Dṳ̆ng Mī-ciŭ	Category:中央アメリカ
+分類:Hiŏng-gē̤ng	Category:香港
+分類:Ĭ-siòng	Category:衣類
+分類:Cáik-nĭk	Category:祭
+分類:Kuàng-ciék dông-ŭk	Category:環形動物
+分類:Bâng	Category:病気
+分類:Kiŏng-diòng dông-ŭk	Category:刺胞動物
+分類:Gùng-dō̤	Category:諸島
+分類:Ciŭ-dièu guók-uòng	Category:周の王
+分類:Káh-dièu-nó̤h	Category:玩具
+分類:Gă-dìng	Category:家族
+分類:Dṳ̆ng-guók huòng-dá̤	Category:中国の皇帝
+分類:Nguòng-dièu huòng-dá̤	Category:元の皇帝
+分類:Céng-dièu huòng-dá̤	Category:晋の皇帝
+分類:Chĭng-dièu huòng-dá̤	Category:清の皇帝
+分類:Háng-dièu huòng-dá̤	Category:漢の皇帝
+分類:Báe̤k Mī-ciŭ	Category:北アメリカ
+分類:Gŏ̤-chiū	Category:歌手
+分類:Hù	Category:湖
+分類:Só-hŏk-gă	Category:数学者
+模板:Infobox ngṳ̄-ngiòng	Template:Infobox Language
+分類:Dâi-iòng-ciŭ	Category:オセアニア
+分類:Tiĕng-căi	Category:自然災害
+分類:Gô-dā̤ gì guók-gă	Category:かつて存在した国家
+Săng-sĕk-màng-buŏ	大晦日
+Vĩnh Long	ヴィンロン省
+分類:Dṳ̆ng-huà Ìng-mìng Gê̤ṳng-huò-guók	Category:中華人民共和国
+Cāi-puŏi	段ボール
+分類:Giông-kŏng	Category:健康
+Hâ-cé	夏至
+分類:Sĕng-lī	Category:生理学
+Bóng-kăng-chió	便所
+分類:Â-muòng	Category:廈門
+Trojany	トロヤニ (マゾフシェ県)
+模板:Infobox color	Template:Infobox color
+Uòng Iòng-céng	王延政
+分類:Ā-ciŭ guók-gă	Category:アジアの国
+模板:User yue-2	Template:User zh-yue-2
+模板:User nan-2	Template:User zh-min-nan-2
+模板:User la	Template:User la
+分類:Ŭng-ciŭ	Category:温州
+分類:Huák-lŭk	Category:法律
+Sĭng-bô	嫁
+分類:Káh-gă	Category:客家
+Puòi-à̤	革靴
+分類:Bēng-guòng	Category:著作権法
+分類:Hók-ciŭ	Category:福州
+分類:Hók-gióng lĭk-sṳ̄	Category:福建省の歴史
+分類:Ôi-sĕng	Category:衛生
+分類:Dṳ̆ng-huà Mìng-guók	Category:中華民国
+分類:Hók-ciŭ-nè̤ng	Category:福州出身の人物
+分類:User cdo	Category:User cdo
+分類:User cdo-M	Category:User cdo-N
+模板:Image label begin	Template:Image label begin
+模板:Dṳ̆ng-huà Mìng-guók Hèng-céng-kṳ̆	Template:中華民国の行政区分
+Ĭ-mā	おばあさん
+分類:Hŭng-cūi	Category:風水
+分類:Sĕng-uăk	Category:生活
+Uòng-pŭng	ハチ
+分類:Sáng Làu	Category:劉氏
+分類:Sáng Sṳ̆-mā	Category:司馬氏
+模板:User vi	Template:User vi
+分類:Sáng Sŏng	Category:孫氏
+分類:Sáng Cò̤	Category:曹氏
+分類:User en-1	Category:User en-1
+分類:User de-1	Category:User de-1
+分類:Gă-sĭ-huă	Category:道具
+分類:Sáng Mò̤	Category:毛氏
+分類:Mìng-cŭk	Category:民族
+Dĕ̤ng-ĕu-guók	東甌
+Liù-giù	琉球諸島
+Nàng-uŏk	南越
+模板:User nan-3	Template:User zh-min-nan-3
+模板:User wuu	Template:User zh-wuu
+Sêu-săng-siŏh	寿山石
+Ngù-nèng	牛乳
+Iù-uōng-ĭk	柔遠駅
+Mī	米 (曖昧さ回避)
+Să̤-hù	西湖
+Mìng-ìng Săng-sĕk-lĕ̤k-sáng	久米三十六姓
+Gĭng-dáng	今日
+模組:Citation/CS1/Whitelist	モジュール:Citation/CS1/Whitelist
+Gŭng-ô-nguòng	公務員
+Hù-diĕk	チョウ
+模板:Hók-gióng	Template:福建省の行政区画
+模板:HideH	Template:Hideh
+Nguòng-siĕu-cáik	小正月
+模板:Infobox Language/genetic	Template:Infobox Language/genetic
+Dṳ̆ng-săng	中山
+Ngô-nguŏk-cáik	端午
+Chék-nguŏk-chék	七夕
+模組:Arguments	モジュール:Arguments
+特殊:最近其改變	特別:最近の更新
+模組:Citation/CS1	モジュール:Citation/CS1
+模組:Citation/CS1/Configuration	モジュール:Citation/CS1/Configuration
+模組:TableTools	モジュール:TableTools
+模組:HtmlBuilder	モジュール:HtmlBuilder
+模組:Coordinates	モジュール:Coordinates
+模組:Math	モジュール:Math
+模組:Infobox	モジュール:Infobox
+Dĕ̤ng-hāi	東海 (曖昧さ回避)
+Gê-nṳ̄	娼婦
+Cáu-gŭng	かまど神

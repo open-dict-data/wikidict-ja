@@ -1,0 +1,526 @@
+Afirka	アフリカ
+Japan	日本
+Norway	ノルウェー
+Ireland	アイルランド
+Hungariya	ハンガリー
+An Spàinn	スペイン
+Amurika	アメリカ合衆国
+Beljik	ベルギー
+Luksamburg	ルクセンブルク
+Duniya	地球
+Yan-adam	ヒト
+Finland	フィンランド
+Sweden	スウェーデン
+Denmark	デンマーク
+Poland	ポーランド
+Lithuania	リトアニア
+Italiya	イタリア
+Switzerland	スイス
+Austriya	オーストリア
+Greek	ギリシャ
+Turkiyya	トルコ
+Portugal	ポルトガル
+Turai	ヨーロッパ
+Asiya	アジア
+Amirka ta Arewa	北アメリカ
+Wikipedia	ウィキペディア
+Berlin	ベルリン
+Airbus	エアバス
+Na'ura	コンピュータ
+Yanar gizo	インターネット
+Barack Obama	バラク・オバマ
+Pariis	パリ
+Kenya	ケニア
+Ethiopia	エチオピア
+Zaki	ライオン
+Faransa	フランス
+Esperanto	エスペラント
+Kare	イヌ
+Birtaniya	イギリス
+Kyanwa	ネコ
+Sin	中華人民共和国
+Kifi	魚類
+Rasha	ロシア
+Teku	海
+São Paulo	サンパウロ
+Jamus	ドイツ
+Iceland	アイスランド
+Istoniya	エストニア
+Jirgin sama	飛行機
+Ɗaya	1
+Biyu	2
+Uku	3
+Huɗu	4
+Biyar	5
+Laitfiya	ラトビア
+Ukraniya	ウクライナ
+Kazech	チェコ
+Slofakiya	スロバキア
+Sloveniya	スロベニア
+MOldufiniya	モルドバ
+Romainiya	ルーマニア
+Bulgairiya	ブルガリア
+Masadoiniya	マケドニア共和国
+Albaniya	アルバニア
+Kroatiya	クロアチア
+Azerbaijan	アゼルバイジャン
+Andorra	アンドラ
+Cyprus	キプロス
+Georgia (country)	グルジア
+Kazakystan	カザフスタン
+Malta	マルタ
+Monaco	モナコ
+Montenegro	モンテネグロ
+Vatican	バチカン
+San Marino	サンマリノ
+Indonesiya	インドネシア
+Afirka ta kudu	南アフリカ共和国
+Aljeriya	アルジェリア
+Uzbekistan	ウズベキスタン
+Ruwa	水
+Chile	チリ
+Isa Almasihu	イエス・キリスト
+Singafora	シンガポール
+Ilmi	科学
+Liechtenstein	リヒテンシュタイン
+Hitler	アドルフ・ヒトラー
+Facebook	Facebook
+Baharain	バーレーン
+Armeniya	アルメニア
+Serbiya	セルビア
+Wata	月
+Santanbul	イスタンブル
+Asturaliya	オーストラリア
+Koriya ta Arewa	朝鮮民主主義人民共和国
+Kambodiya	カンボジア
+Musulunci	イスラム教
+Rana	太陽
+Angela Merkel	アンゲラ・メルケル
+Timor-Leste	東ティモール
+Duniyoyi	惑星
+Cadi	チャド
+Indiya	インド
+Mangolia	モンゴル国
+Dabba	動物
+Shuka	植物
+Kaza	ニワトリ
+Jersey	ジャージー
+Aladu	ブタ
+Iran	イラン
+Irak	イラク
+Isra'ila	イスラエル
+Yemen	イエメン
+Jordan	ヨルダン
+Kyrgystan	キルギス
+Kuwait	クウェート
+Laos	ラオス
+Lebanon	レバノン
+Maldives	モルディブ
+Maleziya	マレーシア
+Myanmar	ミャンマー
+Nepal	ネパール
+Oman	オマーン
+Pakistan	パキスタン
+Qatar	カタール
+Saudiyya	サウジアラビア
+Sri Lanka	スリランカ
+Siriya	シリア
+Tajikistan	タジキスタン
+Thailand	タイ王国
+Turkmenistan	トルクメニスタン
+Taraiyar larabawa	アラブ首長国連邦
+Vietnam	ベトナム
+Koriya ta Kudu	大韓民国
+Da Simpsons	ザ・シンプソンズ
+Afghanistan	アフガニスタン
+Bangladash	バングラデシュ
+Mali	マリ共和国
+Angola	アンゴラ
+Bhutan	ブータン
+Brunei	ブルネイ
+Filipin	フィリピン
+Togo	トーゴ
+Benin	ベナン
+Botswana	ボツワナ
+Burkina faso	ブルキナファソ
+Burundi	ブルンジ
+Jamhuriyar dimokuradiyya Kwango	コンゴ民主共和国
+Gine	ギニア
+Kameru	カメルーン
+Libya	リビア
+Muritaniya	モーリタニア
+Nijar	ニジェール
+Nijeriya	ナイジェリア
+Uganda	ウガンダ
+Senegal	セネガル
+Julius Caesar	ガイウス・ユリウス・カエサル
+Sudan	スーダン
+Majalisar Ɗinkin Duniya	国際連合
+Kofi Annan	コフィー・アナン
+Montevideo	モンテビデオ
+Biri	サル
+Augustus	アウグストゥス
+Gibraltar	ジブラルタル
+Mota	自動車
+Buenos Aires	ブエノスアイレス
+Abarba	パイナップル
+Zinedine Yazid Zidane	ジネディーヌ・ジダン
+Baibûl	聖書
+Gaskiyan Cocin Isa	真イエス教会
+Concepción, Chile	コンセプシオン (チリ)
+Końskowola	コィンスコヴォラ
+Maciji	ヘビ
+Kimiya	化学
+Lima	リマ
+Santiago de Chile	サンティアゴ (チリ)
+Osasco	オザスコ (サンパウロ州)
+Dong Hoi Filin	ドンホイ空港
+Curitiba	クリチバ
+Confucius	孔子
+Kiristancìì	キリスト教
+Nahiya	大陸
+Tsuntsu	鳥類
+Main Page	メインページ
+Saratov	サラトフ
+Bus	バス (交通機関)
+Åland	オーランド諸島
+Makkah	メッカ
+Canary Islands	カナリア諸島
+Category:Candidates for speedy deletion	Category:即時削除対象のページ
+Sahara	サハラ砂漠
+Kyautar Nobel	ノーベル賞
+Sauro	カ
+Raƙumi	ラクダ
+Giwa	ゾウ
+Ƙudan zuma	ハナバチ
+Margaret Thatcher	マーガレット・サッチャー
+Nelson Mandela	ネルソン・マンデラ
+Category:Fàransà	Category:フランス
+Hakkokin Yan-adam	人権
+Hong Kong	香港
+Rio de Janeiro	リオデジャネイロ
+Addini	宗教
+Muhammad	ムハンマド・イブン＝アブドゥッラーフ
+Isle of Man	マン島
+Ronald Reagan	ロナルド・レーガン
+Fernando Alonso	フェルナンド・アロンソ
+Bishiya	木
+APACHE	Apache HTTP Server
+Lissafi	数
+Masara	トウモロコシ
+Ƙasashen Duniya	国の一覧
+Dabbar beya	クマ
+Sankara	悪性腫瘍
+Kurãme	ろう者
+Polio	急性灰白髄炎
+Makaman nukiliya	核兵器
+Macau	マカオ
+Raƙumin dawa	キリン
+Template:Link FA	Template:Link FA
+Wikipedia:Community Portal	Wikipedia:井戸端
+Jimina	ダチョウ
+Tara	9
+Jaki	ロバ
+Tuje	ノガン科
+Jamhuriyar Sin	台湾
+Bakwai	7
+Takwas	8
+Dabbar rendiya	シカ
+Tafarnuwa	ニンニク
+Shida	6
+Moshchena	モシュチェナ
+Paltoga	パルトガ
+Selena	セレナ (歌手)
+Goma	10
+Guernsey	ガーンジー
+Kahuhu	ヤツガシラ
+Kyankyaso	ゴキブリ
+Galantoyi	シュバシコウ
+Kada	ワニ
+Zaƙami	シロバナヨウシュチョウセンアサガオ
+Hausawa	ハウサ人
+Mošovce	モショヴツェ
+Benazir Bhutto	ベーナズィール・ブットー
+Mahmoud Ahmadinejad	マフムード・アフマディーネジャード
+Dokokin nan goma	モーセの十戒
+Damisa	ヒョウ
+Ido	イド語
+Larabawa	アラブ人
+Madinah	マディーナ
+Gyaɗa	ラッカセイ
+Ɗari	100
+Hawainiya	カメレオン科
+Firinji	冷蔵庫
+Khomeini	ルーホッラー・ホメイニー
+Ɗaɗɗoya	バジリコ
+Zirin Gaza	ガザ地区
+Radio Studio 54 Network	Radio Studio 54 Network
+Ashirin	20
+Arbaʼin	40
+Palestin autonomija	パレスチナ自治政府
+Talatin	30
+Dubu	1000
+Desmond Tutu	デズモンド・ムピロ・ツツ
+Villeneuve-d'Ascq	ヴィルヌーヴ＝ダスク
+Tsibirin Bermuda	バミューダトライアングル
+Dabgi	ツチブタ
+Kotun Shari'ar Miyagun Laifuka	国際刑事裁判所
+Template:Commonscat	Template:Commonscat
+Afirnawan Amirka	アフリカ系アメリカ人
+Ƙwayoyin cuta na Ebola	エボラ出血熱
+Hausa	ハウサ語
+Ali Khamenei	アリー・ハーメネイー
+Sao Vang Filin	タインホア空港
+Sittin	60
+Tsamiya	タマリンド
+Kuɓewa	オクラ
+Rogo	キャッサバ
+Karkandan	クロサイ
+Cutar murar aladu	2009年新型インフルエンザの世界的流行
+Umaru Musa Yar'Adua	ウマル・ヤラドゥア
+Abbott (bakin dutse)	アボット (クレーター)
+Abbe (bakin dutse)	アッベ (クレーター)
+Tattalin arzikin duniya	金融危機
+Dila	キンイロジャッカル
+Balbela	アマサギ
+Rimi	カポック
+Zamfara	ザムファラ州
+Zariya	ザリア
+Zirman	トウゴマ
+Kuka	アフリカバオバブ
+Ɓauna	アフリカスイギュウ
+Alkama	パンコムギ
+Kwari	イエバエ
+Gweba	グアバ
+Zabo	ホロホロチョウ科
+Dage	ラーテル
+Herzegovina	ヘルツェゴヴィナ
+CFA franc ( sefar yammaci Afirka)	CFAフラン
+Kaduna	カドゥナ
+Boko Haram	ボコ・ハラム
+Jaffna	ジャフナ
+Maiduguri	マイドゥグリ
+Afifiya	カメ
+Gwaza	サトイモ
+Zogale	ワサビノキ
+Casaʼin	90
+Dumya	ツメバガン
+Batsiya	オリビ
+Benik Afobe	ベニク・アフォベ
+43 (adadan)	43
+Zawo	ジムナーカス
+Shamuwa	アオハシコウ
+Baba	コマツナギ属
+Dadis Mousa Camara	ムサ・ダディス・カマラ
+Mayen kifi	ヒメヤマセミ
+Agadez	アガデス
+Marek Grechuta	マレク・グレフタ
+Gauraka	カンムリヅル
+Kumurci	クロクビコブラ
+Matiyu	マタイによる福音書
+Kwara	クワラ州
+Julia Savicheva	ユーリヤ・サーヴィチェヴァ
+Tan Son Nhat Filin	タンソンニャット国際空港
+Babba da jaka	アフリカハゲコウ
+Waaken Santanbul	キマメ
+Jihar Katsina	カツィナ州
+Kano	カノ州
+Ybe	ヨベ州
+Tamanin	80
+Sabaʼin	70
+Hamsin	50
+Yanyawa	オグロスナギツネ
+Da Nang Filin	ダナン国際空港
+VietJet Air	ベトジェットエア
+51 (adadan)	51
+Ca Mau Filin	カマウ空港
+Help:Contents	Help:目次
+Hankaka	ムナジロガラス
+Sisita	セイキチョウ
+Kwallo	フットボール
+Jetstar Pacific Airlines	ジェットスター・パシフィック航空
+Aya	ショクヨウガヤツリ
+Category:Turkiyya	Category:トルコ
+Category:Afirka ta kudu	Category:南アフリカ共和国
+Category:Nijeriya	Category:ナイジェリア
+Category:Vietnam	Category:ベトナム
+Category:Tsuntsu	Category:鳥類
+Category:Shuka	Category:植物
+Category:Addini	Category:宗教
+Category:Duniya	Category:地球
+Hausa Bakwai	ハウサ諸王国
+LGBT hakkin a Afrika	アフリカにおけるLGBTの権利
+Shaho	鷲
+Riɗi	ゴマ
+Category:Stubs	Category:スタブ
+ESB Villeneuve-d'Ascq	ESB ヴィルヌーヴ＝ダスク
+Rukuɓu	ホナガイヌビユ
+Template:Tl	Template:Tl
+Template:Userbox	Template:Userbox
+Category:Ƙasā̀shē	Category:国
+Wikipedia:Administrators	Wikipedia:管理者
+Misra	エジプト
+Template:Bot	Template:Bot
+Kanada	カナダ
+Category:Slovakia	Category:スロバキア
+Category:Tūrai	Category:ヨーロッパ
+Template:Documentation	Template:Documentation
+Wikipedia:Community portal	Wikipedia:コミュニティ・ポータル
+Category:User languages	Category:言語別の利用者
+Sung Jae-ki	成在基
+Template:Softredirect	Template:Softredirect
+Template:Delete	Template:即時削除
+Category:Wikipedia	Category:ウィキペディア
+Wikipedia:General disclaimer	Wikipedia:免責事項
+Wikipedia:Statistics	Wikipedia:統計
+Template:Navbox	Template:Navbox
+Template:!	Template:!
+Template:=	Template:=
+Template:Navbar	Template:Tnavbar
+Template:Unicode	Template:Unicode
+Template:Col-break	Template:Col-break
+Template:Col-begin	Template:Col-begin
+Template:Col-end	Template:Col-end
+Wikipedia:Vital articles	Wikipedia:すべての言語版にあるべき項目の一覧
+Category:Afirka	Category:アフリカ
+Category:Adadan	Category:数
+Template:Babel	Template:Babel
+Template:Reflist	Template:Reflist
+Template:Stub	Template:Stub
+Template:User af-1	Template:User af-1
+Template:User als-1	Template:User als-1
+Template:User ar-1	Template:User ar-1
+Template:User ast-1	Template:User ast-1
+Template:User az	Template:User az
+Template:See also	Template:See also
+Template:User da-2	Template:User da-2
+Template:User da	Template:User da
+Template:User ca-1	Template:User ca-1
+Template:User be-2	Template:User be-2
+Template:User da-1	Template:User da-1
+Template:User cs-1	Template:User cs-1
+Template:User bg-1	Template:User bg-1
+Template:User de	Template:User de
+Template:User de-1	Template:User de-1
+Template:User el	Template:User el
+Template:User de-3	Template:User de-3
+Template:User en-3	Template:User en-3
+Template:User el-1	Template:User el-1
+Template:User en-1	Template:User en-1
+Template:User en-2	Template:User en-2
+Template:User en-4	Template:User en-4
+Template:User en	Template:User en
+Template:User de-2	Template:User de-2
+Template:User tr-2	Template:User tr-2
+Template:User tr	Template:User tr
+Category:Asiya	Category:アジア
+Category:User uk	Category:User uk
+Category:User uk-N	Category:User uk-N
+Template:Mod	Template:Mod
+Template:SIL	Template:Infobox Language/codelist
+Template:User uk	Template:User uk
+Template:ITA	Template:ITA
+Template:Wikivar	Template:Wikivar2
+Template:Country showdata	Template:Country showdata
+Template:Image label	Template:Image label
+Template:Infobox dot-com company	Template:Infobox dotcom company
+Template:Ambox	Template:Ambox
+Template:Infobox Country	Template:基礎情報 国
+Template:Documentation/docname	Template:Documentation/docname
+Template:Tmbox	Template:Tmbox
+Template:Cite journal	Template:Cite journal
+Category:User en-4	Category:User en-4
+Category:User en	Category:User en
+Category:User en-2	Category:User en-2
+Template:Infobox	Template:Infobox
+Template:Cite web	Template:Cite web
+Template:Ombox	Template:Ombox
+Template:Country data	Template:Country data
+Template:Pp-template	Template:Pp-template
+Template:Mbox templates	Template:Mbox templates
+Template:IPA	Template:IPA2
+Category:Amurika	Category:アメリカ
+Template:MONTHNAME	Template:MONTHNAME
+Template:Namespace detect	Template:Namespace detect
+Template:Country data Nigeria	Template:Country data Nigeria
+Template:Image label end	Template:Image label end
+Template:Tlx	Template:Tlx
+Template:Purge	Template:Purge
+Template:Sportivo	Template:Infobox sportsperson
+Template:Country flag2	Template:Flag2
+Kungiyar Agaji Ta Red Cross Ta Duniya	赤十字国際委員会
+Template:Image label small	Template:Image label small
+Template:Tūrai	Template:ヨーロッパ地図
+Template:Pp-meta	Template:Pp-meta
+Template:Mbox	Template:Mbox
+Template:Disambig	Template:Aimai
+Template:Dated maintenance category	Template:DMC
+Category:User az	Category:User az
+Category:User be	Category:User be
+Category:User cs-1	Category:User cs-1
+Category:User da-1	Category:User da-1
+Category:User ar-1	Category:User ar-1
+Category:User be-2	Category:User be-2
+Category:User da-2	Category:User da-2
+Category:User tr-2	Category:User tr-2
+Category:User af	Category:User af
+Category:User af-1	Category:User af-1
+Category:User als	Category:User als
+Category:User als-1	Category:User als-1
+Category:User ar	Category:User ar
+Category:User ast	Category:User ast
+Category:User ast-1	Category:User ast-1
+Category:User az-N	Category:User az-N
+Category:User bar	Category:User bar
+Category:User bar-1	Category:User bar-1
+Category:User bg	Category:User bg
+Category:User bg-1	Category:User bg-1
+Category:User ca	Category:User ca
+Category:User ca-1	Category:User ca-1
+Category:User cs	Category:User cs
+Category:User da	Category:User da
+Category:User de	Category:User de
+Category:User de-2	Category:User de-2
+Category:User de-3	Category:User de-3
+Category:User el	Category:User el
+Category:User el-1	Category:User el-1
+Category:User el-N	Category:User el-N
+Category:User en-3	Category:User en-3
+Category:User en-N	Category:User en-N
+Category:User ha	Category:User ha
+Category:User ha-N	Category:User ha-N
+Template:Nastaliq	Template:Script/Nastaliq
+Category:User tr	Category:User tr
+Category:User tr-N	Category:User tr-N
+Category:Bishiya	Category:木
+Template:As of	Template:As of
+Category:Kudi	Category:通貨
+Template:DecreasePositive	Template:DecreasePositive
+Category:Ingila kwallon kafa players	Category:イングランドのサッカー選手
+Category:Kifi	Category:魚類
+Category:Amfani	Category:果物
+Category:Dabba	Category:動物
+Kabewa	ペポカボチャ
+Iska	空気
+Template:FULLROOTPAGENAME	Template:FULLROOTPAGENAME
+Template:DMCA	Template:DMCA
+Trojany	トロヤニ (マゾフシェ県)
+Doya	ヤム
+Template:Image label begin	Template:Image label begin
+Template:Ns has subpages	Template:Ns has subpages
+Template:Ombox/core	Template:Ombox/core
+Category:User en-1	Category:User en-1
+Category:User de-1	Category:User de-1
+Category:User da-N	Category:User da-N
+Template:Start date	Template:Start date
+Module:Citation/CS1/Whitelist	モジュール:Citation/CS1/Whitelist
+Malan boɗe ido	チョウ
+Chuba Akpom	チュバ・アクポム
+Module:Convert	モジュール:Convert
+Template:Ambox/core	Template:Ambox/core
+Template:Tmbox/core	Template:Tmbox/core
+Special:RecentChanges	特別:最近の更新
+Module:Citation/CS1	モジュール:Citation/CS1
+Module:Citation/CS1/Configuration	モジュール:Citation/CS1/Configuration
+Module:InfoboxImage	モジュール:InfoboxImage
+Module:Infobox	モジュール:Infobox
